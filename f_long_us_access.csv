@@ -1,0 +1,62 @@
+country,code3,us_visa_free_flag,us_visa_free_label,alliance,membership
+United States,USA,1,Visa Free,NATO,1
+United Kingdom,GBR,1,Visa Free,NATO,1
+Türkiye,TUR,0,Not Visa Free,NATO,1
+Sweden,SWE,1,Visa Free,NATO,1
+Spain,ESP,1,Visa Free,NATO,1
+Slovenia,SVN,1,Visa Free,NATO,1
+Slovakia,SVK,1,Visa Free,NATO,1
+Romania,ROU,0,Not Visa Free,NATO,1
+Portugal,PRT,1,Visa Free,NATO,1
+Poland,POL,1,Visa Free,NATO,1
+Norway,NOR,1,Visa Free,NATO,1
+Netherlands,NLD,1,Visa Free,NATO,1
+Montenegro,MNE,0,Not Visa Free,NATO,1
+North Macedonia,MKD,0,Not Visa Free,NATO,1
+Luxembourg,LUX,1,Visa Free,NATO,1
+Lithuania,LTU,1,Visa Free,NATO,1
+Latvia,LVA,1,Visa Free,NATO,1
+Italy,ITA,1,Visa Free,NATO,1
+Iceland,ISL,1,Visa Free,NATO,1
+Hungary,HUN,1,Visa Free,NATO,1
+Greece,GRC,1,Visa Free,NATO,1
+Germany,DEU,1,Visa Free,NATO,1
+France,FRA,1,Visa Free,NATO,1
+Finland,FIN,1,Visa Free,NATO,1
+Estonia,EST,1,Visa Free,NATO,1
+Denmark,DNK,1,Visa Free,NATO,1
+Czechia,CZE,1,Visa Free,NATO,1
+Croatia,HRV,1,Visa Free,NATO,1
+Canada,CAN,1,Visa Free,NATO,1
+Bulgaria,BGR,0,Not Visa Free,NATO,1
+Belgium,BEL,1,Visa Free,NATO,1
+Albania,ALB,0,Not Visa Free,NATO,1
+Tajikistan,TJK,0,Not Visa Free,CSTO,1
+Russian Federation,RUS,0,Not Visa Free,CSTO,1
+Kyrgyzstan,KGZ,0,Not Visa Free,CSTO,1
+Kazakhstan,KAZ,0,Not Visa Free,CSTO,1
+Belarus,BLR,0,Not Visa Free,CSTO,1
+Armenia,ARM,0,Not Visa Free,CSTO,1
+Venezuela,VEN,0,Not Visa Free,TIAR,1
+Uruguay,URY,0,Not Visa Free,TIAR,1
+United States,USA,1,Visa Free,TIAR,1
+Suriname,SUR,0,Not Visa Free,TIAR,1
+Peru,PER,0,Not Visa Free,TIAR,1
+Panama,PAN,0,Not Visa Free,TIAR,1
+Nicaragua,NIC,0,Not Visa Free,TIAR,1
+Mexico,MEX,0,Not Visa Free,TIAR,1
+Jamaica,JAM,0,Not Visa Free,TIAR,1
+Honduras,HND,0,Not Visa Free,TIAR,1
+Haiti,HTI,0,Not Visa Free,TIAR,1
+Guyana,GUY,0,Not Visa Free,TIAR,1
+Guatemala,GTM,0,Not Visa Free,TIAR,1
+Ecuador,ECU,0,Not Visa Free,TIAR,1
+Dominican Republic,DOM,0,Not Visa Free,TIAR,1
+Cuba,CUB,0,Not Visa Free,TIAR,1
+Costa Rica,CRI,0,Not Visa Free,TIAR,1
+Colombia,COL,0,Not Visa Free,TIAR,1
+Chile,CHL,1,Visa Free,TIAR,1
+Brazil,BRA,0,Not Visa Free,TIAR,1
+Bolivia,BOL,0,Not Visa Free,TIAR,1
+Bahamas,BHS,0,Not Visa Free,TIAR,1
+Argentina,ARG,0,Not Visa Free,TIAR,1

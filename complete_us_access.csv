@@ -1,0 +1,200 @@
+code,country,us_visa_free_flag,code3,inc_group,us_visa_free_label,is_nato_member,is_csto_member,is_tiar_member
+PS,Palestinian Territory,0,PSE,Lower middle income,Not Visa Free,0,0,0
+AD,Andorra,1,AND,High income,Visa Free,0,0,0
+SM,San Marino,1,SMR,High income,Visa Free,0,0,0
+MC,Monaco,1,MCO,High income,Visa Free,0,0,0
+LI,Liechtenstein,1,LIE,High income,Visa Free,0,0,0
+ZW,Zimbabwe,0,ZWE,Lower middle income,Not Visa Free,0,0,0
+ZM,Zambia,0,ZMB,Lower middle income,Not Visa Free,0,0,0
+YE,Yemen,0,YEM,Low income,Not Visa Free,0,0,0
+VN,Vietnam,0,VNM,Lower middle income,Not Visa Free,0,0,0
+VE,Venezuela,0,VEN,Upper middle income,Not Visa Free,0,0,1
+VU,Vanuatu,0,VUT,Lower middle income,Not Visa Free,0,0,0
+UZ,Uzbekistan,0,UZB,Lower middle income,Not Visa Free,0,0,0
+UY,Uruguay,0,URY,High income,Not Visa Free,0,0,1
+US,United States,1,USA,High income,Visa Free,1,0,1
+GB,United Kingdom,1,GBR,High income,Visa Free,1,0,0
+AE,United Arab Emirates,0,ARE,High income,Not Visa Free,0,0,0
+UA,Ukraine,0,UKR,Upper middle income,Not Visa Free,0,0,0
+UG,Uganda,0,UGA,Low income,Not Visa Free,0,0,0
+TV,Tuvalu,0,TUV,Upper middle income,Not Visa Free,0,0,0
+TM,Turkmenistan,0,TKM,Upper middle income,Not Visa Free,0,0,0
+TR,Türkiye,0,TUR,Upper middle income,Not Visa Free,1,0,0
+TN,Tunisia,0,TUN,Lower middle income,Not Visa Free,0,0,0
+TT,Trinidad and Tobago,0,TTO,High income,Not Visa Free,0,0,0
+TO,Tonga,0,TON,Upper middle income,Not Visa Free,0,0,0
+TG,Togo,0,TGO,Low income,Not Visa Free,0,0,0
+TL,Timor-Leste,0,TLS,Lower middle income,Not Visa Free,0,0,0
+TH,Thailand,0,THA,Upper middle income,Not Visa Free,0,0,0
+TZ,Tanzania,0,TZA,Lower middle income,Not Visa Free,0,0,0
+TJ,Tajikistan,0,TJK,Lower middle income,Not Visa Free,0,1,0
+TW,Taiwan (Chinese Taipei),1,TWN,High income,Visa Free,0,0,0
+SY,Syria,0,SYR,Low income,Not Visa Free,0,0,0
+CH,Switzerland,1,CHE,High income,Visa Free,0,0,0
+SE,Sweden,1,SWE,High income,Visa Free,1,0,0
+SZ,eSwatini,0,SWZ,Lower middle income,Not Visa Free,0,0,0
+SR,Suriname,0,SUR,Upper middle income,Not Visa Free,0,0,1
+SD,Sudan,0,SDN,Low income,Not Visa Free,0,0,0
+VC,St. Vincent and the Grenadines,0,VCT,Upper middle income,Not Visa Free,0,0,0
+LC,St. Lucia,0,LCA,Upper middle income,Not Visa Free,0,0,0
+KN,St. Kitts and Nevis,0,KNA,High income,Not Visa Free,0,0,0
+LK,Sri Lanka,0,LKA,Lower middle income,Not Visa Free,0,0,0
+ES,Spain,1,ESP,High income,Visa Free,1,0,0
+SS,South Sudan,0,SSD,Low income,Not Visa Free,0,0,0
+KR,South Korea,1,KOR,High income,Visa Free,0,0,0
+ZA,South Africa,0,ZAF,Upper middle income,Not Visa Free,0,0,0
+SO,Somalia,0,SOM,Low income,Not Visa Free,0,0,0
+SB,Solomon Islands,0,SLB,Lower middle income,Not Visa Free,0,0,0
+SI,Slovenia,1,SVN,High income,Visa Free,1,0,0
+SK,Slovakia,1,SVK,High income,Visa Free,1,0,0
+SG,Singapore,1,SGP,High income,Visa Free,0,0,0
+SL,Sierra Leone,0,SLE,Low income,Not Visa Free,0,0,0
+SC,Seychelles,0,SYC,High income,Not Visa Free,0,0,0
+RS,Serbia,0,SRB,Upper middle income,Not Visa Free,0,0,0
+SN,Senegal,0,SEN,Lower middle income,Not Visa Free,0,0,0
+SA,Saudi Arabia,0,SAU,High income,Not Visa Free,0,0,0
+ST,Sao Tome and Principe,0,STP,Lower middle income,Not Visa Free,0,0,0
+WS,Samoa,0,WSM,Upper middle income,Not Visa Free,0,0,0
+RW,Rwanda,0,RWA,Low income,Not Visa Free,0,0,0
+RU,Russian Federation,0,RUS,High income,Not Visa Free,0,1,0
+RO,Romania,0,ROU,High income,Not Visa Free,1,0,0
+QA,Qatar,1,QAT,High income,Visa Free,0,0,0
+PT,Portugal,1,PRT,High income,Visa Free,1,0,0
+PL,Poland,1,POL,High income,Visa Free,1,0,0
+PH,Philippines,0,PHL,Lower middle income,Not Visa Free,0,0,0
+PE,Peru,0,PER,Upper middle income,Not Visa Free,0,0,1
+PY,Paraguay,0,PRY,Upper middle income,Not Visa Free,0,0,0
+PG,Papua New Guinea,0,PNG,Lower middle income,Not Visa Free,0,0,0
+PA,Panama,0,PAN,High income,Not Visa Free,0,0,1
+PW,Palau Islands,1,PLW,High income,Visa Free,0,0,0
+PK,Pakistan,0,PAK,Lower middle income,Not Visa Free,0,0,0
+OM,Oman,0,OMN,High income,Not Visa Free,0,0,0
+NO,Norway,1,NOR,High income,Visa Free,1,0,0
+KP,North Korea,0,PRK,Low income,Not Visa Free,0,0,0
+NG,Nigeria,0,NGA,Lower middle income,Not Visa Free,0,0,0
+NE,Niger,0,NER,Low income,Not Visa Free,0,0,0
+NI,Nicaragua,0,NIC,Lower middle income,Not Visa Free,0,0,1
+NZ,New Zealand,1,NZL,High income,Visa Free,0,0,0
+NL,Netherlands,1,NLD,High income,Visa Free,1,0,0
+NP,Nepal,0,NPL,Lower middle income,Not Visa Free,0,0,0
+NR,Nauru,0,NRU,High income,Not Visa Free,0,0,0
+NA,Namibia,0,NAM,Lower middle income,Not Visa Free,0,0,0
+MM,Myanmar,0,MMR,Lower middle income,Not Visa Free,0,0,0
+MZ,Mozambique,0,MOZ,Low income,Not Visa Free,0,0,0
+MA,Morocco,0,MAR,Lower middle income,Not Visa Free,0,0,0
+ME,Montenegro,0,MNE,Upper middle income,Not Visa Free,1,0,0
+MN,Mongolia,0,MNG,Upper middle income,Not Visa Free,0,0,0
+MD,Moldova,0,MDA,Upper middle income,Not Visa Free,0,0,0
+FM,Micronesia,1,FSM,Lower middle income,Visa Free,0,0,0
+MX,Mexico,0,MEX,Upper middle income,Not Visa Free,0,0,1
+MU,Mauritius,0,MUS,Upper middle income,Not Visa Free,0,0,0
+MR,Mauritania,0,MRT,Lower middle income,Not Visa Free,0,0,0
+MH,Marshall Islands,1,MHL,Upper middle income,Visa Free,0,0,0
+MT,Malta,1,MLT,High income,Visa Free,0,0,0
+ML,Mali,0,MLI,Low income,Not Visa Free,0,0,0
+MV,Maldives,0,MDV,Upper middle income,Not Visa Free,0,0,0
+MY,Malaysia,0,MYS,Upper middle income,Not Visa Free,0,0,0
+MW,Malawi,0,MWI,Low income,Not Visa Free,0,0,0
+MG,Madagascar,0,MDG,Low income,Not Visa Free,0,0,0
+MK,North Macedonia,0,MKD,Upper middle income,Not Visa Free,1,0,0
+MO,Macao (SAR China),0,MAC,High income,Not Visa Free,0,0,0
+LU,Luxembourg,1,LUX,High income,Visa Free,1,0,0
+LT,Lithuania,1,LTU,High income,Visa Free,1,0,0
+LY,Libya,0,LBY,Upper middle income,Not Visa Free,0,0,0
+LR,Liberia,0,LBR,Low income,Not Visa Free,0,0,0
+LS,Lesotho,0,LSO,Lower middle income,Not Visa Free,0,0,0
+LB,Lebanon,0,LBN,Lower middle income,Not Visa Free,0,0,0
+LV,Latvia,1,LVA,High income,Visa Free,1,0,0
+LA,Laos,0,LAO,Lower middle income,Not Visa Free,0,0,0
+KG,Kyrgyzstan,0,KGZ,Lower middle income,Not Visa Free,0,1,0
+KW,Kuwait,0,KWT,High income,Not Visa Free,0,0,0
+XK,Kosovo,0,KOS,High income,Not Visa Free,0,0,0
+XK,Kosovo,0,KOS,Upper middle income,Not Visa Free,0,0,0
+KI,Kiribati,0,KIR,Lower middle income,Not Visa Free,0,0,0
+KE,Kenya,0,KEN,Lower middle income,Not Visa Free,0,0,0
+KZ,Kazakhstan,0,KAZ,Upper middle income,Not Visa Free,0,1,0
+JO,Jordan,0,JOR,Lower middle income,Not Visa Free,0,0,0
+JP,Japan,1,JPN,High income,Visa Free,0,0,0
+JM,Jamaica,0,JAM,Upper middle income,Not Visa Free,0,0,1
+IT,Italy,1,ITA,High income,Visa Free,1,0,0
+IL,Israel,1,ISR,High income,Visa Free,0,0,0
+IE,Ireland,1,IRL,High income,Visa Free,0,0,0
+IQ,Iraq,0,IRQ,Upper middle income,Not Visa Free,0,0,0
+IR,Iran,0,IRN,Upper middle income,Not Visa Free,0,0,0
+ID,Indonesia,0,IDN,Upper middle income,Not Visa Free,0,0,0
+IN,India,0,IND,Lower middle income,Not Visa Free,0,0,0
+IS,Iceland,1,ISL,High income,Visa Free,1,0,0
+HU,Hungary,1,HUN,High income,Visa Free,1,0,0
+HK,Hong Kong (SAR China),0,HKG,High income,Not Visa Free,0,0,0
+HN,Honduras,0,HND,Lower middle income,Not Visa Free,0,0,1
+HT,Haiti,0,HTI,Lower middle income,Not Visa Free,0,0,1
+GY,Guyana,0,GUY,High income,Not Visa Free,0,0,1
+GW,Guinea-Bissau,0,GNB,Low income,Not Visa Free,0,0,0
+GN,Guinea,0,GIN,Lower middle income,Not Visa Free,0,0,0
+GT,Guatemala,0,GTM,Upper middle income,Not Visa Free,0,0,1
+GD,Grenada,0,GRD,Upper middle income,Not Visa Free,0,0,0
+GR,Greece,1,GRC,High income,Visa Free,1,0,0
+GH,Ghana,0,GHA,Lower middle income,Not Visa Free,0,0,0
+DE,Germany,1,DEU,High income,Visa Free,1,0,0
+GE,Georgia,0,GEO,Upper middle income,Not Visa Free,0,0,0
+GM,The Gambia,0,GMB,Low income,Not Visa Free,0,0,0
+GA,Gabon,0,GAB,Upper middle income,Not Visa Free,0,0,0
+FR,France,1,FRA,High income,Visa Free,1,0,0
+FI,Finland,1,FIN,High income,Visa Free,1,0,0
+FJ,Fiji,0,FJI,Upper middle income,Not Visa Free,0,0,0
+ET,Ethiopia,0,ETH,Low income,Not Visa Free,0,0,0
+EE,Estonia,1,EST,High income,Visa Free,1,0,0
+ER,Eritrea,0,ERI,Low income,Not Visa Free,0,0,0
+GQ,Equatorial Guinea,0,GNQ,Upper middle income,Not Visa Free,0,0,0
+SV,El Salvador,0,SLV,Upper middle income,Not Visa Free,0,0,0
+EG,Egypt,0,EGY,Lower middle income,Not Visa Free,0,0,0
+EC,Ecuador,0,ECU,Upper middle income,Not Visa Free,0,0,1
+DO,Dominican Republic,0,DOM,Upper middle income,Not Visa Free,0,0,1
+DM,Dominica,0,DMA,Upper middle income,Not Visa Free,0,0,0
+DJ,Djibouti,0,DJI,Lower middle income,Not Visa Free,0,0,0
+DK,Denmark,1,DNK,High income,Visa Free,1,0,0
+CZ,Czechia,1,CZE,High income,Visa Free,1,0,0
+CY,Cyprus,0,CYP,High income,Not Visa Free,0,0,0
+CU,Cuba,0,CUB,Upper middle income,Not Visa Free,0,0,1
+HR,Croatia,1,HRV,High income,Visa Free,1,0,0
+CI,Cote d'Ivoire,0,CIV,Lower middle income,Not Visa Free,0,0,0
+CR,Costa Rica,0,CRI,High income,Not Visa Free,0,0,1
+CD,Congo (Dem. Rep.),0,COD,Low income,Not Visa Free,0,0,0
+CG,Congo (Rep.),0,COG,Lower middle income,Not Visa Free,0,0,0
+KM,Comoro Islands,0,COM,Lower middle income,Not Visa Free,0,0,0
+CO,Colombia,0,COL,Upper middle income,Not Visa Free,0,0,1
+CN,China,0,CHN,Upper middle income,Not Visa Free,0,0,0
+CL,Chile,1,CHL,High income,Visa Free,0,0,1
+TD,Chad,0,TCD,Low income,Not Visa Free,0,0,0
+CF,Central African Republic,0,CAF,Low income,Not Visa Free,0,0,0
+CV,Cape Verde Islands,0,CPV,Upper middle income,Not Visa Free,0,0,0
+CA,Canada,1,CAN,High income,Visa Free,1,0,0
+CM,Cameroon,0,CMR,Lower middle income,Not Visa Free,0,0,0
+KH,Cambodia,0,KHM,Lower middle income,Not Visa Free,0,0,0
+BI,Burundi,0,BDI,Low income,Not Visa Free,0,0,0
+BF,Burkina Faso,0,BFA,Low income,Not Visa Free,0,0,0
+BG,Bulgaria,0,BGR,High income,Not Visa Free,1,0,0
+BN,Brunei,1,BRN,High income,Visa Free,0,0,0
+BR,Brazil,0,BRA,Upper middle income,Not Visa Free,0,0,1
+BW,Botswana,0,BWA,Upper middle income,Not Visa Free,0,0,0
+BA,Bosnia and Herzegovina,0,BIH,Upper middle income,Not Visa Free,0,0,0
+BO,Bolivia,0,BOL,Lower middle income,Not Visa Free,0,0,1
+BT,Bhutan,0,BTN,Lower middle income,Not Visa Free,0,0,0
+BJ,Benin,0,BEN,Lower middle income,Not Visa Free,0,0,0
+BZ,Belize,0,BLZ,Upper middle income,Not Visa Free,0,0,0
+BE,Belgium,1,BEL,High income,Visa Free,1,0,0
+BY,Belarus,0,BLR,Upper middle income,Not Visa Free,0,1,0
+BB,Barbados,0,BRB,High income,Not Visa Free,0,0,0
+BD,Bangladesh,0,BGD,Lower middle income,Not Visa Free,0,0,0
+BH,Bahrain,0,BHR,High income,Not Visa Free,0,0,0
+BS,Bahamas,0,BHS,High income,Not Visa Free,0,0,1
+AZ,Azerbaijan,0,AZE,Upper middle income,Not Visa Free,0,0,0
+AT,Austria,1,AUT,High income,Visa Free,0,0,0
+AU,Australia,1,AUS,High income,Visa Free,0,0,0
+AM,Armenia,0,ARM,Upper middle income,Not Visa Free,0,1,0
+AR,Argentina,0,ARG,Upper middle income,Not Visa Free,0,0,1
+AG,Antigua and Barbuda,0,ATG,High income,Not Visa Free,0,0,0
+AO,Angola,0,AGO,Lower middle income,Not Visa Free,0,0,0
+DZ,Algeria,0,DZA,Upper middle income,Not Visa Free,0,0,0
+AL,Albania,0,ALB,Upper middle income,Not Visa Free,1,0,0
+AF,Afghanistan,0,AFG,Low income,Not Visa Free,0,0,0

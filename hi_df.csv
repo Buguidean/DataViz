@@ -1,0 +1,69 @@
+code,country,us_visa_free_flag,code3,inc_group,us_visa_free_label,is_nato_member,is_csto_member,is_tiar_member
+AD,Andorra,1,AND,High income,Visa Free,0,0,0
+SM,San Marino,1,SMR,High income,Visa Free,0,0,0
+MC,Monaco,1,MCO,High income,Visa Free,0,0,0
+LI,Liechtenstein,1,LIE,High income,Visa Free,0,0,0
+UY,Uruguay,0,URY,High income,Not Visa Free,0,0,1
+US,United States,1,USA,High income,Visa Free,1,0,1
+GB,United Kingdom,1,GBR,High income,Visa Free,1,0,0
+AE,United Arab Emirates,0,ARE,High income,Not Visa Free,0,0,0
+TT,Trinidad and Tobago,0,TTO,High income,Not Visa Free,0,0,0
+TW,Taiwan (Chinese Taipei),1,TWN,High income,Visa Free,0,0,0
+CH,Switzerland,1,CHE,High income,Visa Free,0,0,0
+SE,Sweden,1,SWE,High income,Visa Free,1,0,0
+KN,St. Kitts and Nevis,0,KNA,High income,Not Visa Free,0,0,0
+ES,Spain,1,ESP,High income,Visa Free,1,0,0
+KR,South Korea,1,KOR,High income,Visa Free,0,0,0
+SI,Slovenia,1,SVN,High income,Visa Free,1,0,0
+SK,Slovakia,1,SVK,High income,Visa Free,1,0,0
+SG,Singapore,1,SGP,High income,Visa Free,0,0,0
+SC,Seychelles,0,SYC,High income,Not Visa Free,0,0,0
+SA,Saudi Arabia,0,SAU,High income,Not Visa Free,0,0,0
+RU,Russian Federation,0,RUS,High income,Not Visa Free,0,1,0
+RO,Romania,0,ROU,High income,Not Visa Free,1,0,0
+QA,Qatar,1,QAT,High income,Visa Free,0,0,0
+PT,Portugal,1,PRT,High income,Visa Free,1,0,0
+PL,Poland,1,POL,High income,Visa Free,1,0,0
+PA,Panama,0,PAN,High income,Not Visa Free,0,0,1
+PW,Palau Islands,1,PLW,High income,Visa Free,0,0,0
+OM,Oman,0,OMN,High income,Not Visa Free,0,0,0
+NO,Norway,1,NOR,High income,Visa Free,1,0,0
+NZ,New Zealand,1,NZL,High income,Visa Free,0,0,0
+NL,Netherlands,1,NLD,High income,Visa Free,1,0,0
+NR,Nauru,0,NRU,High income,Not Visa Free,0,0,0
+MT,Malta,1,MLT,High income,Visa Free,0,0,0
+MO,Macao (SAR China),0,MAC,High income,Not Visa Free,0,0,0
+LU,Luxembourg,1,LUX,High income,Visa Free,1,0,0
+LT,Lithuania,1,LTU,High income,Visa Free,1,0,0
+LV,Latvia,1,LVA,High income,Visa Free,1,0,0
+KW,Kuwait,0,KWT,High income,Not Visa Free,0,0,0
+XK,Kosovo,0,KOS,High income,Not Visa Free,0,0,0
+JP,Japan,1,JPN,High income,Visa Free,0,0,0
+IT,Italy,1,ITA,High income,Visa Free,1,0,0
+IL,Israel,1,ISR,High income,Visa Free,0,0,0
+IE,Ireland,1,IRL,High income,Visa Free,0,0,0
+IS,Iceland,1,ISL,High income,Visa Free,1,0,0
+HU,Hungary,1,HUN,High income,Visa Free,1,0,0
+HK,Hong Kong (SAR China),0,HKG,High income,Not Visa Free,0,0,0
+GY,Guyana,0,GUY,High income,Not Visa Free,0,0,1
+GR,Greece,1,GRC,High income,Visa Free,1,0,0
+DE,Germany,1,DEU,High income,Visa Free,1,0,0
+FR,France,1,FRA,High income,Visa Free,1,0,0
+FI,Finland,1,FIN,High income,Visa Free,1,0,0
+EE,Estonia,1,EST,High income,Visa Free,1,0,0
+DK,Denmark,1,DNK,High income,Visa Free,1,0,0
+CZ,Czechia,1,CZE,High income,Visa Free,1,0,0
+CY,Cyprus,0,CYP,High income,Not Visa Free,0,0,0
+HR,Croatia,1,HRV,High income,Visa Free,1,0,0
+CR,Costa Rica,0,CRI,High income,Not Visa Free,0,0,1
+CL,Chile,1,CHL,High income,Visa Free,0,0,1
+CA,Canada,1,CAN,High income,Visa Free,1,0,0
+BG,Bulgaria,0,BGR,High income,Not Visa Free,1,0,0
+BN,Brunei,1,BRN,High income,Visa Free,0,0,0
+BE,Belgium,1,BEL,High income,Visa Free,1,0,0
+BB,Barbados,0,BRB,High income,Not Visa Free,0,0,0
+BH,Bahrain,0,BHR,High income,Not Visa Free,0,0,0
+BS,Bahamas,0,BHS,High income,Not Visa Free,0,0,1
+AT,Austria,1,AUT,High income,Visa Free,0,0,0
+AU,Australia,1,AUS,High income,Visa Free,0,0,0
+AG,Antigua and Barbuda,0,ATG,High income,Not Visa Free,0,0,0

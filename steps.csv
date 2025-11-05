@@ -1,0 +1,2986 @@
+country,year,visa_free_count,prev_vfc,y0,y1,delta,sign
+Afghanistan,2007,17.0,12.0,12.0,17.0,5.0,Increase
+Afghanistan,2008,22.0,17.0,17.0,22.0,5.0,Increase
+Afghanistan,2009,24.0,22.0,22.0,24.0,2.0,Increase
+Afghanistan,2010,26.0,24.0,24.0,26.0,2.0,Increase
+Afghanistan,2011,24.0,26.0,26.0,24.0,-2.0,Decrease
+Afghanistan,2012,26.0,24.0,24.0,26.0,2.0,Increase
+Afghanistan,2013,28.0,26.0,26.0,28.0,2.0,Increase
+Afghanistan,2014,28.0,28.0,28.0,28.0,0.0,No change
+Afghanistan,2015,25.0,28.0,28.0,25.0,-3.0,Decrease
+Afghanistan,2016,25.0,25.0,25.0,25.0,0.0,No change
+Afghanistan,2017,24.0,25.0,25.0,24.0,-1.0,Decrease
+Afghanistan,2018,30.0,24.0,24.0,30.0,6.0,Increase
+Afghanistan,2019,25.0,30.0,30.0,25.0,-5.0,Decrease
+Afghanistan,2020,26.0,25.0,25.0,26.0,1.0,Increase
+Afghanistan,2021,26.0,26.0,26.0,26.0,0.0,No change
+Albania,2007,26.5,17.0,17.0,26.5,9.5,Increase
+Albania,2008,36.0,26.5,26.5,36.0,9.5,Increase
+Albania,2009,42.5,36.0,36.0,42.5,6.5,Increase
+Albania,2010,49.0,42.5,42.5,49.0,6.5,Increase
+Albania,2011,84.0,49.0,49.0,84.0,35.0,Increase
+Albania,2012,84.0,84.0,84.0,84.0,0.0,No change
+Albania,2013,88.0,84.0,84.0,88.0,4.0,Increase
+Albania,2014,91.0,88.0,88.0,91.0,3.0,Increase
+Albania,2015,94.0,91.0,91.0,94.0,3.0,Increase
+Albania,2016,98.0,94.0,94.0,98.0,4.0,Increase
+Albania,2017,98.0,98.0,98.0,98.0,0.0,No change
+Albania,2018,114.0,98.0,98.0,114.0,16.0,Increase
+Albania,2019,113.0,114.0,114.0,113.0,-1.0,Decrease
+Albania,2020,114.0,113.0,113.0,114.0,1.0,Increase
+Albania,2021,113.0,114.0,114.0,113.0,-1.0,Decrease
+Algeria,2007,29.5,23.0,23.0,29.5,6.5,Increase
+Algeria,2008,36.0,29.5,29.5,36.0,6.5,Increase
+Algeria,2009,42.0,36.0,36.0,42.0,6.0,Increase
+Algeria,2010,48.0,42.0,42.0,48.0,6.0,Increase
+Algeria,2011,46.0,48.0,48.0,46.0,-2.0,Decrease
+Algeria,2012,45.0,46.0,46.0,45.0,-1.0,Decrease
+Algeria,2013,47.0,45.0,45.0,47.0,2.0,Increase
+Algeria,2014,46.0,47.0,47.0,46.0,-1.0,Decrease
+Algeria,2015,45.0,46.0,46.0,45.0,-1.0,Decrease
+Algeria,2016,48.0,45.0,45.0,48.0,3.0,Increase
+Algeria,2017,48.0,48.0,48.0,48.0,0.0,No change
+Algeria,2018,50.0,48.0,48.0,50.0,2.0,Increase
+Algeria,2019,50.0,50.0,50.0,50.0,0.0,No change
+Algeria,2020,51.0,50.0,50.0,51.0,1.0,Increase
+Algeria,2021,52.0,51.0,51.0,52.0,1.0,Increase
+Andorra,2007,113.0,99.0,99.0,113.0,14.0,Increase
+Andorra,2008,127.0,113.0,113.0,127.0,14.0,Increase
+Andorra,2009,129.0,127.0,127.0,129.0,2.0,Increase
+Andorra,2010,131.0,129.0,129.0,131.0,2.0,Increase
+Andorra,2011,143.0,131.0,131.0,143.0,12.0,Increase
+Andorra,2012,140.0,143.0,143.0,140.0,-3.0,Decrease
+Andorra,2013,147.0,140.0,140.0,147.0,7.0,Increase
+Andorra,2014,148.0,147.0,147.0,148.0,1.0,Increase
+Andorra,2015,149.0,148.0,148.0,149.0,1.0,Increase
+Andorra,2016,152.0,149.0,149.0,152.0,3.0,Increase
+Andorra,2017,155.0,152.0,152.0,155.0,3.0,Increase
+Andorra,2018,168.0,155.0,155.0,168.0,13.0,Increase
+Andorra,2019,166.0,168.0,168.0,166.0,-2.0,Decrease
+Andorra,2020,167.0,166.0,166.0,167.0,1.0,Increase
+Andorra,2021,168.0,167.0,167.0,168.0,1.0,Increase
+Angola,2007,25.0,19.0,19.0,25.0,6.0,Increase
+Angola,2008,31.0,25.0,25.0,31.0,6.0,Increase
+Angola,2009,32.5,31.0,31.0,32.5,1.5,Increase
+Angola,2010,34.0,32.5,32.5,34.0,1.5,Increase
+Angola,2011,34.0,34.0,34.0,34.0,0.0,No change
+Angola,2012,37.0,34.0,34.0,37.0,3.0,Increase
+Angola,2013,40.0,37.0,37.0,40.0,3.0,Increase
+Angola,2014,42.0,40.0,40.0,42.0,2.0,Increase
+Angola,2015,40.0,42.0,42.0,40.0,-2.0,Decrease
+Angola,2016,45.0,40.0,40.0,45.0,5.0,Increase
+Angola,2017,45.0,45.0,45.0,45.0,0.0,No change
+Angola,2018,49.0,45.0,45.0,49.0,4.0,Increase
+Angola,2019,49.0,49.0,49.0,49.0,0.0,No change
+Angola,2020,50.0,49.0,49.0,50.0,1.0,Increase
+Angola,2021,50.0,50.0,50.0,50.0,0.0,No change
+Antigua and Barbuda,2007,72.5,63.0,63.0,72.5,9.5,Increase
+Antigua and Barbuda,2008,82.0,72.5,72.5,82.0,9.5,Increase
+Antigua and Barbuda,2009,100.5,82.0,82.0,100.5,18.5,Increase
+Antigua and Barbuda,2010,119.0,100.5,100.5,119.0,18.5,Increase
+Antigua and Barbuda,2011,128.0,119.0,119.0,128.0,9.0,Increase
+Antigua and Barbuda,2012,126.0,128.0,128.0,126.0,-2.0,Decrease
+Antigua and Barbuda,2013,130.0,126.0,126.0,130.0,4.0,Increase
+Antigua and Barbuda,2014,132.0,130.0,130.0,132.0,2.0,Increase
+Antigua and Barbuda,2015,133.0,132.0,132.0,133.0,1.0,Increase
+Antigua and Barbuda,2016,134.0,133.0,133.0,134.0,1.0,Increase
+Antigua and Barbuda,2017,136.0,134.0,134.0,136.0,2.0,Increase
+Antigua and Barbuda,2018,150.0,136.0,136.0,150.0,14.0,Increase
+Antigua and Barbuda,2019,149.0,150.0,150.0,149.0,-1.0,Decrease
+Antigua and Barbuda,2020,151.0,149.0,149.0,151.0,2.0,Increase
+Antigua and Barbuda,2021,150.0,151.0,151.0,150.0,-1.0,Decrease
+Argentina,2007,114.0,101.0,101.0,114.0,13.0,Increase
+Argentina,2008,127.0,114.0,114.0,127.0,13.0,Increase
+Argentina,2009,129.5,127.0,127.0,129.5,2.5,Increase
+Argentina,2010,132.0,129.5,129.5,132.0,2.5,Increase
+Argentina,2011,141.0,132.0,132.0,141.0,9.0,Increase
+Argentina,2012,140.0,141.0,141.0,140.0,-1.0,Decrease
+Argentina,2013,147.0,140.0,140.0,147.0,7.0,Increase
+Argentina,2014,150.0,147.0,147.0,150.0,3.0,Increase
+Argentina,2015,150.0,150.0,150.0,150.0,0.0,No change
+Argentina,2016,152.0,150.0,150.0,152.0,2.0,Increase
+Argentina,2017,154.0,152.0,152.0,154.0,2.0,Increase
+Argentina,2018,170.0,154.0,154.0,170.0,16.0,Increase
+Argentina,2019,170.0,170.0,170.0,170.0,0.0,No change
+Argentina,2020,170.0,170.0,170.0,170.0,0.0,No change
+Argentina,2021,170.0,170.0,170.0,170.0,0.0,No change
+Armenia,2007,34.5,23.0,23.0,34.5,11.5,Increase
+Armenia,2008,46.0,34.5,34.5,46.0,11.5,Increase
+Armenia,2009,48.5,46.0,46.0,48.5,2.5,Increase
+Armenia,2010,51.0,48.5,48.5,51.0,2.5,Increase
+Armenia,2011,51.0,51.0,51.0,51.0,0.0,No change
+Armenia,2012,52.0,51.0,51.0,52.0,1.0,Increase
+Armenia,2013,55.0,52.0,52.0,55.0,3.0,Increase
+Armenia,2014,55.0,55.0,55.0,55.0,0.0,No change
+Armenia,2015,52.0,55.0,55.0,52.0,-3.0,Decrease
+Armenia,2016,57.0,52.0,52.0,57.0,5.0,Increase
+Armenia,2017,58.0,57.0,57.0,58.0,1.0,Increase
+Armenia,2018,61.0,58.0,58.0,61.0,3.0,Increase
+Armenia,2019,60.0,61.0,61.0,60.0,-1.0,Decrease
+Armenia,2020,63.0,60.0,60.0,63.0,3.0,Increase
+Armenia,2021,64.0,63.0,63.0,64.0,1.0,Increase
+Australia,2007,135.5,120.0,120.0,135.5,15.5,Increase
+Australia,2008,151.0,135.5,135.5,151.0,15.5,Increase
+Australia,2009,154.0,151.0,151.0,154.0,3.0,Increase
+Australia,2010,157.0,154.0,154.0,157.0,3.0,Increase
+Australia,2011,166.0,157.0,157.0,166.0,9.0,Increase
+Australia,2012,163.0,166.0,166.0,163.0,-3.0,Decrease
+Australia,2013,167.0,163.0,163.0,167.0,4.0,Increase
+Australia,2014,168.0,167.0,167.0,168.0,1.0,Increase
+Australia,2015,168.0,168.0,168.0,168.0,0.0,No change
+Australia,2016,169.0,168.0,168.0,169.0,1.0,Increase
+Australia,2017,170.0,169.0,169.0,170.0,1.0,Increase
+Australia,2018,183.0,170.0,170.0,183.0,13.0,Increase
+Australia,2019,181.0,183.0,183.0,181.0,-2.0,Decrease
+Australia,2020,184.0,181.0,181.0,184.0,3.0,Increase
+Australia,2021,184.0,184.0,184.0,184.0,0.0,No change
+Austria,2007,139.0,125.0,125.0,139.0,14.0,Increase
+Austria,2008,153.0,139.0,139.0,153.0,14.0,Increase
+Austria,2009,155.5,153.0,153.0,155.5,2.5,Increase
+Austria,2010,158.0,155.5,155.5,158.0,2.5,Increase
+Austria,2011,168.0,158.0,158.0,168.0,10.0,Increase
+Austria,2012,163.0,168.0,168.0,163.0,-5.0,Decrease
+Austria,2013,168.0,163.0,163.0,168.0,5.0,Increase
+Austria,2014,171.0,168.0,168.0,171.0,3.0,Increase
+Austria,2015,169.0,171.0,171.0,169.0,-2.0,Decrease
+Austria,2016,173.0,169.0,169.0,173.0,4.0,Increase
+Austria,2017,173.0,173.0,173.0,173.0,0.0,No change
+Austria,2018,186.0,173.0,173.0,186.0,13.0,Increase
+Austria,2019,185.0,186.0,186.0,185.0,-1.0,Decrease
+Austria,2020,187.0,185.0,185.0,187.0,2.0,Increase
+Austria,2021,188.0,187.0,187.0,188.0,1.0,Increase
+Azerbaijan,2007,36.0,28.0,28.0,36.0,8.0,Increase
+Azerbaijan,2008,44.0,36.0,36.0,44.0,8.0,Increase
+Azerbaijan,2009,47.5,44.0,44.0,47.5,3.5,Increase
+Azerbaijan,2010,51.0,47.5,47.5,51.0,3.5,Increase
+Azerbaijan,2011,56.0,51.0,51.0,56.0,5.0,Increase
+Azerbaijan,2012,57.0,56.0,56.0,57.0,1.0,Increase
+Azerbaijan,2013,56.0,57.0,57.0,56.0,-1.0,Decrease
+Azerbaijan,2014,58.0,56.0,56.0,58.0,2.0,Increase
+Azerbaijan,2015,58.0,58.0,58.0,58.0,0.0,No change
+Azerbaijan,2016,62.0,58.0,58.0,62.0,4.0,Increase
+Azerbaijan,2017,64.0,62.0,62.0,64.0,2.0,Increase
+Azerbaijan,2018,66.0,64.0,64.0,66.0,2.0,Increase
+Azerbaijan,2019,66.0,66.0,66.0,66.0,0.0,No change
+Azerbaijan,2020,67.0,66.0,66.0,67.0,1.0,Increase
+Azerbaijan,2021,68.0,67.0,67.0,68.0,1.0,Increase
+Bahamas,2007,83.5,71.0,71.0,83.5,12.5,Increase
+Bahamas,2008,96.0,83.5,83.5,96.0,12.5,Increase
+Bahamas,2009,110.0,96.0,96.0,110.0,14.0,Increase
+Bahamas,2010,124.0,110.0,110.0,124.0,14.0,Increase
+Bahamas,2011,136.0,124.0,124.0,136.0,12.0,Increase
+Bahamas,2012,133.0,136.0,136.0,133.0,-3.0,Decrease
+Bahamas,2013,137.0,133.0,133.0,137.0,4.0,Increase
+Bahamas,2014,138.0,137.0,137.0,138.0,1.0,Increase
+Bahamas,2015,139.0,138.0,138.0,139.0,1.0,Increase
+Bahamas,2016,140.0,139.0,139.0,140.0,1.0,Increase
+Bahamas,2017,141.0,140.0,140.0,141.0,1.0,Increase
+Bahamas,2018,155.0,141.0,141.0,155.0,14.0,Increase
+Bahamas,2019,154.0,155.0,155.0,154.0,-1.0,Decrease
+Bahamas,2020,155.0,154.0,154.0,155.0,1.0,Increase
+Bahamas,2021,155.0,155.0,155.0,155.0,0.0,No change
+Bahrain,2007,45.5,38.0,38.0,45.5,7.5,Increase
+Bahrain,2008,53.0,45.5,45.5,53.0,7.5,Increase
+Bahrain,2009,60.0,53.0,53.0,60.0,7.0,Increase
+Bahrain,2010,67.0,60.0,60.0,67.0,7.0,Increase
+Bahrain,2011,65.0,67.0,67.0,65.0,-2.0,Decrease
+Bahrain,2012,66.0,65.0,65.0,66.0,1.0,Increase
+Bahrain,2013,69.0,66.0,66.0,69.0,3.0,Increase
+Bahrain,2014,69.0,69.0,69.0,69.0,0.0,No change
+Bahrain,2015,70.0,69.0,69.0,70.0,1.0,Increase
+Bahrain,2016,73.0,70.0,70.0,73.0,3.0,Increase
+Bahrain,2017,73.0,73.0,73.0,73.0,0.0,No change
+Bahrain,2018,81.0,73.0,73.0,81.0,8.0,Increase
+Bahrain,2019,81.0,81.0,81.0,81.0,0.0,No change
+Bahrain,2020,83.0,81.0,81.0,83.0,2.0,Increase
+Bahrain,2021,84.0,83.0,83.0,84.0,1.0,Increase
+Bangladesh,2007,33.5,28.0,28.0,33.5,5.5,Increase
+Bangladesh,2008,39.0,33.5,33.5,39.0,5.5,Increase
+Bangladesh,2009,40.5,39.0,39.0,40.5,1.5,Increase
+Bangladesh,2010,42.0,40.5,40.5,42.0,1.5,Increase
+Bangladesh,2011,39.0,42.0,42.0,39.0,-3.0,Decrease
+Bangladesh,2012,40.0,39.0,39.0,40.0,1.0,Increase
+Bangladesh,2013,41.0,40.0,40.0,41.0,1.0,Increase
+Bangladesh,2014,42.0,41.0,41.0,42.0,1.0,Increase
+Bangladesh,2015,40.0,42.0,42.0,40.0,-2.0,Decrease
+Bangladesh,2016,39.0,40.0,40.0,39.0,-1.0,Decrease
+Bangladesh,2017,38.0,39.0,39.0,38.0,-1.0,Decrease
+Bangladesh,2018,41.0,38.0,38.0,41.0,3.0,Increase
+Bangladesh,2019,40.0,41.0,41.0,40.0,-1.0,Decrease
+Bangladesh,2020,41.0,40.0,40.0,41.0,1.0,Increase
+Bangladesh,2021,40.0,41.0,41.0,40.0,-1.0,Decrease
+Barbados,2007,80.0,71.0,71.0,80.0,9.0,Increase
+Barbados,2008,89.0,80.0,80.0,89.0,9.0,Increase
+Barbados,2009,108.0,89.0,89.0,108.0,19.0,Increase
+Barbados,2010,127.0,108.0,108.0,127.0,19.0,Increase
+Barbados,2011,137.0,127.0,127.0,137.0,10.0,Increase
+Barbados,2012,135.0,137.0,137.0,135.0,-2.0,Decrease
+Barbados,2013,137.0,135.0,135.0,137.0,2.0,Increase
+Barbados,2014,138.0,137.0,137.0,138.0,1.0,Increase
+Barbados,2015,138.0,138.0,138.0,138.0,0.0,No change
+Barbados,2016,141.0,138.0,138.0,141.0,3.0,Increase
+Barbados,2017,143.0,141.0,141.0,143.0,2.0,Increase
+Barbados,2018,161.0,143.0,143.0,161.0,18.0,Increase
+Barbados,2019,159.0,161.0,161.0,159.0,-2.0,Decrease
+Barbados,2020,161.0,159.0,159.0,161.0,2.0,Increase
+Barbados,2021,161.0,161.0,161.0,161.0,0.0,No change
+Belarus,2007,40.5,32.0,32.0,40.5,8.5,Increase
+Belarus,2008,49.0,40.5,40.5,49.0,8.5,Increase
+Belarus,2009,52.5,49.0,49.0,52.5,3.5,Increase
+Belarus,2010,56.0,52.5,52.5,56.0,3.5,Increase
+Belarus,2011,57.0,56.0,56.0,57.0,1.0,Increase
+Belarus,2012,59.0,57.0,57.0,59.0,2.0,Increase
+Belarus,2013,61.0,59.0,59.0,61.0,2.0,Increase
+Belarus,2014,63.0,61.0,61.0,63.0,2.0,Increase
+Belarus,2015,62.0,63.0,63.0,62.0,-1.0,Decrease
+Belarus,2016,67.0,62.0,62.0,67.0,5.0,Increase
+Belarus,2017,67.0,67.0,67.0,67.0,0.0,No change
+Belarus,2018,77.0,67.0,67.0,77.0,10.0,Increase
+Belarus,2019,75.0,77.0,77.0,75.0,-2.0,Decrease
+Belarus,2020,75.0,75.0,75.0,75.0,0.0,No change
+Belarus,2021,78.0,75.0,75.0,78.0,3.0,Increase
+Belgium,2007,141.0,127.0,127.0,141.0,14.0,Increase
+Belgium,2008,155.0,141.0,141.0,155.0,14.0,Increase
+Belgium,2009,157.5,155.0,155.0,157.5,2.5,Increase
+Belgium,2010,160.0,157.5,157.5,160.0,2.5,Increase
+Belgium,2011,171.0,160.0,160.0,171.0,11.0,Increase
+Belgium,2012,167.0,171.0,171.0,167.0,-4.0,Decrease
+Belgium,2013,171.0,167.0,167.0,171.0,4.0,Increase
+Belgium,2014,172.0,171.0,171.0,172.0,1.0,Increase
+Belgium,2015,170.0,172.0,172.0,170.0,-2.0,Decrease
+Belgium,2016,174.0,170.0,170.0,174.0,4.0,Increase
+Belgium,2017,173.0,174.0,174.0,173.0,-1.0,Decrease
+Belgium,2018,185.0,173.0,173.0,185.0,12.0,Increase
+Belgium,2019,184.0,185.0,185.0,184.0,-1.0,Decrease
+Belgium,2020,185.0,184.0,184.0,185.0,1.0,Increase
+Belgium,2021,186.0,185.0,185.0,186.0,1.0,Increase
+Belize,2007,66.5,58.0,58.0,66.5,8.5,Increase
+Belize,2008,75.0,66.5,66.5,75.0,8.5,Increase
+Belize,2009,78.5,75.0,75.0,78.5,3.5,Increase
+Belize,2010,82.0,78.5,78.5,82.0,3.5,Increase
+Belize,2011,83.0,82.0,82.0,83.0,1.0,Increase
+Belize,2012,86.0,83.0,83.0,86.0,3.0,Increase
+Belize,2013,87.0,86.0,86.0,87.0,1.0,Increase
+Belize,2014,93.0,87.0,87.0,93.0,6.0,Increase
+Belize,2015,91.0,93.0,93.0,91.0,-2.0,Decrease
+Belize,2016,94.0,91.0,91.0,94.0,3.0,Increase
+Belize,2017,95.0,94.0,94.0,95.0,1.0,Increase
+Belize,2018,101.0,95.0,95.0,101.0,6.0,Increase
+Belize,2019,99.0,101.0,101.0,99.0,-2.0,Decrease
+Belize,2020,101.0,99.0,99.0,101.0,2.0,Increase
+Belize,2021,101.0,101.0,101.0,101.0,0.0,No change
+Benin,2007,41.5,36.0,36.0,41.5,5.5,Increase
+Benin,2008,47.0,41.5,41.5,47.0,5.5,Increase
+Benin,2009,50.5,47.0,47.0,50.5,3.5,Increase
+Benin,2010,54.0,50.5,50.5,54.0,3.5,Increase
+Benin,2011,53.0,54.0,54.0,53.0,-1.0,Decrease
+Benin,2012,55.0,53.0,53.0,55.0,2.0,Increase
+Benin,2013,55.0,55.0,55.0,55.0,0.0,No change
+Benin,2014,58.0,55.0,55.0,58.0,3.0,Increase
+Benin,2015,56.0,58.0,58.0,56.0,-2.0,Decrease
+Benin,2016,59.0,56.0,56.0,59.0,3.0,Increase
+Benin,2017,58.0,59.0,59.0,58.0,-1.0,Decrease
+Benin,2018,61.0,58.0,58.0,61.0,3.0,Increase
+Benin,2019,62.0,61.0,61.0,62.0,1.0,Increase
+Benin,2020,62.0,62.0,62.0,62.0,0.0,No change
+Benin,2021,61.0,62.0,62.0,61.0,-1.0,Decrease
+Bhutan,2007,27.5,19.0,19.0,27.5,8.5,Increase
+Bhutan,2008,36.0,27.5,27.5,36.0,8.5,Increase
+Bhutan,2009,40.0,36.0,36.0,40.0,4.0,Increase
+Bhutan,2010,44.0,40.0,40.0,44.0,4.0,Increase
+Bhutan,2011,44.0,44.0,44.0,44.0,0.0,No change
+Bhutan,2012,46.0,44.0,44.0,46.0,2.0,Increase
+Bhutan,2013,49.0,46.0,46.0,49.0,3.0,Increase
+Bhutan,2014,51.0,49.0,49.0,51.0,2.0,Increase
+Bhutan,2015,48.0,51.0,51.0,48.0,-3.0,Decrease
+Bhutan,2016,51.0,48.0,48.0,51.0,3.0,Increase
+Bhutan,2017,51.0,51.0,51.0,51.0,0.0,No change
+Bhutan,2018,55.0,51.0,51.0,55.0,4.0,Increase
+Bhutan,2019,52.0,55.0,55.0,52.0,-3.0,Decrease
+Bhutan,2020,53.0,52.0,52.0,53.0,1.0,Increase
+Bhutan,2021,52.0,53.0,53.0,52.0,-1.0,Decrease
+Bolivia,2007,74.0,83.0,83.0,74.0,-9.0,Decrease
+Bolivia,2008,65.0,74.0,74.0,65.0,-9.0,Decrease
+Bolivia,2009,63.5,65.0,65.0,63.5,-1.5,Decrease
+Bolivia,2010,62.0,63.5,63.5,62.0,-1.5,Decrease
+Bolivia,2011,67.0,62.0,62.0,67.0,5.0,Increase
+Bolivia,2012,69.0,67.0,67.0,69.0,2.0,Increase
+Bolivia,2013,73.0,69.0,69.0,73.0,4.0,Increase
+Bolivia,2014,74.0,73.0,73.0,74.0,1.0,Increase
+Bolivia,2015,71.0,74.0,74.0,71.0,-3.0,Decrease
+Bolivia,2016,72.0,71.0,71.0,72.0,1.0,Increase
+Bolivia,2017,75.0,72.0,72.0,75.0,3.0,Increase
+Bolivia,2018,79.0,75.0,75.0,79.0,4.0,Increase
+Bolivia,2019,78.0,79.0,79.0,78.0,-1.0,Decrease
+Bolivia,2020,78.0,78.0,78.0,78.0,0.0,No change
+Bolivia,2021,79.0,78.0,78.0,79.0,1.0,Increase
+Bosnia and Herzegovina,2007,32.5,25.0,25.0,32.5,7.5,Increase
+Bosnia and Herzegovina,2008,40.0,32.5,32.5,40.0,7.5,Increase
+Bosnia and Herzegovina,2009,46.5,40.0,40.0,46.5,6.5,Increase
+Bosnia and Herzegovina,2010,53.0,46.5,46.5,53.0,6.5,Increase
+Bosnia and Herzegovina,2011,87.0,53.0,53.0,87.0,34.0,Increase
+Bosnia and Herzegovina,2012,87.0,87.0,87.0,87.0,0.0,No change
+Bosnia and Herzegovina,2013,91.0,87.0,87.0,91.0,4.0,Increase
+Bosnia and Herzegovina,2014,95.0,91.0,91.0,95.0,4.0,Increase
+Bosnia and Herzegovina,2015,98.0,95.0,95.0,98.0,3.0,Increase
+Bosnia and Herzegovina,2016,101.0,98.0,98.0,101.0,3.0,Increase
+Bosnia and Herzegovina,2017,103.0,101.0,101.0,103.0,2.0,Increase
+Bosnia and Herzegovina,2018,118.0,103.0,103.0,118.0,15.0,Increase
+Bosnia and Herzegovina,2019,116.0,118.0,118.0,116.0,-2.0,Decrease
+Bosnia and Herzegovina,2020,117.0,116.0,116.0,117.0,1.0,Increase
+Bosnia and Herzegovina,2021,116.0,117.0,117.0,116.0,-1.0,Decrease
+Botswana,2007,53.5,48.0,48.0,53.5,5.5,Increase
+Botswana,2008,59.0,53.5,53.5,59.0,5.5,Increase
+Botswana,2009,64.0,59.0,59.0,64.0,5.0,Increase
+Botswana,2010,69.0,64.0,64.0,69.0,5.0,Increase
+Botswana,2011,68.0,69.0,69.0,68.0,-1.0,Decrease
+Botswana,2012,70.0,68.0,68.0,70.0,2.0,Increase
+Botswana,2013,70.0,70.0,70.0,70.0,0.0,No change
+Botswana,2014,73.0,70.0,70.0,73.0,3.0,Increase
+Botswana,2015,72.0,73.0,73.0,72.0,-1.0,Decrease
+Botswana,2016,72.0,72.0,72.0,72.0,0.0,No change
+Botswana,2017,74.0,72.0,72.0,74.0,2.0,Increase
+Botswana,2018,82.0,74.0,74.0,82.0,8.0,Increase
+Botswana,2019,83.0,82.0,82.0,83.0,1.0,Increase
+Botswana,2020,85.0,83.0,83.0,85.0,2.0,Increase
+Botswana,2021,86.0,85.0,85.0,86.0,1.0,Increase
+Brazil,2007,110.5,99.0,99.0,110.5,11.5,Increase
+Brazil,2008,122.0,110.5,110.5,122.0,11.5,Increase
+Brazil,2009,126.0,122.0,122.0,126.0,4.0,Increase
+Brazil,2010,130.0,126.0,126.0,130.0,4.0,Increase
+Brazil,2011,140.0,130.0,130.0,140.0,10.0,Increase
+Brazil,2012,141.0,140.0,140.0,141.0,1.0,Increase
+Brazil,2013,146.0,141.0,141.0,146.0,5.0,Increase
+Brazil,2014,146.0,146.0,146.0,146.0,0.0,No change
+Brazil,2015,148.0,146.0,146.0,148.0,2.0,Increase
+Brazil,2016,153.0,148.0,148.0,153.0,5.0,Increase
+Brazil,2017,156.0,153.0,153.0,156.0,3.0,Increase
+Brazil,2018,171.0,156.0,156.0,171.0,15.0,Increase
+Brazil,2019,170.0,171.0,171.0,170.0,-1.0,Decrease
+Brazil,2020,170.0,170.0,170.0,170.0,0.0,No change
+Brazil,2021,170.0,170.0,170.0,170.0,0.0,No change
+Brunei,2007,115.0,101.0,101.0,115.0,14.0,Increase
+Brunei,2008,129.0,115.0,115.0,129.0,14.0,Increase
+Brunei,2009,131.5,129.0,129.0,131.5,2.5,Increase
+Brunei,2010,134.0,131.5,131.5,134.0,2.5,Increase
+Brunei,2011,144.0,134.0,134.0,144.0,10.0,Increase
+Brunei,2012,139.0,144.0,144.0,139.0,-5.0,Decrease
+Brunei,2013,146.0,139.0,139.0,146.0,7.0,Increase
+Brunei,2014,150.0,146.0,146.0,150.0,4.0,Increase
+Brunei,2015,150.0,150.0,150.0,150.0,0.0,No change
+Brunei,2016,151.0,150.0,150.0,151.0,1.0,Increase
+Brunei,2017,152.0,151.0,151.0,152.0,1.0,Increase
+Brunei,2018,165.0,152.0,152.0,165.0,13.0,Increase
+Brunei,2019,165.0,165.0,165.0,165.0,0.0,No change
+Brunei,2020,166.0,165.0,165.0,166.0,1.0,Increase
+Brunei,2021,166.0,166.0,166.0,166.0,0.0,No change
+Bulgaria,2007,99.5,83.0,83.0,99.5,16.5,Increase
+Bulgaria,2008,116.0,99.5,99.5,116.0,16.5,Increase
+Bulgaria,2009,124.5,116.0,116.0,124.5,8.5,Increase
+Bulgaria,2010,133.0,124.5,124.5,133.0,8.5,Increase
+Bulgaria,2011,143.0,133.0,133.0,143.0,10.0,Increase
+Bulgaria,2012,137.0,143.0,143.0,137.0,-6.0,Decrease
+Bulgaria,2013,141.0,137.0,137.0,141.0,4.0,Increase
+Bulgaria,2014,149.0,141.0,141.0,149.0,8.0,Increase
+Bulgaria,2015,149.0,149.0,149.0,149.0,0.0,No change
+Bulgaria,2016,153.0,149.0,149.0,153.0,4.0,Increase
+Bulgaria,2017,154.0,153.0,153.0,154.0,1.0,Increase
+Bulgaria,2018,169.0,154.0,154.0,169.0,15.0,Increase
+Bulgaria,2019,170.0,169.0,169.0,170.0,1.0,Increase
+Bulgaria,2020,171.0,170.0,170.0,171.0,1.0,Increase
+Bulgaria,2021,173.0,171.0,171.0,173.0,2.0,Increase
+Burkina Faso,2007,39.5,35.0,35.0,39.5,4.5,Increase
+Burkina Faso,2008,44.0,39.5,39.5,44.0,4.5,Increase
+Burkina Faso,2009,47.5,44.0,44.0,47.5,3.5,Increase
+Burkina Faso,2010,51.0,47.5,47.5,51.0,3.5,Increase
+Burkina Faso,2011,51.0,51.0,51.0,51.0,0.0,No change
+Burkina Faso,2012,54.0,51.0,51.0,54.0,3.0,Increase
+Burkina Faso,2013,53.0,54.0,54.0,53.0,-1.0,Decrease
+Burkina Faso,2014,55.0,53.0,53.0,55.0,2.0,Increase
+Burkina Faso,2015,52.0,55.0,55.0,52.0,-3.0,Decrease
+Burkina Faso,2016,56.0,52.0,52.0,56.0,4.0,Increase
+Burkina Faso,2017,56.0,56.0,56.0,56.0,0.0,No change
+Burkina Faso,2018,57.0,56.0,56.0,57.0,1.0,Increase
+Burkina Faso,2019,58.0,57.0,57.0,58.0,1.0,Increase
+Burkina Faso,2020,59.0,58.0,58.0,59.0,1.0,Increase
+Burkina Faso,2021,58.0,59.0,59.0,58.0,-1.0,Decrease
+Burundi,2007,24.0,18.0,18.0,24.0,6.0,Increase
+Burundi,2008,30.0,24.0,24.0,30.0,6.0,Increase
+Burundi,2009,33.5,30.0,30.0,33.5,3.5,Increase
+Burundi,2010,37.0,33.5,33.5,37.0,3.5,Increase
+Burundi,2011,35.0,37.0,37.0,35.0,-2.0,Decrease
+Burundi,2012,40.0,35.0,35.0,40.0,5.0,Increase
+Burundi,2013,41.0,40.0,40.0,41.0,1.0,Increase
+Burundi,2014,42.0,41.0,41.0,42.0,1.0,Increase
+Burundi,2015,41.0,42.0,42.0,41.0,-1.0,Decrease
+Burundi,2016,42.0,41.0,41.0,42.0,1.0,Increase
+Burundi,2017,44.0,42.0,42.0,44.0,2.0,Increase
+Burundi,2018,46.0,44.0,44.0,46.0,2.0,Increase
+Burundi,2019,48.0,46.0,46.0,48.0,2.0,Increase
+Burundi,2020,50.0,48.0,48.0,50.0,2.0,Increase
+Burundi,2021,51.0,50.0,50.0,51.0,1.0,Increase
+Cambodia,2007,23.0,17.0,17.0,23.0,6.0,Increase
+Cambodia,2008,29.0,23.0,23.0,29.0,6.0,Increase
+Cambodia,2009,34.0,29.0,29.0,34.0,5.0,Increase
+Cambodia,2010,39.0,34.0,34.0,39.0,5.0,Increase
+Cambodia,2011,40.0,39.0,39.0,40.0,1.0,Increase
+Cambodia,2012,42.0,40.0,40.0,42.0,2.0,Increase
+Cambodia,2013,47.0,42.0,42.0,47.0,5.0,Increase
+Cambodia,2014,50.0,47.0,47.0,50.0,3.0,Increase
+Cambodia,2015,47.0,50.0,50.0,47.0,-3.0,Decrease
+Cambodia,2016,50.0,47.0,47.0,50.0,3.0,Increase
+Cambodia,2017,48.0,50.0,50.0,48.0,-2.0,Decrease
+Cambodia,2018,54.0,48.0,48.0,54.0,6.0,Increase
+Cambodia,2019,53.0,54.0,54.0,53.0,-1.0,Decrease
+Cambodia,2020,54.0,53.0,53.0,54.0,1.0,Increase
+Cambodia,2021,53.0,54.0,54.0,53.0,-1.0,Decrease
+Cameroon,2007,31.5,26.0,26.0,31.5,5.5,Increase
+Cameroon,2008,37.0,31.5,31.5,37.0,5.5,Increase
+Cameroon,2009,39.5,37.0,37.0,39.5,2.5,Increase
+Cameroon,2010,42.0,39.5,39.5,42.0,2.5,Increase
+Cameroon,2011,38.0,42.0,42.0,38.0,-4.0,Decrease
+Cameroon,2012,39.0,38.0,38.0,39.0,1.0,Increase
+Cameroon,2013,44.0,39.0,39.0,44.0,5.0,Increase
+Cameroon,2014,46.0,44.0,44.0,46.0,2.0,Increase
+Cameroon,2015,44.0,46.0,46.0,44.0,-2.0,Decrease
+Cameroon,2016,45.0,44.0,44.0,45.0,1.0,Increase
+Cameroon,2017,45.0,45.0,45.0,45.0,0.0,No change
+Cameroon,2018,48.0,45.0,45.0,48.0,3.0,Increase
+Cameroon,2019,49.0,48.0,48.0,49.0,1.0,Increase
+Cameroon,2020,49.0,49.0,49.0,49.0,0.0,No change
+Cameroon,2021,50.0,49.0,49.0,50.0,1.0,Increase
+Canada,2007,139.5,125.0,125.0,139.5,14.5,Increase
+Canada,2008,154.0,139.5,139.5,154.0,14.5,Increase
+Canada,2009,155.5,154.0,154.0,155.5,1.5,Increase
+Canada,2010,157.0,155.5,155.5,157.0,1.5,Increase
+Canada,2011,164.0,157.0,157.0,164.0,7.0,Increase
+Canada,2012,163.0,164.0,164.0,163.0,-1.0,Decrease
+Canada,2013,170.0,163.0,163.0,170.0,7.0,Increase
+Canada,2014,173.0,170.0,170.0,173.0,3.0,Increase
+Canada,2015,170.0,173.0,173.0,170.0,-3.0,Decrease
+Canada,2016,172.0,170.0,170.0,172.0,2.0,Increase
+Canada,2017,171.0,172.0,172.0,171.0,-1.0,Decrease
+Canada,2018,185.0,171.0,171.0,185.0,14.0,Increase
+Canada,2019,184.0,185.0,185.0,184.0,-1.0,Decrease
+Canada,2020,183.0,184.0,184.0,183.0,-1.0,Decrease
+Canada,2021,184.0,183.0,183.0,184.0,1.0,Increase
+Cape Verde Islands,2007,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2008,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2009,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2010,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2011,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2012,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2013,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2014,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2015,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2016,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2017,0.0,0.0,0.0,0.0,0.0,No change
+Cape Verde Islands,2018,65.0,0.0,0.0,65.0,65.0,Increase
+Cape Verde Islands,2019,66.0,65.0,65.0,66.0,1.0,Increase
+Cape Verde Islands,2020,66.0,66.0,66.0,66.0,0.0,No change
+Cape Verde Islands,2021,66.0,66.0,66.0,66.0,0.0,No change
+Central African Republic,2007,32.5,28.0,28.0,32.5,4.5,Increase
+Central African Republic,2008,37.0,32.5,32.5,37.0,4.5,Increase
+Central African Republic,2009,41.5,37.0,37.0,41.5,4.5,Increase
+Central African Republic,2010,46.0,41.5,41.5,46.0,4.5,Increase
+Central African Republic,2011,44.0,46.0,46.0,44.0,-2.0,Decrease
+Central African Republic,2012,47.0,44.0,44.0,47.0,3.0,Increase
+Central African Republic,2013,49.0,47.0,47.0,49.0,2.0,Increase
+Central African Republic,2014,48.0,49.0,49.0,48.0,-1.0,Decrease
+Central African Republic,2015,44.0,48.0,48.0,44.0,-4.0,Decrease
+Central African Republic,2016,48.0,44.0,44.0,48.0,4.0,Increase
+Central African Republic,2017,46.0,48.0,48.0,46.0,-2.0,Decrease
+Central African Republic,2018,49.0,46.0,46.0,49.0,3.0,Increase
+Central African Republic,2019,51.0,49.0,49.0,51.0,2.0,Increase
+Central African Republic,2020,52.0,51.0,51.0,52.0,1.0,Increase
+Central African Republic,2021,52.0,52.0,52.0,52.0,0.0,No change
+Chad,2007,0.0,0.0,0.0,0.0,0.0,No change
+Chad,2008,0.0,0.0,0.0,0.0,0.0,No change
+Chad,2009,0.0,0.0,0.0,0.0,0.0,No change
+Chad,2010,0.0,0.0,0.0,0.0,0.0,No change
+Chad,2011,41.0,0.0,0.0,41.0,41.0,Increase
+Chad,2012,43.0,41.0,41.0,43.0,2.0,Increase
+Chad,2013,46.0,43.0,43.0,46.0,3.0,Increase
+Chad,2014,47.0,46.0,46.0,47.0,1.0,Increase
+Chad,2015,47.0,47.0,47.0,47.0,0.0,No change
+Chad,2016,49.0,47.0,47.0,49.0,2.0,Increase
+Chad,2017,51.0,49.0,49.0,51.0,2.0,Increase
+Chad,2018,53.0,51.0,51.0,53.0,2.0,Increase
+Chad,2019,53.0,53.0,53.0,53.0,0.0,No change
+Chad,2020,53.0,53.0,53.0,53.0,0.0,No change
+Chad,2021,53.0,53.0,53.0,53.0,0.0,No change
+Chile,2007,118.0,109.0,109.0,118.0,9.0,Increase
+Chile,2008,127.0,118.0,118.0,127.0,9.0,Increase
+Chile,2009,129.0,127.0,127.0,129.0,2.0,Increase
+Chile,2010,131.0,129.0,129.0,131.0,2.0,Increase
+Chile,2011,141.0,131.0,131.0,141.0,10.0,Increase
+Chile,2012,137.0,141.0,141.0,137.0,-4.0,Decrease
+Chile,2013,141.0,137.0,137.0,141.0,4.0,Increase
+Chile,2014,149.0,141.0,141.0,149.0,8.0,Increase
+Chile,2015,150.0,149.0,149.0,150.0,1.0,Increase
+Chile,2016,155.0,150.0,150.0,155.0,5.0,Increase
+Chile,2017,157.0,155.0,155.0,157.0,2.0,Increase
+Chile,2018,174.0,157.0,157.0,174.0,17.0,Increase
+Chile,2019,174.0,174.0,174.0,174.0,0.0,No change
+Chile,2020,174.0,174.0,174.0,174.0,0.0,No change
+Chile,2021,174.0,174.0,174.0,174.0,0.0,No change
+China,2007,25.5,18.0,18.0,25.5,7.5,Increase
+China,2008,33.0,25.5,25.5,33.0,7.5,Increase
+China,2009,35.5,33.0,33.0,35.5,2.5,Increase
+China,2010,38.0,35.5,35.5,38.0,2.5,Increase
+China,2011,40.0,38.0,38.0,40.0,2.0,Increase
+China,2012,41.0,40.0,40.0,41.0,1.0,Increase
+China,2013,44.0,41.0,41.0,44.0,3.0,Increase
+China,2014,45.0,44.0,44.0,45.0,1.0,Increase
+China,2015,45.0,45.0,45.0,45.0,0.0,No change
+China,2016,50.0,45.0,45.0,50.0,5.0,Increase
+China,2017,51.0,50.0,50.0,51.0,1.0,Increase
+China,2018,74.0,51.0,51.0,74.0,23.0,Increase
+China,2019,71.0,74.0,74.0,71.0,-3.0,Decrease
+China,2020,75.0,71.0,71.0,75.0,4.0,Increase
+China,2021,79.0,75.0,75.0,79.0,4.0,Increase
+Colombia,2007,40.0,32.0,32.0,40.0,8.0,Increase
+Colombia,2008,48.0,40.0,40.0,48.0,8.0,Increase
+Colombia,2009,51.0,48.0,48.0,51.0,3.0,Increase
+Colombia,2010,54.0,51.0,51.0,54.0,3.0,Increase
+Colombia,2011,54.0,54.0,54.0,54.0,0.0,No change
+Colombia,2012,59.0,54.0,54.0,59.0,5.0,Increase
+Colombia,2013,63.0,59.0,59.0,63.0,4.0,Increase
+Colombia,2014,66.0,63.0,63.0,66.0,3.0,Increase
+Colombia,2015,66.0,66.0,66.0,66.0,0.0,No change
+Colombia,2016,103.0,66.0,66.0,103.0,37.0,Increase
+Colombia,2017,107.0,103.0,103.0,107.0,4.0,Increase
+Colombia,2018,127.0,107.0,107.0,127.0,20.0,Increase
+Colombia,2019,126.0,127.0,127.0,126.0,-1.0,Decrease
+Colombia,2020,127.0,126.0,126.0,127.0,1.0,Increase
+Colombia,2021,129.0,127.0,127.0,129.0,2.0,Increase
+Comoro Islands,2007,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2008,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2009,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2010,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2011,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2012,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2013,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2014,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2015,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2016,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2017,0.0,0.0,0.0,0.0,0.0,No change
+Comoro Islands,2018,52.0,0.0,0.0,52.0,52.0,Increase
+Comoro Islands,2019,53.0,52.0,52.0,53.0,1.0,Increase
+Comoro Islands,2020,53.0,53.0,53.0,53.0,0.0,No change
+Comoro Islands,2021,53.0,53.0,53.0,53.0,0.0,No change
+Congo (Dem. Rep.),2007,0.0,0.0,0.0,0.0,0.0,No change
+Congo (Dem. Rep.),2008,0.0,0.0,0.0,0.0,0.0,No change
+Congo (Dem. Rep.),2009,0.0,0.0,0.0,0.0,0.0,No change
+Congo (Dem. Rep.),2010,36.0,0.0,0.0,36.0,36.0,Increase
+Congo (Dem. Rep.),2011,34.0,36.0,36.0,34.0,-2.0,Decrease
+Congo (Dem. Rep.),2012,38.0,34.0,34.0,38.0,4.0,Increase
+Congo (Dem. Rep.),2013,39.0,38.0,38.0,39.0,1.0,Increase
+Congo (Dem. Rep.),2014,40.0,39.0,39.0,40.0,1.0,Increase
+Congo (Dem. Rep.),2015,37.0,40.0,40.0,37.0,-3.0,Decrease
+Congo (Dem. Rep.),2016,39.0,37.0,37.0,39.0,2.0,Increase
+Congo (Dem. Rep.),2017,40.0,39.0,39.0,40.0,1.0,Increase
+Congo (Dem. Rep.),2018,43.0,40.0,40.0,43.0,3.0,Increase
+Congo (Dem. Rep.),2019,42.0,43.0,43.0,42.0,-1.0,Decrease
+Congo (Dem. Rep.),2020,42.0,42.0,42.0,42.0,0.0,No change
+Congo (Dem. Rep.),2021,42.0,42.0,42.0,42.0,0.0,No change
+Congo (Rep.),2007,31.5,27.0,27.0,31.5,4.5,Increase
+Congo (Rep.),2008,36.0,31.5,31.5,36.0,4.5,Increase
+Congo (Rep.),2009,39.0,36.0,36.0,39.0,3.0,Increase
+Congo (Rep.),2010,42.0,39.0,39.0,42.0,3.0,Increase
+Congo (Rep.),2011,39.0,42.0,42.0,39.0,-3.0,Decrease
+Congo (Rep.),2012,42.0,39.0,39.0,42.0,3.0,Increase
+Congo (Rep.),2013,44.0,42.0,42.0,44.0,2.0,Increase
+Congo (Rep.),2014,44.0,44.0,44.0,44.0,0.0,No change
+Congo (Rep.),2015,41.0,44.0,44.0,41.0,-3.0,Decrease
+Congo (Rep.),2016,44.0,41.0,41.0,44.0,3.0,Increase
+Congo (Rep.),2017,43.0,44.0,44.0,43.0,-1.0,Decrease
+Congo (Rep.),2018,47.0,43.0,43.0,47.0,4.0,Increase
+Congo (Rep.),2019,47.0,47.0,47.0,47.0,0.0,No change
+Congo (Rep.),2020,48.0,47.0,47.0,48.0,1.0,Increase
+Congo (Rep.),2021,48.0,48.0,48.0,48.0,0.0,No change
+Costa Rica,2007,101.5,95.0,95.0,101.5,6.5,Increase
+Costa Rica,2008,108.0,101.5,101.5,108.0,6.5,Increase
+Costa Rica,2009,111.0,108.0,108.0,111.0,3.0,Increase
+Costa Rica,2010,114.0,111.0,111.0,114.0,3.0,Increase
+Costa Rica,2011,120.0,114.0,114.0,120.0,6.0,Increase
+Costa Rica,2012,117.0,120.0,120.0,117.0,-3.0,Decrease
+Costa Rica,2013,122.0,117.0,117.0,122.0,5.0,Increase
+Costa Rica,2014,125.0,122.0,122.0,125.0,3.0,Increase
+Costa Rica,2015,127.0,125.0,125.0,127.0,2.0,Increase
+Costa Rica,2016,131.0,127.0,127.0,131.0,4.0,Increase
+Costa Rica,2017,134.0,131.0,131.0,134.0,3.0,Increase
+Costa Rica,2018,149.0,134.0,134.0,149.0,15.0,Increase
+Costa Rica,2019,150.0,149.0,149.0,150.0,1.0,Increase
+Costa Rica,2020,150.0,150.0,150.0,150.0,0.0,No change
+Costa Rica,2021,149.0,150.0,150.0,149.0,-1.0,Decrease
+Cote d'Ivoire,2007,0.0,0.0,0.0,0.0,0.0,No change
+Cote d'Ivoire,2008,0.0,0.0,0.0,0.0,0.0,No change
+Cote d'Ivoire,2009,0.0,0.0,0.0,0.0,0.0,No change
+Cote d'Ivoire,2010,0.0,0.0,0.0,0.0,0.0,No change
+Cote d'Ivoire,2011,52.0,0.0,0.0,52.0,52.0,Increase
+Cote d'Ivoire,2012,54.0,52.0,52.0,54.0,2.0,Increase
+Cote d'Ivoire,2013,55.0,54.0,54.0,55.0,1.0,Increase
+Cote d'Ivoire,2014,56.0,55.0,55.0,56.0,1.0,Increase
+Cote d'Ivoire,2015,54.0,56.0,56.0,54.0,-2.0,Decrease
+Cote d'Ivoire,2016,56.0,54.0,54.0,56.0,2.0,Increase
+Cote d'Ivoire,2017,53.0,56.0,56.0,53.0,-3.0,Decrease
+Cote d'Ivoire,2018,56.0,53.0,53.0,56.0,3.0,Increase
+Cote d'Ivoire,2019,57.0,56.0,56.0,57.0,1.0,Increase
+Cote d'Ivoire,2020,57.0,57.0,57.0,57.0,0.0,No change
+Cote d'Ivoire,2021,56.0,57.0,57.0,56.0,-1.0,Decrease
+Croatia,2007,96.0,84.0,84.0,96.0,12.0,Increase
+Croatia,2008,108.0,96.0,96.0,108.0,12.0,Increase
+Croatia,2009,112.0,108.0,108.0,112.0,4.0,Increase
+Croatia,2010,116.0,112.0,112.0,116.0,4.0,Increase
+Croatia,2011,122.0,116.0,116.0,122.0,6.0,Increase
+Croatia,2012,119.0,122.0,122.0,119.0,-3.0,Decrease
+Croatia,2013,129.0,119.0,119.0,129.0,10.0,Increase
+Croatia,2014,138.0,129.0,129.0,138.0,9.0,Increase
+Croatia,2015,141.0,138.0,138.0,141.0,3.0,Increase
+Croatia,2016,149.0,141.0,141.0,149.0,8.0,Increase
+Croatia,2017,153.0,149.0,149.0,153.0,4.0,Increase
+Croatia,2018,169.0,153.0,153.0,169.0,16.0,Increase
+Croatia,2019,168.0,169.0,169.0,168.0,-1.0,Decrease
+Croatia,2020,171.0,168.0,168.0,171.0,3.0,Increase
+Croatia,2021,172.0,171.0,171.0,172.0,1.0,Increase
+Cuba,2007,34.5,27.0,27.0,34.5,7.5,Increase
+Cuba,2008,42.0,34.5,34.5,42.0,7.5,Increase
+Cuba,2009,45.5,42.0,42.0,45.5,3.5,Increase
+Cuba,2010,49.0,45.5,45.5,49.0,3.5,Increase
+Cuba,2011,52.0,49.0,49.0,52.0,3.0,Increase
+Cuba,2012,56.0,52.0,52.0,56.0,4.0,Increase
+Cuba,2013,61.0,56.0,56.0,61.0,5.0,Increase
+Cuba,2014,61.0,61.0,61.0,61.0,0.0,No change
+Cuba,2015,59.0,61.0,61.0,59.0,-2.0,Decrease
+Cuba,2016,59.0,59.0,59.0,59.0,0.0,No change
+Cuba,2017,60.0,59.0,59.0,60.0,1.0,Increase
+Cuba,2018,65.0,60.0,60.0,65.0,5.0,Increase
+Cuba,2019,65.0,65.0,65.0,65.0,0.0,No change
+Cuba,2020,64.0,65.0,65.0,64.0,-1.0,Decrease
+Cuba,2021,63.0,64.0,64.0,63.0,-1.0,Decrease
+Cyprus,2007,126.0,113.0,113.0,126.0,13.0,Increase
+Cyprus,2008,139.0,126.0,126.0,139.0,13.0,Increase
+Cyprus,2009,140.5,139.0,139.0,140.5,1.5,Increase
+Cyprus,2010,142.0,140.5,140.5,142.0,1.5,Increase
+Cyprus,2011,150.0,142.0,142.0,150.0,8.0,Increase
+Cyprus,2012,146.0,150.0,150.0,146.0,-4.0,Decrease
+Cyprus,2013,151.0,146.0,146.0,151.0,5.0,Increase
+Cyprus,2014,157.0,151.0,151.0,157.0,6.0,Increase
+Cyprus,2015,157.0,157.0,157.0,157.0,0.0,No change
+Cyprus,2016,159.0,157.0,157.0,159.0,2.0,Increase
+Cyprus,2017,158.0,159.0,159.0,158.0,-1.0,Decrease
+Cyprus,2018,173.0,158.0,158.0,173.0,15.0,Increase
+Cyprus,2019,173.0,173.0,173.0,173.0,0.0,No change
+Cyprus,2020,174.0,173.0,173.0,174.0,1.0,Increase
+Cyprus,2021,176.0,174.0,174.0,176.0,2.0,Increase
+Czechia,2007,114.5,98.0,98.0,114.5,16.5,Increase
+Czechia,2008,131.0,114.5,114.5,131.0,16.5,Increase
+Czechia,2009,136.5,131.0,131.0,136.5,5.5,Increase
+Czechia,2010,142.0,136.5,136.5,142.0,5.5,Increase
+Czechia,2011,155.0,142.0,142.0,155.0,13.0,Increase
+Czechia,2012,152.0,155.0,155.0,152.0,-3.0,Decrease
+Czechia,2013,155.0,152.0,152.0,155.0,3.0,Increase
+Czechia,2014,162.0,155.0,155.0,162.0,7.0,Increase
+Czechia,2015,163.0,162.0,162.0,163.0,1.0,Increase
+Czechia,2016,167.0,163.0,163.0,167.0,4.0,Increase
+Czechia,2017,168.0,167.0,167.0,168.0,1.0,Increase
+Czechia,2018,182.0,168.0,168.0,182.0,14.0,Increase
+Czechia,2019,183.0,182.0,182.0,183.0,1.0,Increase
+Czechia,2020,184.0,183.0,183.0,184.0,1.0,Increase
+Czechia,2021,185.0,184.0,184.0,185.0,1.0,Increase
+Denmark,2007,143.5,130.0,130.0,143.5,13.5,Increase
+Denmark,2008,157.0,143.5,143.5,157.0,13.5,Increase
+Denmark,2009,160.5,157.0,157.0,160.5,3.5,Increase
+Denmark,2010,164.0,160.5,160.5,164.0,3.5,Increase
+Denmark,2011,173.0,164.0,164.0,173.0,9.0,Increase
+Denmark,2012,169.0,173.0,173.0,169.0,-4.0,Decrease
+Denmark,2013,172.0,169.0,169.0,172.0,3.0,Increase
+Denmark,2014,173.0,172.0,172.0,173.0,1.0,Increase
+Denmark,2015,171.0,173.0,173.0,171.0,-2.0,Decrease
+Denmark,2016,174.0,171.0,171.0,174.0,3.0,Increase
+Denmark,2017,174.0,174.0,174.0,174.0,0.0,No change
+Denmark,2018,187.0,174.0,174.0,187.0,13.0,Increase
+Denmark,2019,187.0,187.0,187.0,187.0,0.0,No change
+Denmark,2020,187.0,187.0,187.0,187.0,0.0,No change
+Denmark,2021,188.0,187.0,187.0,188.0,1.0,Increase
+Djibouti,2007,23.5,19.0,19.0,23.5,4.5,Increase
+Djibouti,2008,28.0,23.5,23.5,28.0,4.5,Increase
+Djibouti,2009,31.5,28.0,28.0,31.5,3.5,Increase
+Djibouti,2010,35.0,31.5,31.5,35.0,3.5,Increase
+Djibouti,2011,35.0,35.0,35.0,35.0,0.0,No change
+Djibouti,2012,37.0,35.0,35.0,37.0,2.0,Increase
+Djibouti,2013,40.0,37.0,37.0,40.0,3.0,Increase
+Djibouti,2014,42.0,40.0,40.0,42.0,2.0,Increase
+Djibouti,2015,41.0,42.0,42.0,41.0,-1.0,Decrease
+Djibouti,2016,44.0,41.0,41.0,44.0,3.0,Increase
+Djibouti,2017,40.0,44.0,44.0,40.0,-4.0,Decrease
+Djibouti,2018,45.0,40.0,40.0,45.0,5.0,Increase
+Djibouti,2019,46.0,45.0,45.0,46.0,1.0,Increase
+Djibouti,2020,47.0,46.0,46.0,47.0,1.0,Increase
+Djibouti,2021,47.0,47.0,47.0,47.0,0.0,No change
+Dominica,2007,61.5,52.0,52.0,61.5,9.5,Increase
+Dominica,2008,71.0,61.5,61.5,71.0,9.5,Increase
+Dominica,2009,75.5,71.0,71.0,75.5,4.5,Increase
+Dominica,2010,80.0,75.5,75.5,80.0,4.5,Increase
+Dominica,2011,82.0,80.0,80.0,82.0,2.0,Increase
+Dominica,2012,85.0,82.0,82.0,85.0,3.0,Increase
+Dominica,2013,87.0,85.0,85.0,87.0,2.0,Increase
+Dominica,2014,91.0,87.0,87.0,91.0,4.0,Increase
+Dominica,2015,113.0,91.0,91.0,113.0,22.0,Increase
+Dominica,2016,119.0,113.0,113.0,119.0,6.0,Increase
+Dominica,2017,119.0,119.0,119.0,119.0,0.0,No change
+Dominica,2018,137.0,119.0,119.0,137.0,18.0,Increase
+Dominica,2019,137.0,137.0,137.0,137.0,0.0,No change
+Dominica,2020,141.0,137.0,137.0,141.0,4.0,Increase
+Dominica,2021,143.0,141.0,141.0,143.0,2.0,Increase
+Dominican Republic,2007,34.0,25.0,25.0,34.0,9.0,Increase
+Dominican Republic,2008,43.0,34.0,34.0,43.0,9.0,Increase
+Dominican Republic,2009,46.5,43.0,43.0,46.5,3.5,Increase
+Dominican Republic,2010,50.0,46.5,46.5,50.0,3.5,Increase
+Dominican Republic,2011,48.0,50.0,50.0,48.0,-2.0,Decrease
+Dominican Republic,2012,50.0,48.0,48.0,50.0,2.0,Increase
+Dominican Republic,2013,53.0,50.0,50.0,53.0,3.0,Increase
+Dominican Republic,2014,53.0,53.0,53.0,53.0,0.0,No change
+Dominican Republic,2015,51.0,53.0,53.0,51.0,-2.0,Decrease
+Dominican Republic,2016,54.0,51.0,51.0,54.0,3.0,Increase
+Dominican Republic,2017,56.0,54.0,54.0,56.0,2.0,Increase
+Dominican Republic,2018,66.0,56.0,56.0,66.0,10.0,Increase
+Dominican Republic,2019,64.0,66.0,66.0,64.0,-2.0,Decrease
+Dominican Republic,2020,66.0,64.0,64.0,66.0,2.0,Increase
+Dominican Republic,2021,69.0,66.0,66.0,69.0,3.0,Increase
+Ecuador,2007,49.5,41.0,41.0,49.5,8.5,Increase
+Ecuador,2008,58.0,49.5,49.5,58.0,8.5,Increase
+Ecuador,2009,61.5,58.0,58.0,61.5,3.5,Increase
+Ecuador,2010,65.0,61.5,61.5,65.0,3.5,Increase
+Ecuador,2011,69.0,65.0,65.0,69.0,4.0,Increase
+Ecuador,2012,70.0,69.0,69.0,70.0,1.0,Increase
+Ecuador,2013,74.0,70.0,70.0,74.0,4.0,Increase
+Ecuador,2014,78.0,74.0,74.0,78.0,4.0,Increase
+Ecuador,2015,78.0,78.0,78.0,78.0,0.0,No change
+Ecuador,2016,81.0,78.0,78.0,81.0,3.0,Increase
+Ecuador,2017,83.0,81.0,81.0,83.0,2.0,Increase
+Ecuador,2018,93.0,83.0,83.0,93.0,10.0,Increase
+Ecuador,2019,91.0,93.0,93.0,91.0,-2.0,Decrease
+Ecuador,2020,91.0,91.0,91.0,91.0,0.0,No change
+Ecuador,2021,91.0,91.0,91.0,91.0,0.0,No change
+Egypt,2007,0.0,0.0,0.0,0.0,0.0,No change
+Egypt,2008,0.0,0.0,0.0,0.0,0.0,No change
+Egypt,2009,0.0,0.0,0.0,0.0,0.0,No change
+Egypt,2010,0.0,0.0,0.0,0.0,0.0,No change
+Egypt,2011,41.0,0.0,0.0,41.0,41.0,Increase
+Egypt,2012,44.0,41.0,41.0,44.0,3.0,Increase
+Egypt,2013,47.0,44.0,44.0,47.0,3.0,Increase
+Egypt,2014,48.0,47.0,47.0,48.0,1.0,Increase
+Egypt,2015,47.0,48.0,48.0,47.0,-1.0,Decrease
+Egypt,2016,49.0,47.0,47.0,49.0,2.0,Increase
+Egypt,2017,48.0,49.0,49.0,48.0,-1.0,Decrease
+Egypt,2018,49.0,48.0,48.0,49.0,1.0,Increase
+Egypt,2019,49.0,49.0,49.0,49.0,0.0,No change
+Egypt,2020,50.0,49.0,49.0,50.0,1.0,Increase
+Egypt,2021,51.0,50.0,50.0,51.0,1.0,Increase
+El Salvador,2007,89.5,81.0,81.0,89.5,8.5,Increase
+El Salvador,2008,98.0,89.5,89.5,98.0,8.5,Increase
+El Salvador,2009,101.5,98.0,98.0,101.5,3.5,Increase
+El Salvador,2010,105.0,101.5,101.5,105.0,3.5,Increase
+El Salvador,2011,113.0,105.0,105.0,113.0,8.0,Increase
+El Salvador,2012,111.0,113.0,113.0,111.0,-2.0,Decrease
+El Salvador,2013,113.0,111.0,111.0,113.0,2.0,Increase
+El Salvador,2014,112.0,113.0,113.0,112.0,-1.0,Decrease
+El Salvador,2015,112.0,112.0,112.0,112.0,0.0,No change
+El Salvador,2016,115.0,112.0,112.0,115.0,3.0,Increase
+El Salvador,2017,120.0,115.0,115.0,120.0,5.0,Increase
+El Salvador,2018,137.0,120.0,120.0,137.0,17.0,Increase
+El Salvador,2019,134.0,137.0,137.0,134.0,-3.0,Decrease
+El Salvador,2020,134.0,134.0,134.0,134.0,0.0,No change
+El Salvador,2021,133.0,134.0,134.0,133.0,-1.0,Decrease
+Equatorial Guinea,2007,25.0,20.0,20.0,25.0,5.0,Increase
+Equatorial Guinea,2008,30.0,25.0,25.0,30.0,5.0,Increase
+Equatorial Guinea,2009,33.5,30.0,30.0,33.5,3.5,Increase
+Equatorial Guinea,2010,37.0,33.5,33.5,37.0,3.5,Increase
+Equatorial Guinea,2011,37.0,37.0,37.0,37.0,0.0,No change
+Equatorial Guinea,2012,40.0,37.0,37.0,40.0,3.0,Increase
+Equatorial Guinea,2013,42.0,40.0,40.0,42.0,2.0,Increase
+Equatorial Guinea,2014,43.0,42.0,42.0,43.0,1.0,Increase
+Equatorial Guinea,2015,42.0,43.0,43.0,42.0,-1.0,Decrease
+Equatorial Guinea,2016,45.0,42.0,42.0,45.0,3.0,Increase
+Equatorial Guinea,2017,46.0,45.0,45.0,46.0,1.0,Increase
+Equatorial Guinea,2018,52.0,46.0,46.0,52.0,6.0,Increase
+Equatorial Guinea,2019,52.0,52.0,52.0,52.0,0.0,No change
+Equatorial Guinea,2020,55.0,52.0,52.0,55.0,3.0,Increase
+Equatorial Guinea,2021,55.0,55.0,55.0,55.0,0.0,No change
+Eritrea,2007,24.5,20.0,20.0,24.5,4.5,Increase
+Eritrea,2008,29.0,24.5,24.5,29.0,4.5,Increase
+Eritrea,2009,31.0,29.0,29.0,31.0,2.0,Increase
+Eritrea,2010,33.0,31.0,31.0,33.0,2.0,Increase
+Eritrea,2011,32.0,33.0,33.0,32.0,-1.0,Decrease
+Eritrea,2012,34.0,32.0,32.0,34.0,2.0,Increase
+Eritrea,2013,36.0,34.0,34.0,36.0,2.0,Increase
+Eritrea,2014,38.0,36.0,36.0,38.0,2.0,Increase
+Eritrea,2015,34.0,38.0,38.0,34.0,-4.0,Decrease
+Eritrea,2016,37.0,34.0,34.0,37.0,3.0,Increase
+Eritrea,2017,35.0,37.0,37.0,35.0,-2.0,Decrease
+Eritrea,2018,39.0,35.0,35.0,39.0,4.0,Increase
+Eritrea,2019,40.0,39.0,39.0,40.0,1.0,Increase
+Eritrea,2020,42.0,40.0,40.0,42.0,2.0,Increase
+Eritrea,2021,43.0,42.0,42.0,43.0,1.0,Increase
+Estonia,2007,109.0,91.0,91.0,109.0,18.0,Increase
+Estonia,2008,127.0,109.0,109.0,127.0,18.0,Increase
+Estonia,2009,133.5,127.0,127.0,133.5,6.5,Increase
+Estonia,2010,140.0,133.5,133.5,140.0,6.5,Increase
+Estonia,2011,153.0,140.0,140.0,153.0,13.0,Increase
+Estonia,2012,149.0,153.0,153.0,149.0,-4.0,Decrease
+Estonia,2013,152.0,149.0,149.0,152.0,3.0,Increase
+Estonia,2014,157.0,152.0,152.0,157.0,5.0,Increase
+Estonia,2015,158.0,157.0,157.0,158.0,1.0,Increase
+Estonia,2016,162.0,158.0,158.0,162.0,4.0,Increase
+Estonia,2017,164.0,162.0,162.0,164.0,2.0,Increase
+Estonia,2018,178.0,164.0,164.0,178.0,14.0,Increase
+Estonia,2019,179.0,178.0,178.0,179.0,1.0,Increase
+Estonia,2020,179.0,179.0,179.0,179.0,0.0,No change
+Estonia,2021,181.0,179.0,179.0,181.0,2.0,Increase
+Ethiopia,2007,23.5,18.0,18.0,23.5,5.5,Increase
+Ethiopia,2008,29.0,23.5,23.5,29.0,5.5,Increase
+Ethiopia,2009,31.5,29.0,29.0,31.5,2.5,Increase
+Ethiopia,2010,34.0,31.5,31.5,34.0,2.5,Increase
+Ethiopia,2011,34.0,34.0,34.0,34.0,0.0,No change
+Ethiopia,2012,37.0,34.0,34.0,37.0,3.0,Increase
+Ethiopia,2013,41.0,37.0,37.0,41.0,4.0,Increase
+Ethiopia,2014,39.0,41.0,41.0,39.0,-2.0,Decrease
+Ethiopia,2015,35.0,39.0,39.0,35.0,-4.0,Decrease
+Ethiopia,2016,37.0,35.0,35.0,37.0,2.0,Increase
+Ethiopia,2017,37.0,37.0,37.0,37.0,0.0,No change
+Ethiopia,2018,42.0,37.0,37.0,42.0,5.0,Increase
+Ethiopia,2019,42.0,42.0,42.0,42.0,0.0,No change
+Ethiopia,2020,44.0,42.0,42.0,44.0,2.0,Increase
+Ethiopia,2021,45.0,44.0,44.0,45.0,1.0,Increase
+Fiji,2007,56.5,47.0,47.0,56.5,9.5,Increase
+Fiji,2008,66.0,56.5,56.5,66.0,9.5,Increase
+Fiji,2009,69.0,66.0,66.0,69.0,3.0,Increase
+Fiji,2010,72.0,69.0,69.0,72.0,3.0,Increase
+Fiji,2011,76.0,72.0,72.0,76.0,4.0,Increase
+Fiji,2012,77.0,76.0,76.0,77.0,1.0,Increase
+Fiji,2013,78.0,77.0,77.0,78.0,1.0,Increase
+Fiji,2014,81.0,78.0,78.0,81.0,3.0,Increase
+Fiji,2015,80.0,81.0,81.0,80.0,-1.0,Decrease
+Fiji,2016,81.0,80.0,80.0,81.0,1.0,Increase
+Fiji,2017,79.0,81.0,81.0,79.0,-2.0,Decrease
+Fiji,2018,90.0,79.0,79.0,90.0,11.0,Increase
+Fiji,2019,88.0,90.0,90.0,88.0,-2.0,Decrease
+Fiji,2020,88.0,88.0,88.0,88.0,0.0,No change
+Fiji,2021,88.0,88.0,88.0,88.0,0.0,No change
+Finland,2007,143.0,130.0,130.0,143.0,13.0,Increase
+Finland,2008,156.0,143.0,143.0,156.0,13.0,Increase
+Finland,2009,159.0,156.0,156.0,159.0,3.0,Increase
+Finland,2010,162.0,159.0,159.0,162.0,3.0,Increase
+Finland,2011,173.0,162.0,162.0,173.0,11.0,Increase
+Finland,2012,168.0,173.0,173.0,168.0,-5.0,Decrease
+Finland,2013,173.0,168.0,168.0,173.0,5.0,Increase
+Finland,2014,174.0,173.0,173.0,174.0,1.0,Increase
+Finland,2015,172.0,174.0,174.0,172.0,-2.0,Decrease
+Finland,2016,175.0,172.0,172.0,175.0,3.0,Increase
+Finland,2017,174.0,175.0,175.0,174.0,-1.0,Decrease
+Finland,2018,187.0,174.0,174.0,187.0,13.0,Increase
+Finland,2019,188.0,187.0,187.0,188.0,1.0,Increase
+Finland,2020,188.0,188.0,188.0,188.0,0.0,No change
+Finland,2021,189.0,188.0,188.0,189.0,1.0,Increase
+France,2007,140.0,128.0,128.0,140.0,12.0,Increase
+France,2008,152.0,140.0,140.0,152.0,12.0,Increase
+France,2009,156.5,152.0,152.0,156.5,4.5,Increase
+France,2010,161.0,156.5,156.5,161.0,4.5,Increase
+France,2011,171.0,161.0,161.0,171.0,10.0,Increase
+France,2012,167.0,171.0,171.0,167.0,-4.0,Decrease
+France,2013,170.0,167.0,167.0,170.0,3.0,Increase
+France,2014,172.0,170.0,170.0,172.0,2.0,Increase
+France,2015,171.0,172.0,172.0,171.0,-1.0,Decrease
+France,2016,175.0,171.0,171.0,175.0,4.0,Increase
+France,2017,173.0,175.0,175.0,173.0,-2.0,Decrease
+France,2018,188.0,173.0,173.0,188.0,15.0,Increase
+France,2019,186.0,188.0,188.0,186.0,-2.0,Decrease
+France,2020,186.0,186.0,186.0,186.0,0.0,No change
+France,2021,187.0,186.0,186.0,187.0,1.0,Increase
+Gabon,2007,29.5,24.0,24.0,29.5,5.5,Increase
+Gabon,2008,35.0,29.5,29.5,35.0,5.5,Increase
+Gabon,2009,38.5,35.0,35.0,38.5,3.5,Increase
+Gabon,2010,42.0,38.5,38.5,42.0,3.5,Increase
+Gabon,2011,42.0,42.0,42.0,42.0,0.0,No change
+Gabon,2012,45.0,42.0,42.0,45.0,3.0,Increase
+Gabon,2013,47.0,45.0,45.0,47.0,2.0,Increase
+Gabon,2014,47.0,47.0,47.0,47.0,0.0,No change
+Gabon,2015,47.0,47.0,47.0,47.0,0.0,No change
+Gabon,2016,49.0,47.0,47.0,49.0,2.0,Increase
+Gabon,2017,50.0,49.0,49.0,50.0,1.0,Increase
+Gabon,2018,55.0,50.0,50.0,55.0,5.0,Increase
+Gabon,2019,56.0,55.0,55.0,56.0,1.0,Increase
+Gabon,2020,57.0,56.0,56.0,57.0,1.0,Increase
+Gabon,2021,57.0,57.0,57.0,57.0,0.0,No change
+Georgia,2007,37.0,28.0,28.0,37.0,9.0,Increase
+Georgia,2008,46.0,37.0,37.0,46.0,9.0,Increase
+Georgia,2009,51.0,46.0,46.0,51.0,5.0,Increase
+Georgia,2010,56.0,51.0,51.0,56.0,5.0,Increase
+Georgia,2011,58.0,56.0,56.0,58.0,2.0,Increase
+Georgia,2012,60.0,58.0,58.0,60.0,2.0,Increase
+Georgia,2013,60.0,60.0,60.0,60.0,0.0,No change
+Georgia,2014,62.0,60.0,60.0,62.0,2.0,Increase
+Georgia,2015,61.0,62.0,62.0,61.0,-1.0,Decrease
+Georgia,2016,67.0,61.0,61.0,67.0,6.0,Increase
+Georgia,2017,69.0,67.0,67.0,69.0,2.0,Increase
+Georgia,2018,112.0,69.0,69.0,112.0,43.0,Increase
+Georgia,2019,114.0,112.0,112.0,114.0,2.0,Increase
+Georgia,2020,115.0,114.0,114.0,115.0,1.0,Increase
+Georgia,2021,115.0,115.0,115.0,115.0,0.0,No change
+Germany,2007,142.0,129.0,129.0,142.0,13.0,Increase
+Germany,2008,155.0,142.0,142.0,155.0,13.0,Increase
+Germany,2009,158.0,155.0,155.0,158.0,3.0,Increase
+Germany,2010,161.0,158.0,158.0,161.0,3.0,Increase
+Germany,2011,172.0,161.0,161.0,172.0,11.0,Increase
+Germany,2012,168.0,172.0,172.0,168.0,-4.0,Decrease
+Germany,2013,172.0,168.0,168.0,172.0,4.0,Increase
+Germany,2014,174.0,172.0,172.0,174.0,2.0,Increase
+Germany,2015,173.0,174.0,174.0,173.0,-1.0,Decrease
+Germany,2016,177.0,173.0,173.0,177.0,4.0,Increase
+Germany,2017,176.0,177.0,177.0,176.0,-1.0,Decrease
+Germany,2018,188.0,176.0,176.0,188.0,12.0,Increase
+Germany,2019,188.0,188.0,188.0,188.0,0.0,No change
+Germany,2020,189.0,188.0,188.0,189.0,1.0,Increase
+Germany,2021,190.0,189.0,189.0,190.0,1.0,Increase
+Ghana,2007,50.0,45.0,45.0,50.0,5.0,Increase
+Ghana,2008,55.0,50.0,50.0,55.0,5.0,Increase
+Ghana,2009,58.5,55.0,55.0,58.5,3.5,Increase
+Ghana,2010,62.0,58.5,58.5,62.0,3.5,Increase
+Ghana,2011,62.0,62.0,62.0,62.0,0.0,No change
+Ghana,2012,62.0,62.0,62.0,62.0,0.0,No change
+Ghana,2013,61.0,62.0,62.0,61.0,-1.0,Decrease
+Ghana,2014,63.0,61.0,61.0,63.0,2.0,Increase
+Ghana,2015,61.0,63.0,63.0,61.0,-2.0,Decrease
+Ghana,2016,64.0,61.0,61.0,64.0,3.0,Increase
+Ghana,2017,59.0,64.0,64.0,59.0,-5.0,Decrease
+Ghana,2018,63.0,59.0,59.0,63.0,4.0,Increase
+Ghana,2019,65.0,63.0,63.0,65.0,2.0,Increase
+Ghana,2020,65.0,65.0,65.0,65.0,0.0,No change
+Ghana,2021,64.0,65.0,65.0,64.0,-1.0,Decrease
+Greece,2007,134.5,120.0,120.0,134.5,14.5,Increase
+Greece,2008,149.0,134.5,134.5,149.0,14.5,Increase
+Greece,2009,151.0,149.0,149.0,151.0,2.0,Increase
+Greece,2010,153.0,151.0,151.0,153.0,2.0,Increase
+Greece,2011,166.0,153.0,153.0,166.0,13.0,Increase
+Greece,2012,162.0,166.0,166.0,162.0,-4.0,Decrease
+Greece,2013,167.0,162.0,162.0,167.0,5.0,Increase
+Greece,2014,169.0,167.0,167.0,169.0,2.0,Increase
+Greece,2015,167.0,169.0,169.0,167.0,-2.0,Decrease
+Greece,2016,171.0,167.0,167.0,171.0,4.0,Increase
+Greece,2017,171.0,171.0,171.0,171.0,0.0,No change
+Greece,2018,183.0,171.0,171.0,183.0,12.0,Increase
+Greece,2019,184.0,183.0,183.0,184.0,1.0,Increase
+Greece,2020,184.0,184.0,184.0,184.0,0.0,No change
+Greece,2021,185.0,184.0,184.0,185.0,1.0,Increase
+Grenada,2007,69.5,60.0,60.0,69.5,9.5,Increase
+Grenada,2008,79.0,69.5,69.5,79.0,9.5,Increase
+Grenada,2009,81.0,79.0,79.0,81.0,2.0,Increase
+Grenada,2010,83.0,81.0,81.0,83.0,2.0,Increase
+Grenada,2011,86.0,83.0,83.0,86.0,3.0,Increase
+Grenada,2012,87.0,86.0,86.0,87.0,1.0,Increase
+Grenada,2013,88.0,87.0,87.0,88.0,1.0,Increase
+Grenada,2014,91.0,88.0,88.0,91.0,3.0,Increase
+Grenada,2015,117.0,91.0,91.0,117.0,26.0,Increase
+Grenada,2016,121.0,117.0,117.0,121.0,4.0,Increase
+Grenada,2017,124.0,121.0,121.0,124.0,3.0,Increase
+Grenada,2018,144.0,124.0,124.0,144.0,20.0,Increase
+Grenada,2019,142.0,144.0,144.0,142.0,-2.0,Decrease
+Grenada,2020,144.0,142.0,142.0,144.0,2.0,Increase
+Grenada,2021,144.0,144.0,144.0,144.0,0.0,No change
+Guatemala,2007,91.0,82.0,82.0,91.0,9.0,Increase
+Guatemala,2008,100.0,91.0,91.0,100.0,9.0,Increase
+Guatemala,2009,102.5,100.0,100.0,102.5,2.5,Increase
+Guatemala,2010,105.0,102.5,102.5,105.0,2.5,Increase
+Guatemala,2011,112.0,105.0,105.0,112.0,7.0,Increase
+Guatemala,2012,109.0,112.0,112.0,109.0,-3.0,Decrease
+Guatemala,2013,114.0,109.0,109.0,114.0,5.0,Increase
+Guatemala,2014,114.0,114.0,114.0,114.0,0.0,No change
+Guatemala,2015,113.0,114.0,114.0,113.0,-1.0,Decrease
+Guatemala,2016,116.0,113.0,113.0,116.0,3.0,Increase
+Guatemala,2017,119.0,116.0,116.0,119.0,3.0,Increase
+Guatemala,2018,137.0,119.0,119.0,137.0,18.0,Increase
+Guatemala,2019,132.0,137.0,137.0,132.0,-5.0,Decrease
+Guatemala,2020,133.0,132.0,132.0,133.0,1.0,Increase
+Guatemala,2021,132.0,133.0,133.0,132.0,-1.0,Decrease
+Guinea,2007,41.5,37.0,37.0,41.5,4.5,Increase
+Guinea,2008,46.0,41.5,41.5,46.0,4.5,Increase
+Guinea,2009,49.0,46.0,46.0,49.0,3.0,Increase
+Guinea,2010,52.0,49.0,49.0,52.0,3.0,Increase
+Guinea,2011,52.0,52.0,52.0,52.0,0.0,No change
+Guinea,2012,50.0,52.0,52.0,50.0,-2.0,Decrease
+Guinea,2013,53.0,50.0,50.0,53.0,3.0,Increase
+Guinea,2014,54.0,53.0,53.0,54.0,1.0,Increase
+Guinea,2015,43.0,54.0,54.0,43.0,-11.0,Decrease
+Guinea,2016,46.0,43.0,43.0,46.0,3.0,Increase
+Guinea,2017,48.0,46.0,46.0,48.0,2.0,Increase
+Guinea,2018,56.0,48.0,48.0,56.0,8.0,Increase
+Guinea,2019,56.0,56.0,56.0,56.0,0.0,No change
+Guinea,2020,55.0,56.0,56.0,55.0,-1.0,Decrease
+Guinea,2021,54.0,55.0,55.0,54.0,-1.0,Decrease
+Guinea-Bissau,2007,37.5,33.0,33.0,37.5,4.5,Increase
+Guinea-Bissau,2008,42.0,37.5,37.5,42.0,4.5,Increase
+Guinea-Bissau,2009,45.0,42.0,42.0,45.0,3.0,Increase
+Guinea-Bissau,2010,48.0,45.0,45.0,48.0,3.0,Increase
+Guinea-Bissau,2011,48.0,48.0,48.0,48.0,0.0,No change
+Guinea-Bissau,2012,50.0,48.0,48.0,50.0,2.0,Increase
+Guinea-Bissau,2013,48.0,50.0,50.0,48.0,-2.0,Decrease
+Guinea-Bissau,2014,49.0,48.0,48.0,49.0,1.0,Increase
+Guinea-Bissau,2015,46.0,49.0,49.0,46.0,-3.0,Decrease
+Guinea-Bissau,2016,51.0,46.0,46.0,51.0,5.0,Increase
+Guinea-Bissau,2017,49.0,51.0,51.0,49.0,-2.0,Decrease
+Guinea-Bissau,2018,53.0,49.0,49.0,53.0,4.0,Increase
+Guinea-Bissau,2019,54.0,53.0,53.0,54.0,1.0,Increase
+Guinea-Bissau,2020,53.0,54.0,54.0,53.0,-1.0,Decrease
+Guinea-Bissau,2021,52.0,53.0,53.0,52.0,-1.0,Decrease
+Guyana,2007,61.0,53.0,53.0,61.0,8.0,Increase
+Guyana,2008,69.0,61.0,61.0,69.0,8.0,Increase
+Guyana,2009,70.5,69.0,69.0,70.5,1.5,Increase
+Guyana,2010,72.0,70.5,70.5,72.0,1.5,Increase
+Guyana,2011,74.0,72.0,72.0,74.0,2.0,Increase
+Guyana,2012,76.0,74.0,74.0,76.0,2.0,Increase
+Guyana,2013,78.0,76.0,76.0,78.0,2.0,Increase
+Guyana,2014,81.0,78.0,78.0,81.0,3.0,Increase
+Guyana,2015,80.0,81.0,81.0,80.0,-1.0,Decrease
+Guyana,2016,82.0,80.0,80.0,82.0,2.0,Increase
+Guyana,2017,81.0,82.0,82.0,81.0,-1.0,Decrease
+Guyana,2018,88.0,81.0,81.0,88.0,7.0,Increase
+Guyana,2019,87.0,88.0,88.0,87.0,-1.0,Decrease
+Guyana,2020,88.0,87.0,87.0,88.0,1.0,Increase
+Guyana,2021,87.0,88.0,88.0,87.0,-1.0,Decrease
+Haiti,2007,29.0,22.0,22.0,29.0,7.0,Increase
+Haiti,2008,36.0,29.0,29.0,36.0,7.0,Increase
+Haiti,2009,39.0,36.0,36.0,39.0,3.0,Increase
+Haiti,2010,42.0,39.0,39.0,42.0,3.0,Increase
+Haiti,2011,42.0,42.0,42.0,42.0,0.0,No change
+Haiti,2012,43.0,42.0,42.0,43.0,1.0,Increase
+Haiti,2013,46.0,43.0,43.0,46.0,3.0,Increase
+Haiti,2014,49.0,46.0,46.0,49.0,3.0,Increase
+Haiti,2015,45.0,49.0,49.0,45.0,-4.0,Decrease
+Haiti,2016,48.0,45.0,45.0,48.0,3.0,Increase
+Haiti,2017,50.0,48.0,48.0,50.0,2.0,Increase
+Haiti,2018,52.0,50.0,50.0,52.0,2.0,Increase
+Haiti,2019,49.0,52.0,52.0,49.0,-3.0,Decrease
+Haiti,2020,49.0,49.0,49.0,49.0,0.0,No change
+Haiti,2021,48.0,49.0,49.0,48.0,-1.0,Decrease
+Honduras,2007,90.0,80.0,80.0,90.0,10.0,Increase
+Honduras,2008,100.0,90.0,90.0,100.0,10.0,Increase
+Honduras,2009,102.5,100.0,100.0,102.5,2.5,Increase
+Honduras,2010,105.0,102.5,102.5,105.0,2.5,Increase
+Honduras,2011,112.0,105.0,105.0,112.0,7.0,Increase
+Honduras,2012,110.0,112.0,112.0,110.0,-2.0,Decrease
+Honduras,2013,114.0,110.0,110.0,114.0,4.0,Increase
+Honduras,2014,116.0,114.0,114.0,116.0,2.0,Increase
+Honduras,2015,116.0,116.0,116.0,116.0,0.0,No change
+Honduras,2016,119.0,116.0,116.0,119.0,3.0,Increase
+Honduras,2017,121.0,119.0,119.0,121.0,2.0,Increase
+Honduras,2018,138.0,121.0,121.0,138.0,17.0,Increase
+Honduras,2019,134.0,138.0,138.0,134.0,-4.0,Decrease
+Honduras,2020,134.0,134.0,134.0,134.0,0.0,No change
+Honduras,2021,132.0,134.0,134.0,132.0,-2.0,Decrease
+Hong Kong (SAR China),2007,116.5,110.0,110.0,116.5,6.5,Increase
+Hong Kong (SAR China),2008,123.0,116.5,116.5,123.0,6.5,Increase
+Hong Kong (SAR China),2009,131.5,123.0,123.0,131.5,8.5,Increase
+Hong Kong (SAR China),2010,140.0,131.5,131.5,140.0,8.5,Increase
+Hong Kong (SAR China),2011,149.0,140.0,140.0,149.0,9.0,Increase
+Hong Kong (SAR China),2012,147.0,149.0,149.0,147.0,-2.0,Decrease
+Hong Kong (SAR China),2013,152.0,147.0,147.0,152.0,5.0,Increase
+Hong Kong (SAR China),2014,156.0,152.0,152.0,156.0,4.0,Increase
+Hong Kong (SAR China),2015,152.0,156.0,156.0,152.0,-4.0,Decrease
+Hong Kong (SAR China),2016,154.0,152.0,152.0,154.0,2.0,Increase
+Hong Kong (SAR China),2017,152.0,154.0,154.0,152.0,-2.0,Decrease
+Hong Kong (SAR China),2018,170.0,152.0,152.0,170.0,18.0,Increase
+Hong Kong (SAR China),2019,168.0,170.0,170.0,168.0,-2.0,Decrease
+Hong Kong (SAR China),2020,170.0,168.0,168.0,170.0,2.0,Increase
+Hong Kong (SAR China),2021,171.0,170.0,170.0,171.0,1.0,Increase
+Hungary,2007,116.0,101.0,101.0,116.0,15.0,Increase
+Hungary,2008,131.0,116.0,116.0,131.0,15.0,Increase
+Hungary,2009,136.5,131.0,131.0,136.5,5.5,Increase
+Hungary,2010,142.0,136.5,136.5,142.0,5.5,Increase
+Hungary,2011,157.0,142.0,142.0,157.0,15.0,Increase
+Hungary,2012,153.0,157.0,157.0,153.0,-4.0,Decrease
+Hungary,2013,157.0,153.0,153.0,157.0,4.0,Increase
+Hungary,2014,162.0,157.0,157.0,162.0,5.0,Increase
+Hungary,2015,162.0,162.0,162.0,162.0,0.0,No change
+Hungary,2016,167.0,162.0,162.0,167.0,5.0,Increase
+Hungary,2017,167.0,167.0,167.0,167.0,0.0,No change
+Hungary,2018,180.0,167.0,167.0,180.0,13.0,Increase
+Hungary,2019,180.0,180.0,180.0,180.0,0.0,No change
+Hungary,2020,182.0,180.0,180.0,182.0,2.0,Increase
+Hungary,2021,183.0,182.0,182.0,183.0,1.0,Increase
+Iceland,2007,133.0,120.0,120.0,133.0,13.0,Increase
+Iceland,2008,146.0,133.0,133.0,146.0,13.0,Increase
+Iceland,2009,148.5,146.0,146.0,148.5,2.5,Increase
+Iceland,2010,151.0,148.5,148.5,151.0,2.5,Increase
+Iceland,2011,164.0,151.0,151.0,164.0,13.0,Increase
+Iceland,2012,159.0,164.0,164.0,159.0,-5.0,Decrease
+Iceland,2013,165.0,159.0,159.0,165.0,6.0,Increase
+Iceland,2014,165.0,165.0,165.0,165.0,0.0,No change
+Iceland,2015,164.0,165.0,165.0,164.0,-1.0,Decrease
+Iceland,2016,167.0,164.0,164.0,167.0,3.0,Increase
+Iceland,2017,169.0,167.0,167.0,169.0,2.0,Increase
+Iceland,2018,181.0,169.0,169.0,181.0,12.0,Increase
+Iceland,2019,180.0,181.0,181.0,180.0,-1.0,Decrease
+Iceland,2020,180.0,180.0,180.0,180.0,0.0,No change
+Iceland,2021,180.0,180.0,180.0,180.0,0.0,No change
+India,2007,31.0,25.0,25.0,31.0,6.0,Increase
+India,2008,37.0,31.0,31.0,37.0,6.0,Increase
+India,2009,43.5,37.0,37.0,43.5,6.5,Increase
+India,2010,50.0,43.5,43.5,50.0,6.5,Increase
+India,2011,53.0,50.0,50.0,53.0,3.0,Increase
+India,2012,51.0,53.0,53.0,51.0,-2.0,Decrease
+India,2013,52.0,51.0,51.0,52.0,1.0,Increase
+India,2014,52.0,52.0,52.0,52.0,0.0,No change
+India,2015,51.0,52.0,52.0,51.0,-1.0,Decrease
+India,2016,52.0,51.0,51.0,52.0,1.0,Increase
+India,2017,49.0,52.0,52.0,49.0,-3.0,Decrease
+India,2018,60.0,49.0,49.0,60.0,11.0,Increase
+India,2019,59.0,60.0,60.0,59.0,-1.0,Decrease
+India,2020,58.0,59.0,59.0,58.0,-1.0,Decrease
+India,2021,58.0,58.0,58.0,58.0,0.0,No change
+Indonesia,2007,36.0,29.0,29.0,36.0,7.0,Increase
+Indonesia,2008,43.0,36.0,36.0,43.0,7.0,Increase
+Indonesia,2009,43.0,43.0,43.0,43.0,0.0,No change
+Indonesia,2010,43.0,43.0,43.0,43.0,0.0,No change
+Indonesia,2011,51.0,43.0,43.0,51.0,8.0,Increase
+Indonesia,2012,52.0,51.0,51.0,52.0,1.0,Increase
+Indonesia,2013,53.0,52.0,52.0,53.0,1.0,Increase
+Indonesia,2014,56.0,53.0,53.0,56.0,3.0,Increase
+Indonesia,2015,55.0,56.0,56.0,55.0,-1.0,Decrease
+Indonesia,2016,58.0,55.0,55.0,58.0,3.0,Increase
+Indonesia,2017,57.0,58.0,58.0,57.0,-1.0,Decrease
+Indonesia,2018,73.0,57.0,57.0,73.0,16.0,Increase
+Indonesia,2019,70.0,73.0,73.0,70.0,-3.0,Decrease
+Indonesia,2020,71.0,70.0,70.0,71.0,1.0,Increase
+Indonesia,2021,71.0,71.0,71.0,71.0,0.0,No change
+Iran,2007,19.5,14.0,14.0,19.5,5.5,Increase
+Iran,2008,25.0,19.5,19.5,25.0,5.5,Increase
+Iran,2009,29.5,25.0,25.0,29.5,4.5,Increase
+Iran,2010,34.0,29.5,29.5,34.0,4.5,Increase
+Iran,2011,36.0,34.0,34.0,36.0,2.0,Increase
+Iran,2012,37.0,36.0,36.0,37.0,1.0,Increase
+Iran,2013,40.0,37.0,37.0,40.0,3.0,Increase
+Iran,2014,40.0,40.0,40.0,40.0,0.0,No change
+Iran,2015,37.0,40.0,40.0,37.0,-3.0,Decrease
+Iran,2016,37.0,37.0,37.0,37.0,0.0,No change
+Iran,2017,38.0,37.0,37.0,38.0,1.0,Increase
+Iran,2018,43.0,38.0,38.0,43.0,5.0,Increase
+Iran,2019,40.0,43.0,43.0,40.0,-3.0,Decrease
+Iran,2020,41.0,40.0,40.0,41.0,1.0,Increase
+Iran,2021,41.0,41.0,41.0,41.0,0.0,No change
+Iraq,2007,19.0,15.0,15.0,19.0,4.0,Increase
+Iraq,2008,23.0,19.0,19.0,23.0,4.0,Increase
+Iraq,2009,25.0,23.0,23.0,25.0,2.0,Increase
+Iraq,2010,27.0,25.0,25.0,27.0,2.0,Increase
+Iraq,2011,28.0,27.0,27.0,28.0,1.0,Increase
+Iraq,2012,30.0,28.0,28.0,30.0,2.0,Increase
+Iraq,2013,31.0,30.0,30.0,31.0,1.0,Increase
+Iraq,2014,31.0,31.0,31.0,31.0,0.0,No change
+Iraq,2015,29.0,31.0,31.0,29.0,-2.0,Decrease
+Iraq,2016,30.0,29.0,29.0,30.0,1.0,Increase
+Iraq,2017,27.0,30.0,30.0,27.0,-3.0,Decrease
+Iraq,2018,30.0,27.0,27.0,30.0,3.0,Increase
+Iraq,2019,27.0,30.0,30.0,27.0,-3.0,Decrease
+Iraq,2020,28.0,27.0,27.0,28.0,1.0,Increase
+Iraq,2021,28.0,28.0,28.0,28.0,0.0,No change
+Ireland,2007,142.5,129.0,129.0,142.5,13.5,Increase
+Ireland,2008,156.0,142.5,142.5,156.0,13.5,Increase
+Ireland,2009,157.5,156.0,156.0,157.5,1.5,Increase
+Ireland,2010,159.0,157.5,157.5,159.0,1.5,Increase
+Ireland,2011,169.0,159.0,159.0,169.0,10.0,Increase
+Ireland,2012,165.0,169.0,169.0,165.0,-4.0,Decrease
+Ireland,2013,170.0,165.0,165.0,170.0,5.0,Increase
+Ireland,2014,171.0,170.0,170.0,171.0,1.0,Increase
+Ireland,2015,169.0,171.0,171.0,169.0,-2.0,Decrease
+Ireland,2016,172.0,169.0,169.0,172.0,3.0,Increase
+Ireland,2017,172.0,172.0,172.0,172.0,0.0,No change
+Ireland,2018,185.0,172.0,172.0,185.0,13.0,Increase
+Ireland,2019,184.0,185.0,185.0,184.0,-1.0,Decrease
+Ireland,2020,186.0,184.0,184.0,186.0,2.0,Increase
+Ireland,2021,187.0,186.0,186.0,187.0,1.0,Increase
+Israel,2007,111.0,104.0,104.0,111.0,7.0,Increase
+Israel,2008,118.0,111.0,111.0,118.0,7.0,Increase
+Israel,2009,125.5,118.0,118.0,125.5,7.5,Increase
+Israel,2010,133.0,125.5,125.5,133.0,7.5,Increase
+Israel,2011,142.0,133.0,133.0,142.0,9.0,Increase
+Israel,2012,141.0,142.0,142.0,141.0,-1.0,Decrease
+Israel,2013,144.0,141.0,141.0,144.0,3.0,Increase
+Israel,2014,147.0,144.0,144.0,147.0,3.0,Increase
+Israel,2015,145.0,147.0,147.0,145.0,-2.0,Decrease
+Israel,2016,147.0,145.0,145.0,147.0,2.0,Increase
+Israel,2017,148.0,147.0,147.0,148.0,1.0,Increase
+Israel,2018,161.0,148.0,148.0,161.0,13.0,Increase
+Israel,2019,159.0,161.0,161.0,159.0,-2.0,Decrease
+Israel,2020,160.0,159.0,159.0,160.0,1.0,Increase
+Israel,2021,158.0,160.0,160.0,158.0,-2.0,Decrease
+Italy,2007,141.0,128.0,128.0,141.0,13.0,Increase
+Italy,2008,154.0,141.0,141.0,154.0,13.0,Increase
+Italy,2009,157.5,154.0,154.0,157.5,3.5,Increase
+Italy,2010,161.0,157.5,157.5,161.0,3.5,Increase
+Italy,2011,171.0,161.0,161.0,171.0,10.0,Increase
+Italy,2012,166.0,171.0,171.0,166.0,-5.0,Decrease
+Italy,2013,171.0,166.0,166.0,171.0,5.0,Increase
+Italy,2014,172.0,171.0,171.0,172.0,1.0,Increase
+Italy,2015,171.0,172.0,172.0,171.0,-1.0,Decrease
+Italy,2016,175.0,171.0,171.0,175.0,4.0,Increase
+Italy,2017,174.0,175.0,175.0,174.0,-1.0,Decrease
+Italy,2018,187.0,174.0,174.0,187.0,13.0,Increase
+Italy,2019,187.0,187.0,187.0,187.0,0.0,No change
+Italy,2020,188.0,187.0,187.0,188.0,1.0,Increase
+Italy,2021,189.0,188.0,188.0,189.0,1.0,Increase
+Jamaica,2007,62.0,57.0,57.0,62.0,5.0,Increase
+Jamaica,2008,67.0,62.0,62.0,67.0,5.0,Increase
+Jamaica,2009,70.0,67.0,67.0,70.0,3.0,Increase
+Jamaica,2010,73.0,70.0,70.0,73.0,3.0,Increase
+Jamaica,2011,75.0,73.0,73.0,75.0,2.0,Increase
+Jamaica,2012,77.0,75.0,75.0,77.0,2.0,Increase
+Jamaica,2013,77.0,77.0,77.0,77.0,0.0,No change
+Jamaica,2014,79.0,77.0,77.0,79.0,2.0,Increase
+Jamaica,2015,76.0,79.0,79.0,76.0,-3.0,Decrease
+Jamaica,2016,78.0,76.0,76.0,78.0,2.0,Increase
+Jamaica,2017,78.0,78.0,78.0,78.0,0.0,No change
+Jamaica,2018,84.0,78.0,78.0,84.0,6.0,Increase
+Jamaica,2019,84.0,84.0,84.0,84.0,0.0,No change
+Jamaica,2020,86.0,84.0,84.0,86.0,2.0,Increase
+Jamaica,2021,85.0,86.0,86.0,85.0,-1.0,Decrease
+Japan,2007,141.0,128.0,128.0,141.0,13.0,Increase
+Japan,2008,154.0,141.0,141.0,154.0,13.0,Increase
+Japan,2009,157.0,154.0,154.0,157.0,3.0,Increase
+Japan,2010,160.0,157.0,157.0,160.0,3.0,Increase
+Japan,2011,170.0,160.0,160.0,170.0,10.0,Increase
+Japan,2012,165.0,170.0,170.0,165.0,-5.0,Decrease
+Japan,2013,170.0,165.0,165.0,170.0,5.0,Increase
+Japan,2014,172.0,170.0,170.0,172.0,2.0,Increase
+Japan,2015,171.0,172.0,172.0,171.0,-1.0,Decrease
+Japan,2016,173.0,171.0,171.0,173.0,2.0,Increase
+Japan,2017,172.0,173.0,173.0,172.0,-1.0,Decrease
+Japan,2018,190.0,172.0,172.0,190.0,18.0,Increase
+Japan,2019,190.0,190.0,190.0,190.0,0.0,No change
+Japan,2020,191.0,190.0,190.0,191.0,1.0,Increase
+Japan,2021,192.0,191.0,191.0,192.0,1.0,Increase
+Jordan,2007,25.5,21.0,21.0,25.5,4.5,Increase
+Jordan,2008,30.0,25.5,25.5,30.0,4.5,Increase
+Jordan,2009,34.5,30.0,30.0,34.5,4.5,Increase
+Jordan,2010,39.0,34.5,34.5,39.0,4.5,Increase
+Jordan,2011,40.0,39.0,39.0,40.0,1.0,Increase
+Jordan,2012,43.0,40.0,40.0,43.0,3.0,Increase
+Jordan,2013,44.0,43.0,43.0,44.0,1.0,Increase
+Jordan,2014,45.0,44.0,44.0,45.0,1.0,Increase
+Jordan,2015,44.0,45.0,45.0,44.0,-1.0,Decrease
+Jordan,2016,47.0,44.0,44.0,47.0,3.0,Increase
+Jordan,2017,43.0,47.0,47.0,43.0,-4.0,Decrease
+Jordan,2018,50.0,43.0,43.0,50.0,7.0,Increase
+Jordan,2019,49.0,50.0,50.0,49.0,-1.0,Decrease
+Jordan,2020,51.0,49.0,49.0,51.0,2.0,Increase
+Jordan,2021,50.0,51.0,51.0,50.0,-1.0,Decrease
+Kazakhstan,2007,37.5,28.0,28.0,37.5,9.5,Increase
+Kazakhstan,2008,47.0,37.5,37.5,47.0,9.5,Increase
+Kazakhstan,2009,50.5,47.0,47.0,50.5,3.5,Increase
+Kazakhstan,2010,54.0,50.5,50.5,54.0,3.5,Increase
+Kazakhstan,2011,58.0,54.0,54.0,58.0,4.0,Increase
+Kazakhstan,2012,61.0,58.0,58.0,61.0,3.0,Increase
+Kazakhstan,2013,61.0,61.0,61.0,61.0,0.0,No change
+Kazakhstan,2014,66.0,61.0,61.0,66.0,5.0,Increase
+Kazakhstan,2015,65.0,66.0,66.0,65.0,-1.0,Decrease
+Kazakhstan,2016,67.0,65.0,65.0,67.0,2.0,Increase
+Kazakhstan,2017,71.0,67.0,67.0,71.0,4.0,Increase
+Kazakhstan,2018,76.0,71.0,71.0,76.0,5.0,Increase
+Kazakhstan,2019,75.0,76.0,76.0,75.0,-1.0,Decrease
+Kazakhstan,2020,75.0,75.0,75.0,75.0,0.0,No change
+Kazakhstan,2021,74.0,75.0,75.0,74.0,-1.0,Decrease
+Kenya,2007,52.0,46.0,46.0,52.0,6.0,Increase
+Kenya,2008,58.0,52.0,52.0,58.0,6.0,Increase
+Kenya,2009,61.5,58.0,58.0,61.5,3.5,Increase
+Kenya,2010,65.0,61.5,61.5,65.0,3.5,Increase
+Kenya,2011,65.0,65.0,65.0,65.0,0.0,No change
+Kenya,2012,68.0,65.0,65.0,68.0,3.0,Increase
+Kenya,2013,68.0,68.0,68.0,68.0,0.0,No change
+Kenya,2014,71.0,68.0,68.0,71.0,3.0,Increase
+Kenya,2015,70.0,71.0,71.0,70.0,-1.0,Decrease
+Kenya,2016,68.0,70.0,70.0,68.0,-2.0,Decrease
+Kenya,2017,69.0,68.0,68.0,69.0,1.0,Increase
+Kenya,2018,71.0,69.0,69.0,71.0,2.0,Increase
+Kenya,2019,71.0,71.0,71.0,71.0,0.0,No change
+Kenya,2020,72.0,71.0,71.0,72.0,1.0,Increase
+Kenya,2021,72.0,72.0,72.0,72.0,0.0,No change
+Kiribati,2007,58.0,49.0,49.0,58.0,9.0,Increase
+Kiribati,2008,67.0,58.0,58.0,67.0,9.0,Increase
+Kiribati,2009,70.0,67.0,67.0,70.0,3.0,Increase
+Kiribati,2010,73.0,70.0,70.0,73.0,3.0,Increase
+Kiribati,2011,74.0,73.0,73.0,74.0,1.0,Increase
+Kiribati,2012,75.0,74.0,74.0,75.0,1.0,Increase
+Kiribati,2013,78.0,75.0,75.0,78.0,3.0,Increase
+Kiribati,2014,82.0,78.0,78.0,82.0,4.0,Increase
+Kiribati,2015,80.0,82.0,82.0,80.0,-2.0,Decrease
+Kiribati,2016,79.0,80.0,80.0,79.0,-1.0,Decrease
+Kiribati,2017,109.0,79.0,79.0,109.0,30.0,Increase
+Kiribati,2018,123.0,109.0,109.0,123.0,14.0,Increase
+Kiribati,2019,122.0,123.0,123.0,122.0,-1.0,Decrease
+Kiribati,2020,123.0,122.0,122.0,123.0,1.0,Increase
+Kiribati,2021,123.0,123.0,123.0,123.0,0.0,No change
+Kosovo,2007,0.0,0.0,0.0,0.0,0.0,No change
+Kosovo,2008,0.0,0.0,0.0,0.0,0.0,No change
+Kosovo,2009,0.0,0.0,0.0,0.0,0.0,No change
+Kosovo,2010,37.0,0.0,0.0,37.0,37.0,Increase
+Kosovo,2011,37.0,37.0,37.0,37.0,0.0,No change
+Kosovo,2012,37.0,37.0,37.0,37.0,0.0,No change
+Kosovo,2013,38.0,37.0,37.0,38.0,1.0,Increase
+Kosovo,2014,40.0,38.0,38.0,40.0,2.0,Increase
+Kosovo,2015,36.0,40.0,40.0,36.0,-4.0,Decrease
+Kosovo,2016,38.0,36.0,36.0,38.0,2.0,Increase
+Kosovo,2017,37.0,38.0,38.0,37.0,-1.0,Decrease
+Kosovo,2018,44.0,37.0,37.0,44.0,7.0,Increase
+Kosovo,2019,41.0,44.0,44.0,41.0,-3.0,Decrease
+Kosovo,2020,40.0,41.0,41.0,40.0,-1.0,Decrease
+Kosovo,2021,40.0,40.0,40.0,40.0,0.0,No change
+Kuwait,2007,47.5,39.0,39.0,47.5,8.5,Increase
+Kuwait,2008,56.0,47.5,47.5,56.0,8.5,Increase
+Kuwait,2009,63.5,56.0,56.0,63.5,7.5,Increase
+Kuwait,2010,71.0,63.5,63.5,71.0,7.5,Increase
+Kuwait,2011,71.0,71.0,71.0,71.0,0.0,No change
+Kuwait,2012,72.0,71.0,71.0,72.0,1.0,Increase
+Kuwait,2013,77.0,72.0,72.0,77.0,5.0,Increase
+Kuwait,2014,78.0,77.0,77.0,78.0,1.0,Increase
+Kuwait,2015,78.0,78.0,78.0,78.0,0.0,No change
+Kuwait,2016,82.0,78.0,78.0,82.0,4.0,Increase
+Kuwait,2017,80.0,82.0,82.0,80.0,-2.0,Decrease
+Kuwait,2018,93.0,80.0,80.0,93.0,13.0,Increase
+Kuwait,2019,93.0,93.0,93.0,93.0,0.0,No change
+Kuwait,2020,96.0,93.0,93.0,96.0,3.0,Increase
+Kuwait,2021,95.0,96.0,96.0,95.0,-1.0,Decrease
+Kyrgyzstan,2007,36.0,28.0,28.0,36.0,8.0,Increase
+Kyrgyzstan,2008,44.0,36.0,36.0,44.0,8.0,Increase
+Kyrgyzstan,2009,48.5,44.0,44.0,48.5,4.5,Increase
+Kyrgyzstan,2010,53.0,48.5,48.5,53.0,4.5,Increase
+Kyrgyzstan,2011,55.0,53.0,53.0,55.0,2.0,Increase
+Kyrgyzstan,2012,56.0,55.0,55.0,56.0,1.0,Increase
+Kyrgyzstan,2013,56.0,56.0,56.0,56.0,0.0,No change
+Kyrgyzstan,2014,58.0,56.0,56.0,58.0,2.0,Increase
+Kyrgyzstan,2015,56.0,58.0,58.0,56.0,-2.0,Decrease
+Kyrgyzstan,2016,58.0,56.0,56.0,58.0,2.0,Increase
+Kyrgyzstan,2017,58.0,58.0,58.0,58.0,0.0,No change
+Kyrgyzstan,2018,63.0,58.0,58.0,63.0,5.0,Increase
+Kyrgyzstan,2019,62.0,63.0,63.0,62.0,-1.0,Decrease
+Kyrgyzstan,2020,63.0,62.0,62.0,63.0,1.0,Increase
+Kyrgyzstan,2021,62.0,63.0,63.0,62.0,-1.0,Decrease
+Laos,2007,26.5,20.0,20.0,26.5,6.5,Increase
+Laos,2008,33.0,26.5,26.5,33.0,6.5,Increase
+Laos,2009,37.5,33.0,33.0,37.5,4.5,Increase
+Laos,2010,42.0,37.5,37.5,42.0,4.5,Increase
+Laos,2011,42.0,42.0,42.0,42.0,0.0,No change
+Laos,2012,44.0,42.0,42.0,44.0,2.0,Increase
+Laos,2013,46.0,44.0,44.0,46.0,2.0,Increase
+Laos,2014,48.0,46.0,46.0,48.0,2.0,Increase
+Laos,2015,45.0,48.0,48.0,45.0,-3.0,Decrease
+Laos,2016,47.0,45.0,45.0,47.0,2.0,Increase
+Laos,2017,48.0,47.0,47.0,48.0,1.0,Increase
+Laos,2018,52.0,48.0,48.0,52.0,4.0,Increase
+Laos,2019,49.0,52.0,52.0,49.0,-3.0,Decrease
+Laos,2020,50.0,49.0,49.0,50.0,1.0,Increase
+Laos,2021,49.0,50.0,50.0,49.0,-1.0,Decrease
+Latvia,2007,109.0,91.0,91.0,109.0,18.0,Increase
+Latvia,2008,127.0,109.0,109.0,127.0,18.0,Increase
+Latvia,2009,133.0,127.0,127.0,133.0,6.0,Increase
+Latvia,2010,139.0,133.0,133.0,139.0,6.0,Increase
+Latvia,2011,153.0,139.0,139.0,153.0,14.0,Increase
+Latvia,2012,148.0,153.0,153.0,148.0,-5.0,Decrease
+Latvia,2013,152.0,148.0,148.0,152.0,4.0,Increase
+Latvia,2014,158.0,152.0,152.0,158.0,6.0,Increase
+Latvia,2015,159.0,158.0,158.0,159.0,1.0,Increase
+Latvia,2016,163.0,159.0,159.0,163.0,4.0,Increase
+Latvia,2017,165.0,163.0,163.0,165.0,2.0,Increase
+Latvia,2018,179.0,165.0,165.0,179.0,14.0,Increase
+Latvia,2019,180.0,179.0,179.0,180.0,1.0,Increase
+Latvia,2020,180.0,180.0,180.0,180.0,0.0,No change
+Latvia,2021,181.0,180.0,180.0,181.0,1.0,Increase
+Lebanon,2007,22.0,17.0,17.0,22.0,5.0,Increase
+Lebanon,2008,27.0,22.0,22.0,27.0,5.0,Increase
+Lebanon,2009,29.5,27.0,27.0,29.5,2.5,Increase
+Lebanon,2010,32.0,29.5,29.5,32.0,2.5,Increase
+Lebanon,2011,33.0,32.0,32.0,33.0,1.0,Increase
+Lebanon,2012,35.0,33.0,33.0,35.0,2.0,Increase
+Lebanon,2013,38.0,35.0,35.0,38.0,3.0,Increase
+Lebanon,2014,39.0,38.0,38.0,39.0,1.0,Increase
+Lebanon,2015,37.0,39.0,39.0,37.0,-2.0,Decrease
+Lebanon,2016,39.0,37.0,37.0,39.0,2.0,Increase
+Lebanon,2017,37.0,39.0,39.0,37.0,-2.0,Decrease
+Lebanon,2018,41.0,37.0,37.0,41.0,4.0,Increase
+Lebanon,2019,39.0,41.0,41.0,39.0,-2.0,Decrease
+Lebanon,2020,40.0,39.0,39.0,40.0,1.0,Increase
+Lebanon,2021,41.0,40.0,40.0,41.0,1.0,Increase
+Lesotho,2007,56.5,51.0,51.0,56.5,5.5,Increase
+Lesotho,2008,62.0,56.5,56.5,62.0,5.5,Increase
+Lesotho,2009,63.5,62.0,62.0,63.5,1.5,Increase
+Lesotho,2010,65.0,63.5,63.5,65.0,1.5,Increase
+Lesotho,2011,65.0,65.0,65.0,65.0,0.0,No change
+Lesotho,2012,67.0,65.0,65.0,67.0,2.0,Increase
+Lesotho,2013,68.0,67.0,67.0,68.0,1.0,Increase
+Lesotho,2014,72.0,68.0,68.0,72.0,4.0,Increase
+Lesotho,2015,69.0,72.0,72.0,69.0,-3.0,Decrease
+Lesotho,2016,69.0,69.0,69.0,69.0,0.0,No change
+Lesotho,2017,67.0,69.0,69.0,67.0,-2.0,Decrease
+Lesotho,2018,74.0,67.0,67.0,74.0,7.0,Increase
+Lesotho,2019,74.0,74.0,74.0,74.0,0.0,No change
+Lesotho,2020,76.0,74.0,74.0,76.0,2.0,Increase
+Lesotho,2021,77.0,76.0,76.0,77.0,1.0,Increase
+Liberia,2007,35.5,31.0,31.0,35.5,4.5,Increase
+Liberia,2008,40.0,35.5,35.5,40.0,4.5,Increase
+Liberia,2009,42.5,40.0,40.0,42.5,2.5,Increase
+Liberia,2010,45.0,42.5,42.5,45.0,2.5,Increase
+Liberia,2011,44.0,45.0,45.0,44.0,-1.0,Decrease
+Liberia,2012,46.0,44.0,44.0,46.0,2.0,Increase
+Liberia,2013,46.0,46.0,46.0,46.0,0.0,No change
+Liberia,2014,48.0,46.0,46.0,48.0,2.0,Increase
+Liberia,2015,37.0,48.0,48.0,37.0,-11.0,Decrease
+Liberia,2016,43.0,37.0,37.0,43.0,6.0,Increase
+Liberia,2017,43.0,43.0,43.0,43.0,0.0,No change
+Liberia,2018,47.0,43.0,43.0,47.0,4.0,Increase
+Liberia,2019,48.0,47.0,47.0,48.0,1.0,Increase
+Liberia,2020,49.0,48.0,48.0,49.0,1.0,Increase
+Liberia,2021,49.0,49.0,49.0,49.0,0.0,No change
+Libya,2007,25.5,19.0,19.0,25.5,6.5,Increase
+Libya,2008,32.0,25.5,25.5,32.0,6.5,Increase
+Libya,2009,35.5,32.0,32.0,35.5,3.5,Increase
+Libya,2010,39.0,35.5,35.5,39.0,3.5,Increase
+Libya,2011,38.0,39.0,39.0,38.0,-1.0,Decrease
+Libya,2012,39.0,38.0,38.0,39.0,1.0,Increase
+Libya,2013,39.0,39.0,39.0,39.0,0.0,No change
+Libya,2014,38.0,39.0,39.0,38.0,-1.0,Decrease
+Libya,2015,37.0,38.0,38.0,37.0,-1.0,Decrease
+Libya,2016,36.0,37.0,37.0,36.0,-1.0,Decrease
+Libya,2017,33.0,36.0,36.0,33.0,-3.0,Decrease
+Libya,2018,41.0,33.0,33.0,41.0,8.0,Increase
+Libya,2019,37.0,41.0,41.0,37.0,-4.0,Decrease
+Libya,2020,38.0,37.0,37.0,38.0,1.0,Increase
+Libya,2021,40.0,38.0,38.0,40.0,2.0,Increase
+Liechtenstein,2007,128.0,116.0,116.0,128.0,12.0,Increase
+Liechtenstein,2008,140.0,128.0,128.0,140.0,12.0,Increase
+Liechtenstein,2009,143.5,140.0,140.0,143.5,3.5,Increase
+Liechtenstein,2010,147.0,143.5,143.5,147.0,3.5,Increase
+Liechtenstein,2011,158.0,147.0,147.0,158.0,11.0,Increase
+Liechtenstein,2012,155.0,158.0,158.0,155.0,-3.0,Decrease
+Liechtenstein,2013,159.0,155.0,155.0,159.0,4.0,Increase
+Liechtenstein,2014,161.0,159.0,159.0,161.0,2.0,Increase
+Liechtenstein,2015,161.0,161.0,161.0,161.0,0.0,No change
+Liechtenstein,2016,164.0,161.0,161.0,164.0,3.0,Increase
+Liechtenstein,2017,165.0,164.0,164.0,165.0,1.0,Increase
+Liechtenstein,2018,178.0,165.0,165.0,178.0,13.0,Increase
+Liechtenstein,2019,177.0,178.0,178.0,177.0,-1.0,Decrease
+Liechtenstein,2020,178.0,177.0,177.0,178.0,1.0,Increase
+Liechtenstein,2021,178.0,178.0,178.0,178.0,0.0,No change
+Lithuania,2007,109.5,94.0,94.0,109.5,15.5,Increase
+Lithuania,2008,125.0,109.5,109.5,125.0,15.5,Increase
+Lithuania,2009,132.5,125.0,125.0,132.5,7.5,Increase
+Lithuania,2010,140.0,132.5,132.5,140.0,7.5,Increase
+Lithuania,2011,153.0,140.0,140.0,153.0,13.0,Increase
+Lithuania,2012,149.0,153.0,153.0,149.0,-4.0,Decrease
+Lithuania,2013,151.0,149.0,149.0,151.0,2.0,Increase
+Lithuania,2014,157.0,151.0,151.0,157.0,6.0,Increase
+Lithuania,2015,158.0,157.0,157.0,158.0,1.0,Increase
+Lithuania,2016,162.0,158.0,158.0,162.0,4.0,Increase
+Lithuania,2017,166.0,162.0,162.0,166.0,4.0,Increase
+Lithuania,2018,179.0,166.0,166.0,179.0,13.0,Increase
+Lithuania,2019,181.0,179.0,179.0,181.0,2.0,Increase
+Lithuania,2020,181.0,181.0,181.0,181.0,0.0,No change
+Lithuania,2021,182.0,181.0,181.0,182.0,1.0,Increase
+Luxembourg,2007,139.5,125.0,125.0,139.5,14.5,Increase
+Luxembourg,2008,154.0,139.5,139.5,154.0,14.5,Increase
+Luxembourg,2009,158.0,154.0,154.0,158.0,4.0,Increase
+Luxembourg,2010,162.0,158.0,158.0,162.0,4.0,Increase
+Luxembourg,2011,171.0,162.0,162.0,171.0,9.0,Increase
+Luxembourg,2012,166.0,171.0,171.0,166.0,-5.0,Decrease
+Luxembourg,2013,172.0,166.0,166.0,172.0,6.0,Increase
+Luxembourg,2014,172.0,172.0,172.0,172.0,0.0,No change
+Luxembourg,2015,171.0,172.0,172.0,171.0,-1.0,Decrease
+Luxembourg,2016,172.0,171.0,171.0,172.0,1.0,Increase
+Luxembourg,2017,173.0,172.0,172.0,173.0,1.0,Increase
+Luxembourg,2018,186.0,173.0,173.0,186.0,13.0,Increase
+Luxembourg,2019,187.0,186.0,186.0,187.0,1.0,Increase
+Luxembourg,2020,188.0,187.0,187.0,188.0,1.0,Increase
+Luxembourg,2021,189.0,188.0,188.0,189.0,1.0,Increase
+Macao (SAR China),2007,79.0,71.0,71.0,79.0,8.0,Increase
+Macao (SAR China),2008,87.0,79.0,79.0,87.0,8.0,Increase
+Macao (SAR China),2009,93.0,87.0,87.0,93.0,6.0,Increase
+Macao (SAR China),2010,99.0,93.0,93.0,99.0,6.0,Increase
+Macao (SAR China),2011,109.0,99.0,99.0,109.0,10.0,Increase
+Macao (SAR China),2012,107.0,109.0,109.0,107.0,-2.0,Decrease
+Macao (SAR China),2013,118.0,107.0,107.0,118.0,11.0,Increase
+Macao (SAR China),2014,122.0,118.0,118.0,122.0,4.0,Increase
+Macao (SAR China),2015,120.0,122.0,122.0,120.0,-2.0,Decrease
+Macao (SAR China),2016,120.0,120.0,120.0,120.0,0.0,No change
+Macao (SAR China),2017,127.0,120.0,120.0,127.0,7.0,Increase
+Macao (SAR China),2018,144.0,127.0,127.0,144.0,17.0,Increase
+Macao (SAR China),2019,141.0,144.0,144.0,141.0,-3.0,Decrease
+Macao (SAR China),2020,144.0,141.0,141.0,144.0,3.0,Increase
+Macao (SAR China),2021,144.0,144.0,144.0,144.0,0.0,No change
+Madagascar,2007,32.0,25.0,25.0,32.0,7.0,Increase
+Madagascar,2008,39.0,32.0,32.0,39.0,7.0,Increase
+Madagascar,2009,41.5,39.0,39.0,41.5,2.5,Increase
+Madagascar,2010,44.0,41.5,41.5,44.0,2.5,Increase
+Madagascar,2011,44.0,44.0,44.0,44.0,0.0,No change
+Madagascar,2012,47.0,44.0,44.0,47.0,3.0,Increase
+Madagascar,2013,49.0,47.0,47.0,49.0,2.0,Increase
+Madagascar,2014,49.0,49.0,49.0,49.0,0.0,No change
+Madagascar,2015,46.0,49.0,49.0,46.0,-3.0,Decrease
+Madagascar,2016,48.0,46.0,46.0,48.0,2.0,Increase
+Madagascar,2017,50.0,48.0,48.0,50.0,2.0,Increase
+Madagascar,2018,53.0,50.0,50.0,53.0,3.0,Increase
+Madagascar,2019,54.0,53.0,53.0,54.0,1.0,Increase
+Madagascar,2020,55.0,54.0,54.0,55.0,1.0,Increase
+Madagascar,2021,55.0,55.0,55.0,55.0,0.0,No change
+Malawi,2007,54.0,48.0,48.0,54.0,6.0,Increase
+Malawi,2008,60.0,54.0,54.0,60.0,6.0,Increase
+Malawi,2009,62.5,60.0,60.0,62.5,2.5,Increase
+Malawi,2010,65.0,62.5,62.5,65.0,2.5,Increase
+Malawi,2011,65.0,65.0,65.0,65.0,0.0,No change
+Malawi,2012,66.0,65.0,65.0,66.0,1.0,Increase
+Malawi,2013,67.0,66.0,66.0,67.0,1.0,Increase
+Malawi,2014,69.0,67.0,67.0,69.0,2.0,Increase
+Malawi,2015,66.0,69.0,69.0,66.0,-3.0,Decrease
+Malawi,2016,67.0,66.0,66.0,67.0,1.0,Increase
+Malawi,2017,67.0,67.0,67.0,67.0,0.0,No change
+Malawi,2018,71.0,67.0,67.0,71.0,4.0,Increase
+Malawi,2019,72.0,71.0,71.0,72.0,1.0,Increase
+Malawi,2020,73.0,72.0,72.0,73.0,1.0,Increase
+Malawi,2021,73.0,73.0,73.0,73.0,0.0,No change
+Malaysia,2007,132.5,120.0,120.0,132.5,12.5,Increase
+Malaysia,2008,145.0,132.5,132.5,145.0,12.5,Increase
+Malaysia,2009,148.0,145.0,145.0,148.0,3.0,Increase
+Malaysia,2010,151.0,148.0,148.0,151.0,3.0,Increase
+Malaysia,2011,158.0,151.0,151.0,158.0,7.0,Increase
+Malaysia,2012,153.0,158.0,158.0,153.0,-5.0,Decrease
+Malaysia,2013,163.0,153.0,153.0,163.0,10.0,Increase
+Malaysia,2014,166.0,163.0,163.0,166.0,3.0,Increase
+Malaysia,2015,163.0,166.0,166.0,163.0,-3.0,Decrease
+Malaysia,2016,164.0,163.0,163.0,164.0,1.0,Increase
+Malaysia,2017,164.0,164.0,164.0,164.0,0.0,No change
+Malaysia,2018,180.0,164.0,164.0,180.0,16.0,Increase
+Malaysia,2019,177.0,180.0,180.0,177.0,-3.0,Decrease
+Malaysia,2020,178.0,177.0,177.0,178.0,1.0,Increase
+Malaysia,2021,179.0,178.0,178.0,179.0,1.0,Increase
+Maldives,2007,55.0,46.0,46.0,55.0,9.0,Increase
+Maldives,2008,64.0,55.0,55.0,64.0,9.0,Increase
+Maldives,2009,68.5,64.0,64.0,68.5,4.5,Increase
+Maldives,2010,73.0,68.5,68.5,73.0,4.5,Increase
+Maldives,2011,76.0,73.0,73.0,76.0,3.0,Increase
+Maldives,2012,78.0,76.0,76.0,78.0,2.0,Increase
+Maldives,2013,80.0,78.0,78.0,80.0,2.0,Increase
+Maldives,2014,84.0,80.0,80.0,84.0,4.0,Increase
+Maldives,2015,81.0,84.0,84.0,81.0,-3.0,Decrease
+Maldives,2016,80.0,81.0,81.0,80.0,-1.0,Decrease
+Maldives,2017,80.0,80.0,80.0,80.0,0.0,No change
+Maldives,2018,87.0,80.0,80.0,87.0,7.0,Increase
+Maldives,2019,84.0,87.0,87.0,84.0,-3.0,Decrease
+Maldives,2020,85.0,84.0,84.0,85.0,1.0,Increase
+Maldives,2021,87.0,85.0,85.0,87.0,2.0,Increase
+Mali,2007,42.5,38.0,38.0,42.5,4.5,Increase
+Mali,2008,47.0,42.5,42.5,47.0,4.5,Increase
+Mali,2009,49.5,47.0,47.0,49.5,2.5,Increase
+Mali,2010,52.0,49.5,49.5,52.0,2.5,Increase
+Mali,2011,51.0,52.0,52.0,51.0,-1.0,Decrease
+Mali,2012,54.0,51.0,51.0,54.0,3.0,Increase
+Mali,2013,53.0,54.0,54.0,53.0,-1.0,Decrease
+Mali,2014,54.0,53.0,53.0,54.0,1.0,Increase
+Mali,2015,50.0,54.0,54.0,50.0,-4.0,Decrease
+Mali,2016,52.0,50.0,50.0,52.0,2.0,Increase
+Mali,2017,51.0,52.0,52.0,51.0,-1.0,Decrease
+Mali,2018,55.0,51.0,51.0,55.0,4.0,Increase
+Mali,2019,54.0,55.0,55.0,54.0,-1.0,Decrease
+Mali,2020,54.0,54.0,54.0,54.0,0.0,No change
+Mali,2021,54.0,54.0,54.0,54.0,0.0,No change
+Malta,2007,127.0,115.0,115.0,127.0,12.0,Increase
+Malta,2008,139.0,127.0,127.0,139.0,12.0,Increase
+Malta,2009,142.5,139.0,139.0,142.5,3.5,Increase
+Malta,2010,146.0,142.5,142.5,146.0,3.5,Increase
+Malta,2011,160.0,146.0,146.0,160.0,14.0,Increase
+Malta,2012,156.0,160.0,160.0,156.0,-4.0,Decrease
+Malta,2013,163.0,156.0,156.0,163.0,7.0,Increase
+Malta,2014,166.0,163.0,163.0,166.0,3.0,Increase
+Malta,2015,166.0,166.0,166.0,166.0,0.0,No change
+Malta,2016,168.0,166.0,166.0,168.0,2.0,Increase
+Malta,2017,167.0,168.0,168.0,167.0,-1.0,Decrease
+Malta,2018,183.0,167.0,167.0,183.0,16.0,Increase
+Malta,2019,183.0,183.0,183.0,183.0,0.0,No change
+Malta,2020,184.0,183.0,183.0,184.0,1.0,Increase
+Malta,2021,185.0,184.0,184.0,185.0,1.0,Increase
+Marshall Islands,2007,46.5,36.0,36.0,46.5,10.5,Increase
+Marshall Islands,2008,57.0,46.5,46.5,57.0,10.5,Increase
+Marshall Islands,2009,60.0,57.0,57.0,60.0,3.0,Increase
+Marshall Islands,2010,63.0,60.0,60.0,63.0,3.0,Increase
+Marshall Islands,2011,69.0,63.0,63.0,69.0,6.0,Increase
+Marshall Islands,2012,72.0,69.0,69.0,72.0,3.0,Increase
+Marshall Islands,2013,77.0,72.0,72.0,77.0,5.0,Increase
+Marshall Islands,2014,79.0,77.0,77.0,79.0,2.0,Increase
+Marshall Islands,2015,77.0,79.0,79.0,77.0,-2.0,Decrease
+Marshall Islands,2016,79.0,77.0,77.0,79.0,2.0,Increase
+Marshall Islands,2017,112.0,79.0,79.0,112.0,33.0,Increase
+Marshall Islands,2018,124.0,112.0,112.0,124.0,12.0,Increase
+Marshall Islands,2019,122.0,124.0,124.0,122.0,-2.0,Decrease
+Marshall Islands,2020,123.0,122.0,122.0,123.0,1.0,Increase
+Marshall Islands,2021,122.0,123.0,123.0,122.0,-1.0,Decrease
+Mauritania,2007,44.0,39.0,39.0,44.0,5.0,Increase
+Mauritania,2008,49.0,44.0,44.0,49.0,5.0,Increase
+Mauritania,2009,50.5,49.0,49.0,50.5,1.5,Increase
+Mauritania,2010,52.0,50.5,50.5,52.0,1.5,Increase
+Mauritania,2011,52.0,52.0,52.0,52.0,0.0,No change
+Mauritania,2012,54.0,52.0,52.0,54.0,2.0,Increase
+Mauritania,2013,55.0,54.0,54.0,55.0,1.0,Increase
+Mauritania,2014,55.0,55.0,55.0,55.0,0.0,No change
+Mauritania,2015,53.0,55.0,55.0,53.0,-2.0,Decrease
+Mauritania,2016,55.0,53.0,53.0,55.0,2.0,Increase
+Mauritania,2017,54.0,55.0,55.0,54.0,-1.0,Decrease
+Mauritania,2018,58.0,54.0,54.0,58.0,4.0,Increase
+Mauritania,2019,58.0,58.0,58.0,58.0,0.0,No change
+Mauritania,2020,59.0,58.0,58.0,59.0,1.0,Increase
+Mauritania,2021,59.0,59.0,59.0,59.0,0.0,No change
+Mauritius,2007,59.5,52.0,52.0,59.5,7.5,Increase
+Mauritius,2008,67.0,59.5,59.5,67.0,7.5,Increase
+Mauritius,2009,89.0,67.0,67.0,89.0,22.0,Increase
+Mauritius,2010,111.0,89.0,89.0,111.0,22.0,Increase
+Mauritius,2011,122.0,111.0,111.0,122.0,11.0,Increase
+Mauritius,2012,120.0,122.0,122.0,120.0,-2.0,Decrease
+Mauritius,2013,123.0,120.0,120.0,123.0,3.0,Increase
+Mauritius,2014,125.0,123.0,123.0,125.0,2.0,Increase
+Mauritius,2015,124.0,125.0,125.0,124.0,-1.0,Decrease
+Mauritius,2016,128.0,124.0,124.0,128.0,4.0,Increase
+Mauritius,2017,131.0,128.0,128.0,131.0,3.0,Increase
+Mauritius,2018,146.0,131.0,131.0,146.0,15.0,Increase
+Mauritius,2019,146.0,146.0,146.0,146.0,0.0,No change
+Mauritius,2020,148.0,146.0,146.0,148.0,2.0,Increase
+Mauritius,2021,146.0,148.0,148.0,146.0,-2.0,Decrease
+Mexico,2007,106.0,98.0,98.0,106.0,8.0,Increase
+Mexico,2008,114.0,106.0,106.0,114.0,8.0,Increase
+Mexico,2009,117.0,114.0,114.0,117.0,3.0,Increase
+Mexico,2010,120.0,117.0,117.0,120.0,3.0,Increase
+Mexico,2011,129.0,120.0,120.0,129.0,9.0,Increase
+Mexico,2012,127.0,129.0,129.0,127.0,-2.0,Decrease
+Mexico,2013,132.0,127.0,127.0,132.0,5.0,Increase
+Mexico,2014,133.0,132.0,132.0,133.0,1.0,Increase
+Mexico,2015,133.0,133.0,133.0,133.0,0.0,No change
+Mexico,2016,139.0,133.0,133.0,139.0,6.0,Increase
+Mexico,2017,142.0,139.0,139.0,142.0,3.0,Increase
+Mexico,2018,158.0,142.0,142.0,158.0,16.0,Increase
+Mexico,2019,158.0,158.0,158.0,158.0,0.0,No change
+Mexico,2020,159.0,158.0,158.0,159.0,1.0,Increase
+Mexico,2021,158.0,159.0,159.0,158.0,-1.0,Decrease
+Micronesia,2007,0.0,0.0,0.0,0.0,0.0,No change
+Micronesia,2008,0.0,0.0,0.0,0.0,0.0,No change
+Micronesia,2009,0.0,0.0,0.0,0.0,0.0,No change
+Micronesia,2010,60.0,0.0,0.0,60.0,60.0,Increase
+Micronesia,2011,66.0,60.0,60.0,66.0,6.0,Increase
+Micronesia,2012,67.0,66.0,66.0,67.0,1.0,Increase
+Micronesia,2013,73.0,67.0,67.0,73.0,6.0,Increase
+Micronesia,2014,75.0,73.0,73.0,75.0,2.0,Increase
+Micronesia,2015,73.0,75.0,75.0,73.0,-2.0,Decrease
+Micronesia,2016,75.0,73.0,73.0,75.0,2.0,Increase
+Micronesia,2017,106.0,75.0,75.0,106.0,31.0,Increase
+Micronesia,2018,122.0,106.0,106.0,122.0,16.0,Increase
+Micronesia,2019,119.0,122.0,122.0,119.0,-3.0,Decrease
+Micronesia,2020,118.0,119.0,119.0,118.0,-1.0,Decrease
+Micronesia,2021,117.0,118.0,118.0,117.0,-1.0,Decrease
+Moldova,2007,0.0,0.0,0.0,0.0,0.0,No change
+Moldova,2008,0.0,0.0,0.0,0.0,0.0,No change
+Moldova,2009,0.0,0.0,0.0,0.0,0.0,No change
+Moldova,2010,0.0,0.0,0.0,0.0,0.0,No change
+Moldova,2011,0.0,0.0,0.0,0.0,0.0,No change
+Moldova,2012,0.0,0.0,0.0,0.0,0.0,No change
+Moldova,2013,59.0,0.0,0.0,59.0,59.0,Increase
+Moldova,2014,89.0,59.0,59.0,89.0,30.0,Increase
+Moldova,2015,95.0,89.0,89.0,95.0,6.0,Increase
+Moldova,2016,101.0,95.0,95.0,101.0,6.0,Increase
+Moldova,2017,102.0,101.0,101.0,102.0,1.0,Increase
+Moldova,2018,122.0,102.0,102.0,122.0,20.0,Increase
+Moldova,2019,119.0,122.0,122.0,119.0,-3.0,Decrease
+Moldova,2020,120.0,119.0,119.0,120.0,1.0,Increase
+Moldova,2021,120.0,120.0,120.0,120.0,0.0,No change
+Monaco,2007,119.5,108.0,108.0,119.5,11.5,Increase
+Monaco,2008,131.0,119.5,119.5,131.0,11.5,Increase
+Monaco,2009,134.5,131.0,131.0,134.5,3.5,Increase
+Monaco,2010,138.0,134.5,134.5,138.0,3.5,Increase
+Monaco,2011,150.0,138.0,138.0,150.0,12.0,Increase
+Monaco,2012,147.0,150.0,150.0,147.0,-3.0,Decrease
+Monaco,2013,148.0,147.0,147.0,148.0,1.0,Increase
+Monaco,2014,150.0,148.0,148.0,150.0,2.0,Increase
+Monaco,2015,151.0,150.0,150.0,151.0,1.0,Increase
+Monaco,2016,160.0,151.0,151.0,160.0,9.0,Increase
+Monaco,2017,160.0,160.0,160.0,160.0,0.0,No change
+Monaco,2018,174.0,160.0,160.0,174.0,14.0,Increase
+Monaco,2019,173.0,174.0,174.0,173.0,-1.0,Decrease
+Monaco,2020,174.0,173.0,173.0,174.0,1.0,Increase
+Monaco,2021,174.0,174.0,174.0,174.0,0.0,No change
+Mongolia,2007,31.5,24.0,24.0,31.5,7.5,Increase
+Mongolia,2008,39.0,31.5,31.5,39.0,7.5,Increase
+Mongolia,2009,42.0,39.0,39.0,42.0,3.0,Increase
+Mongolia,2010,45.0,42.0,42.0,45.0,3.0,Increase
+Mongolia,2011,43.0,45.0,45.0,43.0,-2.0,Decrease
+Mongolia,2012,49.0,43.0,43.0,49.0,6.0,Increase
+Mongolia,2013,51.0,49.0,49.0,51.0,2.0,Increase
+Mongolia,2014,51.0,51.0,51.0,51.0,0.0,No change
+Mongolia,2015,52.0,51.0,51.0,52.0,1.0,Increase
+Mongolia,2016,56.0,52.0,52.0,56.0,4.0,Increase
+Mongolia,2017,54.0,56.0,56.0,54.0,-2.0,Decrease
+Mongolia,2018,61.0,54.0,54.0,61.0,7.0,Increase
+Mongolia,2019,62.0,61.0,61.0,62.0,1.0,Increase
+Mongolia,2020,62.0,62.0,62.0,62.0,0.0,No change
+Mongolia,2021,61.0,62.0,62.0,61.0,-1.0,Decrease
+Montenegro,2007,0.0,0.0,0.0,0.0,0.0,No change
+Montenegro,2008,0.0,0.0,0.0,0.0,0.0,No change
+Montenegro,2009,0.0,0.0,0.0,0.0,0.0,No change
+Montenegro,2010,86.0,0.0,0.0,86.0,86.0,Increase
+Montenegro,2011,97.0,86.0,86.0,97.0,11.0,Increase
+Montenegro,2012,94.0,97.0,97.0,94.0,-3.0,Decrease
+Montenegro,2013,98.0,94.0,94.0,98.0,4.0,Increase
+Montenegro,2014,99.0,98.0,98.0,99.0,1.0,Increase
+Montenegro,2015,104.0,99.0,99.0,104.0,5.0,Increase
+Montenegro,2016,107.0,104.0,104.0,107.0,3.0,Increase
+Montenegro,2017,107.0,107.0,107.0,107.0,0.0,No change
+Montenegro,2018,123.0,107.0,107.0,123.0,16.0,Increase
+Montenegro,2019,122.0,123.0,123.0,122.0,-1.0,Decrease
+Montenegro,2020,124.0,122.0,122.0,124.0,2.0,Increase
+Montenegro,2021,123.0,124.0,124.0,123.0,-1.0,Decrease
+Morocco,2007,36.0,30.0,30.0,36.0,6.0,Increase
+Morocco,2008,42.0,36.0,36.0,42.0,6.0,Increase
+Morocco,2009,46.5,42.0,42.0,46.5,4.5,Increase
+Morocco,2010,51.0,46.5,46.5,51.0,4.5,Increase
+Morocco,2011,50.0,51.0,51.0,50.0,-1.0,Decrease
+Morocco,2012,51.0,50.0,50.0,51.0,1.0,Increase
+Morocco,2013,51.0,51.0,51.0,51.0,0.0,No change
+Morocco,2014,55.0,51.0,51.0,55.0,4.0,Increase
+Morocco,2015,56.0,55.0,55.0,56.0,1.0,Increase
+Morocco,2016,59.0,56.0,56.0,59.0,3.0,Increase
+Morocco,2017,58.0,59.0,59.0,58.0,-1.0,Decrease
+Morocco,2018,61.0,58.0,58.0,61.0,3.0,Increase
+Morocco,2019,62.0,61.0,61.0,62.0,1.0,Increase
+Morocco,2020,64.0,62.0,62.0,64.0,2.0,Increase
+Morocco,2021,63.0,64.0,64.0,63.0,-1.0,Decrease
+Mozambique,2007,29.5,22.0,22.0,29.5,7.5,Increase
+Mozambique,2008,37.0,29.5,29.5,37.0,7.5,Increase
+Mozambique,2009,41.0,37.0,37.0,41.0,4.0,Increase
+Mozambique,2010,45.0,41.0,41.0,45.0,4.0,Increase
+Mozambique,2011,44.0,45.0,45.0,44.0,-1.0,Decrease
+Mozambique,2012,49.0,44.0,44.0,49.0,5.0,Increase
+Mozambique,2013,49.0,49.0,49.0,49.0,0.0,No change
+Mozambique,2014,51.0,49.0,49.0,51.0,2.0,Increase
+Mozambique,2015,49.0,51.0,51.0,49.0,-2.0,Decrease
+Mozambique,2016,51.0,49.0,49.0,51.0,2.0,Increase
+Mozambique,2017,55.0,51.0,51.0,55.0,4.0,Increase
+Mozambique,2018,58.0,55.0,55.0,58.0,3.0,Increase
+Mozambique,2019,60.0,58.0,58.0,60.0,2.0,Increase
+Mozambique,2020,62.0,60.0,60.0,62.0,2.0,Increase
+Mozambique,2021,62.0,62.0,62.0,62.0,0.0,No change
+Myanmar,2007,21.0,15.0,15.0,21.0,6.0,Increase
+Myanmar,2008,27.0,21.0,21.0,27.0,6.0,Increase
+Myanmar,2009,30.5,27.0,27.0,30.5,3.5,Increase
+Myanmar,2010,34.0,30.5,30.5,34.0,3.5,Increase
+Myanmar,2011,34.0,34.0,34.0,34.0,0.0,No change
+Myanmar,2012,37.0,34.0,34.0,37.0,3.0,Increase
+Myanmar,2013,40.0,37.0,37.0,40.0,3.0,Increase
+Myanmar,2014,42.0,40.0,40.0,42.0,2.0,Increase
+Myanmar,2015,40.0,42.0,42.0,40.0,-2.0,Decrease
+Myanmar,2016,42.0,40.0,40.0,42.0,2.0,Increase
+Myanmar,2017,41.0,42.0,42.0,41.0,-1.0,Decrease
+Myanmar,2018,48.0,41.0,41.0,48.0,7.0,Increase
+Myanmar,2019,46.0,48.0,48.0,46.0,-2.0,Decrease
+Myanmar,2020,47.0,46.0,46.0,47.0,1.0,Increase
+Myanmar,2021,46.0,47.0,47.0,46.0,-1.0,Decrease
+Namibia,2007,49.5,41.0,41.0,49.5,8.5,Increase
+Namibia,2008,58.0,49.5,49.5,58.0,8.5,Increase
+Namibia,2009,62.5,58.0,58.0,62.5,4.5,Increase
+Namibia,2010,67.0,62.5,62.5,67.0,4.5,Increase
+Namibia,2011,65.0,67.0,67.0,65.0,-2.0,Decrease
+Namibia,2012,67.0,65.0,65.0,67.0,2.0,Increase
+Namibia,2013,68.0,67.0,67.0,68.0,1.0,Increase
+Namibia,2014,71.0,68.0,68.0,71.0,3.0,Increase
+Namibia,2015,70.0,71.0,71.0,70.0,-1.0,Decrease
+Namibia,2016,70.0,70.0,70.0,70.0,0.0,No change
+Namibia,2017,71.0,70.0,70.0,71.0,1.0,Increase
+Namibia,2018,76.0,71.0,71.0,76.0,5.0,Increase
+Namibia,2019,76.0,76.0,76.0,76.0,0.0,No change
+Namibia,2020,77.0,76.0,76.0,77.0,1.0,Increase
+Namibia,2021,78.0,77.0,77.0,78.0,1.0,Increase
+Nauru,2007,54.0,44.0,44.0,54.0,10.0,Increase
+Nauru,2008,64.0,54.0,54.0,64.0,10.0,Increase
+Nauru,2009,68.5,64.0,64.0,68.5,4.5,Increase
+Nauru,2010,73.0,68.5,68.5,73.0,4.5,Increase
+Nauru,2011,73.0,73.0,73.0,73.0,0.0,No change
+Nauru,2012,75.0,73.0,73.0,75.0,2.0,Increase
+Nauru,2013,78.0,75.0,75.0,78.0,3.0,Increase
+Nauru,2014,81.0,78.0,78.0,81.0,3.0,Increase
+Nauru,2015,79.0,81.0,81.0,79.0,-2.0,Decrease
+Nauru,2016,80.0,79.0,79.0,80.0,1.0,Increase
+Nauru,2017,80.0,80.0,80.0,80.0,0.0,No change
+Nauru,2018,86.0,80.0,80.0,86.0,6.0,Increase
+Nauru,2019,87.0,86.0,86.0,87.0,1.0,Increase
+Nauru,2020,89.0,87.0,87.0,89.0,2.0,Increase
+Nauru,2021,89.0,89.0,89.0,89.0,0.0,No change
+Nepal,2007,26.0,20.0,20.0,26.0,6.0,Increase
+Nepal,2008,32.0,26.0,26.0,32.0,6.0,Increase
+Nepal,2009,35.0,32.0,32.0,35.0,3.0,Increase
+Nepal,2010,38.0,35.0,35.0,38.0,3.0,Increase
+Nepal,2011,34.0,38.0,38.0,34.0,-4.0,Decrease
+Nepal,2012,35.0,34.0,34.0,35.0,1.0,Increase
+Nepal,2013,37.0,35.0,35.0,37.0,2.0,Increase
+Nepal,2014,37.0,37.0,37.0,37.0,0.0,No change
+Nepal,2015,34.0,37.0,37.0,34.0,-3.0,Decrease
+Nepal,2016,37.0,34.0,34.0,37.0,3.0,Increase
+Nepal,2017,36.0,37.0,37.0,36.0,-1.0,Decrease
+Nepal,2018,40.0,36.0,36.0,40.0,4.0,Increase
+Nepal,2019,38.0,40.0,40.0,38.0,-2.0,Decrease
+Nepal,2020,38.0,38.0,38.0,38.0,0.0,No change
+Nepal,2021,37.0,38.0,38.0,37.0,-1.0,Decrease
+Netherlands,2007,140.0,126.0,126.0,140.0,14.0,Increase
+Netherlands,2008,154.0,140.0,140.0,154.0,14.0,Increase
+Netherlands,2009,157.5,154.0,154.0,157.5,3.5,Increase
+Netherlands,2010,161.0,157.5,157.5,161.0,3.5,Increase
+Netherlands,2011,171.0,161.0,161.0,171.0,10.0,Increase
+Netherlands,2012,167.0,171.0,171.0,167.0,-4.0,Decrease
+Netherlands,2013,171.0,167.0,167.0,171.0,4.0,Increase
+Netherlands,2014,172.0,171.0,171.0,172.0,1.0,Increase
+Netherlands,2015,171.0,172.0,172.0,171.0,-1.0,Decrease
+Netherlands,2016,174.0,171.0,171.0,174.0,3.0,Increase
+Netherlands,2017,173.0,174.0,174.0,173.0,-1.0,Decrease
+Netherlands,2018,186.0,173.0,173.0,186.0,13.0,Increase
+Netherlands,2019,185.0,186.0,186.0,185.0,-1.0,Decrease
+Netherlands,2020,186.0,185.0,185.0,186.0,1.0,Increase
+Netherlands,2021,187.0,186.0,186.0,187.0,1.0,Increase
+New Zealand,2007,137.5,125.0,125.0,137.5,12.5,Increase
+New Zealand,2008,150.0,137.5,137.5,150.0,12.5,Increase
+New Zealand,2009,153.5,150.0,150.0,153.5,3.5,Increase
+New Zealand,2010,157.0,153.5,153.5,157.0,3.5,Increase
+New Zealand,2011,166.0,157.0,157.0,166.0,9.0,Increase
+New Zealand,2012,165.0,166.0,166.0,165.0,-1.0,Decrease
+New Zealand,2013,168.0,165.0,165.0,168.0,3.0,Increase
+New Zealand,2014,170.0,168.0,168.0,170.0,2.0,Increase
+New Zealand,2015,170.0,170.0,170.0,170.0,0.0,No change
+New Zealand,2016,171.0,170.0,170.0,171.0,1.0,Increase
+New Zealand,2017,172.0,171.0,171.0,172.0,1.0,Increase
+New Zealand,2018,182.0,172.0,172.0,182.0,10.0,Increase
+New Zealand,2019,182.0,182.0,182.0,182.0,0.0,No change
+New Zealand,2020,185.0,182.0,182.0,185.0,3.0,Increase
+New Zealand,2021,186.0,185.0,185.0,186.0,1.0,Increase
+Nicaragua,2007,84.0,75.0,75.0,84.0,9.0,Increase
+Nicaragua,2008,93.0,84.0,84.0,93.0,9.0,Increase
+Nicaragua,2009,97.0,93.0,93.0,97.0,4.0,Increase
+Nicaragua,2010,101.0,97.0,97.0,101.0,4.0,Increase
+Nicaragua,2011,108.0,101.0,101.0,108.0,7.0,Increase
+Nicaragua,2012,105.0,108.0,108.0,105.0,-3.0,Decrease
+Nicaragua,2013,109.0,105.0,105.0,109.0,4.0,Increase
+Nicaragua,2014,110.0,109.0,109.0,110.0,1.0,Increase
+Nicaragua,2015,108.0,110.0,110.0,108.0,-2.0,Decrease
+Nicaragua,2016,110.0,108.0,108.0,110.0,2.0,Increase
+Nicaragua,2017,112.0,110.0,110.0,112.0,2.0,Increase
+Nicaragua,2018,128.0,112.0,112.0,128.0,16.0,Increase
+Nicaragua,2019,128.0,128.0,128.0,128.0,0.0,No change
+Nicaragua,2020,129.0,128.0,128.0,129.0,1.0,Increase
+Nicaragua,2021,126.0,129.0,129.0,126.0,-3.0,Decrease
+Niger,2007,42.0,37.0,37.0,42.0,5.0,Increase
+Niger,2008,47.0,42.0,42.0,47.0,5.0,Increase
+Niger,2009,49.0,47.0,47.0,49.0,2.0,Increase
+Niger,2010,51.0,49.0,49.0,51.0,2.0,Increase
+Niger,2011,48.0,51.0,51.0,48.0,-3.0,Decrease
+Niger,2012,52.0,48.0,48.0,52.0,4.0,Increase
+Niger,2013,53.0,52.0,52.0,53.0,1.0,Increase
+Niger,2014,54.0,53.0,53.0,54.0,1.0,Increase
+Niger,2015,51.0,54.0,54.0,51.0,-3.0,Decrease
+Niger,2016,55.0,51.0,51.0,55.0,4.0,Increase
+Niger,2017,52.0,55.0,55.0,52.0,-3.0,Decrease
+Niger,2018,54.0,52.0,52.0,54.0,2.0,Increase
+Niger,2019,54.0,54.0,54.0,54.0,0.0,No change
+Niger,2020,54.0,54.0,54.0,54.0,0.0,No change
+Niger,2021,53.0,54.0,54.0,53.0,-1.0,Decrease
+Nigeria,2007,40.0,35.0,35.0,40.0,5.0,Increase
+Nigeria,2008,45.0,40.0,40.0,45.0,5.0,Increase
+Nigeria,2009,48.0,45.0,45.0,48.0,3.0,Increase
+Nigeria,2010,51.0,48.0,48.0,51.0,3.0,Increase
+Nigeria,2011,46.0,51.0,51.0,46.0,-5.0,Decrease
+Nigeria,2012,46.0,46.0,46.0,46.0,0.0,No change
+Nigeria,2013,48.0,46.0,46.0,48.0,2.0,Increase
+Nigeria,2014,49.0,48.0,48.0,49.0,1.0,Increase
+Nigeria,2015,44.0,49.0,49.0,44.0,-5.0,Decrease
+Nigeria,2016,45.0,44.0,44.0,45.0,1.0,Increase
+Nigeria,2017,44.0,45.0,45.0,44.0,-1.0,Decrease
+Nigeria,2018,47.0,44.0,44.0,47.0,3.0,Increase
+Nigeria,2019,46.0,47.0,47.0,46.0,-1.0,Decrease
+Nigeria,2020,46.0,46.0,46.0,46.0,0.0,No change
+Nigeria,2021,45.0,46.0,46.0,45.0,-1.0,Decrease
+North Korea,2007,23.5,18.0,18.0,23.5,5.5,Increase
+North Korea,2008,29.0,23.5,23.5,29.0,5.5,Increase
+North Korea,2009,32.5,29.0,29.0,32.5,3.5,Increase
+North Korea,2010,36.0,32.5,32.5,36.0,3.5,Increase
+North Korea,2011,37.0,36.0,36.0,37.0,1.0,Increase
+North Korea,2012,39.0,37.0,37.0,39.0,2.0,Increase
+North Korea,2013,41.0,39.0,39.0,41.0,2.0,Increase
+North Korea,2014,42.0,41.0,41.0,42.0,1.0,Increase
+North Korea,2015,39.0,42.0,42.0,39.0,-3.0,Decrease
+North Korea,2016,42.0,39.0,39.0,42.0,3.0,Increase
+North Korea,2017,40.0,42.0,42.0,40.0,-2.0,Decrease
+North Korea,2018,42.0,40.0,40.0,42.0,2.0,Increase
+North Korea,2019,39.0,42.0,42.0,39.0,-3.0,Decrease
+North Korea,2020,39.0,39.0,39.0,39.0,0.0,No change
+North Korea,2021,39.0,39.0,39.0,39.0,0.0,No change
+North Macedonia,2007,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2008,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2009,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2010,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2011,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2012,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2013,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2014,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2015,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2016,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2017,0.0,0.0,0.0,0.0,0.0,No change
+North Macedonia,2018,125.0,0.0,0.0,125.0,125.0,Increase
+North Macedonia,2019,123.0,125.0,125.0,123.0,-2.0,Decrease
+North Macedonia,2020,124.0,123.0,123.0,124.0,1.0,Increase
+North Macedonia,2021,125.0,124.0,124.0,125.0,1.0,Increase
+Norway,2007,140.0,127.0,127.0,140.0,13.0,Increase
+Norway,2008,153.0,140.0,140.0,153.0,13.0,Increase
+Norway,2009,156.0,153.0,153.0,156.0,3.0,Increase
+Norway,2010,159.0,156.0,156.0,159.0,3.0,Increase
+Norway,2011,170.0,159.0,159.0,170.0,11.0,Increase
+Norway,2012,165.0,170.0,170.0,165.0,-5.0,Decrease
+Norway,2013,170.0,165.0,165.0,170.0,5.0,Increase
+Norway,2014,171.0,170.0,170.0,171.0,1.0,Increase
+Norway,2015,171.0,171.0,171.0,171.0,0.0,No change
+Norway,2016,172.0,171.0,171.0,172.0,1.0,Increase
+Norway,2017,173.0,172.0,172.0,173.0,1.0,Increase
+Norway,2018,186.0,173.0,173.0,186.0,13.0,Increase
+Norway,2019,184.0,186.0,186.0,184.0,-2.0,Decrease
+Norway,2020,185.0,184.0,184.0,185.0,1.0,Increase
+Norway,2021,185.0,185.0,185.0,185.0,0.0,No change
+Oman,2007,42.5,36.0,36.0,42.5,6.5,Increase
+Oman,2008,49.0,42.5,42.5,49.0,6.5,Increase
+Oman,2009,55.0,49.0,49.0,55.0,6.0,Increase
+Oman,2010,61.0,55.0,55.0,61.0,6.0,Increase
+Oman,2011,60.0,61.0,61.0,60.0,-1.0,Decrease
+Oman,2012,61.0,60.0,60.0,61.0,1.0,Increase
+Oman,2013,63.0,61.0,61.0,63.0,2.0,Increase
+Oman,2014,66.0,63.0,63.0,66.0,3.0,Increase
+Oman,2015,68.0,66.0,66.0,68.0,2.0,Increase
+Oman,2016,71.0,68.0,68.0,71.0,3.0,Increase
+Oman,2017,69.0,71.0,71.0,69.0,-2.0,Decrease
+Oman,2018,78.0,69.0,69.0,78.0,9.0,Increase
+Oman,2019,79.0,78.0,78.0,79.0,1.0,Increase
+Oman,2020,80.0,79.0,79.0,80.0,1.0,Increase
+Oman,2021,80.0,80.0,80.0,80.0,0.0,No change
+Pakistan,2007,21.0,17.0,17.0,21.0,4.0,Increase
+Pakistan,2008,25.0,21.0,21.0,25.0,4.0,Increase
+Pakistan,2009,30.5,25.0,25.0,30.5,5.5,Increase
+Pakistan,2010,36.0,30.5,30.5,36.0,5.5,Increase
+Pakistan,2011,31.0,36.0,36.0,31.0,-5.0,Decrease
+Pakistan,2012,32.0,31.0,31.0,32.0,1.0,Increase
+Pakistan,2013,32.0,32.0,32.0,32.0,0.0,No change
+Pakistan,2014,32.0,32.0,32.0,32.0,0.0,No change
+Pakistan,2015,31.0,32.0,32.0,31.0,-1.0,Decrease
+Pakistan,2016,29.0,31.0,31.0,29.0,-2.0,Decrease
+Pakistan,2017,28.0,29.0,29.0,28.0,-1.0,Decrease
+Pakistan,2018,33.0,28.0,28.0,33.0,5.0,Increase
+Pakistan,2019,31.0,33.0,33.0,31.0,-2.0,Decrease
+Pakistan,2020,32.0,31.0,31.0,32.0,1.0,Increase
+Pakistan,2021,31.0,32.0,32.0,31.0,-1.0,Decrease
+Palau Islands,2007,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2008,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2009,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2010,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2011,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2012,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2013,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2014,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2015,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2016,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2017,0.0,0.0,0.0,0.0,0.0,No change
+Palau Islands,2018,119.0,0.0,0.0,119.0,119.0,Increase
+Palau Islands,2019,119.0,119.0,119.0,119.0,0.0,No change
+Palau Islands,2020,120.0,119.0,119.0,120.0,1.0,Increase
+Palau Islands,2021,119.0,120.0,120.0,119.0,-1.0,Decrease
+Palestinian Territory,2007,0.0,0.0,0.0,0.0,0.0,No change
+Palestinian Territory,2008,0.0,0.0,0.0,0.0,0.0,No change
+Palestinian Territory,2009,0.0,0.0,0.0,0.0,0.0,No change
+Palestinian Territory,2010,0.0,0.0,0.0,0.0,0.0,No change
+Palestinian Territory,2011,33.0,0.0,0.0,33.0,33.0,Increase
+Palestinian Territory,2012,32.0,33.0,33.0,32.0,-1.0,Decrease
+Palestinian Territory,2013,36.0,32.0,32.0,36.0,4.0,Increase
+Palestinian Territory,2014,35.0,36.0,36.0,35.0,-1.0,Decrease
+Palestinian Territory,2015,34.0,35.0,35.0,34.0,-1.0,Decrease
+Palestinian Territory,2016,37.0,34.0,34.0,37.0,3.0,Increase
+Palestinian Territory,2017,36.0,37.0,37.0,36.0,-1.0,Decrease
+Palestinian Territory,2018,39.0,36.0,36.0,39.0,3.0,Increase
+Palestinian Territory,2019,37.0,39.0,39.0,37.0,-2.0,Decrease
+Palestinian Territory,2020,38.0,37.0,37.0,38.0,1.0,Increase
+Palestinian Territory,2021,37.0,38.0,38.0,37.0,-1.0,Decrease
+Panama,2007,91.0,82.0,82.0,91.0,9.0,Increase
+Panama,2008,100.0,91.0,91.0,100.0,9.0,Increase
+Panama,2009,103.0,100.0,100.0,103.0,3.0,Increase
+Panama,2010,106.0,103.0,103.0,106.0,3.0,Increase
+Panama,2011,114.0,106.0,106.0,114.0,8.0,Increase
+Panama,2012,113.0,114.0,114.0,113.0,-1.0,Decrease
+Panama,2013,121.0,113.0,113.0,121.0,8.0,Increase
+Panama,2014,124.0,121.0,121.0,124.0,3.0,Increase
+Panama,2015,125.0,124.0,124.0,125.0,1.0,Increase
+Panama,2016,127.0,125.0,125.0,127.0,2.0,Increase
+Panama,2017,127.0,127.0,127.0,127.0,0.0,No change
+Panama,2018,141.0,127.0,127.0,141.0,14.0,Increase
+Panama,2019,140.0,141.0,141.0,140.0,-1.0,Decrease
+Panama,2020,142.0,140.0,140.0,142.0,2.0,Increase
+Panama,2021,141.0,142.0,142.0,141.0,-1.0,Decrease
+Papua New Guinea,2007,50.0,41.0,41.0,50.0,9.0,Increase
+Papua New Guinea,2008,59.0,50.0,50.0,59.0,9.0,Increase
+Papua New Guinea,2009,64.5,59.0,59.0,64.5,5.5,Increase
+Papua New Guinea,2010,70.0,64.5,64.5,70.0,5.5,Increase
+Papua New Guinea,2011,70.0,70.0,70.0,70.0,0.0,No change
+Papua New Guinea,2012,72.0,70.0,70.0,72.0,2.0,Increase
+Papua New Guinea,2013,75.0,72.0,72.0,75.0,3.0,Increase
+Papua New Guinea,2014,78.0,75.0,75.0,78.0,3.0,Increase
+Papua New Guinea,2015,76.0,78.0,78.0,76.0,-2.0,Decrease
+Papua New Guinea,2016,77.0,76.0,76.0,77.0,1.0,Increase
+Papua New Guinea,2017,76.0,77.0,77.0,76.0,-1.0,Decrease
+Papua New Guinea,2018,83.0,76.0,76.0,83.0,7.0,Increase
+Papua New Guinea,2019,83.0,83.0,83.0,83.0,0.0,No change
+Papua New Guinea,2020,84.0,83.0,83.0,84.0,1.0,Increase
+Papua New Guinea,2021,82.0,84.0,84.0,82.0,-2.0,Decrease
+Paraguay,2007,93.0,82.0,82.0,93.0,11.0,Increase
+Paraguay,2008,104.0,93.0,93.0,104.0,11.0,Increase
+Paraguay,2009,108.0,104.0,104.0,108.0,4.0,Increase
+Paraguay,2010,112.0,108.0,108.0,112.0,4.0,Increase
+Paraguay,2011,121.0,112.0,112.0,121.0,9.0,Increase
+Paraguay,2012,119.0,121.0,121.0,119.0,-2.0,Decrease
+Paraguay,2013,124.0,119.0,119.0,124.0,5.0,Increase
+Paraguay,2014,123.0,124.0,124.0,123.0,-1.0,Decrease
+Paraguay,2015,123.0,123.0,123.0,123.0,0.0,No change
+Paraguay,2016,125.0,123.0,123.0,125.0,2.0,Increase
+Paraguay,2017,128.0,125.0,125.0,128.0,3.0,Increase
+Paraguay,2018,143.0,128.0,128.0,143.0,15.0,Increase
+Paraguay,2019,142.0,143.0,143.0,142.0,-1.0,Decrease
+Paraguay,2020,141.0,142.0,142.0,141.0,-1.0,Decrease
+Paraguay,2021,141.0,141.0,141.0,141.0,0.0,No change
+Peru,2007,51.5,41.0,41.0,51.5,10.5,Increase
+Peru,2008,62.0,51.5,51.5,62.0,10.5,Increase
+Peru,2009,66.5,62.0,62.0,66.5,4.5,Increase
+Peru,2010,71.0,66.5,66.5,71.0,4.5,Increase
+Peru,2011,75.0,71.0,71.0,75.0,4.0,Increase
+Peru,2012,76.0,75.0,75.0,76.0,1.0,Increase
+Peru,2013,80.0,76.0,76.0,80.0,4.0,Increase
+Peru,2014,83.0,80.0,80.0,83.0,3.0,Increase
+Peru,2015,82.0,83.0,83.0,82.0,-1.0,Decrease
+Peru,2016,86.0,82.0,82.0,86.0,4.0,Increase
+Peru,2017,118.0,86.0,86.0,118.0,32.0,Increase
+Peru,2018,135.0,118.0,118.0,135.0,17.0,Increase
+Peru,2019,135.0,135.0,135.0,135.0,0.0,No change
+Peru,2020,135.0,135.0,135.0,135.0,0.0,No change
+Peru,2021,134.0,135.0,135.0,134.0,-1.0,Decrease
+Philippines,2007,41.5,33.0,33.0,41.5,8.5,Increase
+Philippines,2008,50.0,41.5,41.5,50.0,8.5,Increase
+Philippines,2009,52.0,50.0,50.0,52.0,2.0,Increase
+Philippines,2010,54.0,52.0,52.0,54.0,2.0,Increase
+Philippines,2011,58.0,54.0,54.0,58.0,4.0,Increase
+Philippines,2012,59.0,58.0,58.0,59.0,1.0,Increase
+Philippines,2013,58.0,59.0,59.0,58.0,-1.0,Decrease
+Philippines,2014,62.0,58.0,58.0,62.0,4.0,Increase
+Philippines,2015,60.0,62.0,62.0,60.0,-2.0,Decrease
+Philippines,2016,61.0,60.0,60.0,61.0,1.0,Increase
+Philippines,2017,61.0,61.0,61.0,61.0,0.0,No change
+Philippines,2018,66.0,61.0,61.0,66.0,5.0,Increase
+Philippines,2019,65.0,66.0,66.0,65.0,-1.0,Decrease
+Philippines,2020,66.0,65.0,65.0,66.0,1.0,Increase
+Philippines,2021,65.0,66.0,66.0,65.0,-1.0,Decrease
+Poland,2007,119.0,106.0,106.0,119.0,13.0,Increase
+Poland,2008,132.0,119.0,119.0,132.0,13.0,Increase
+Poland,2009,138.5,132.0,132.0,138.5,6.5,Increase
+Poland,2010,145.0,138.5,138.5,145.0,6.5,Increase
+Poland,2011,154.0,145.0,145.0,154.0,9.0,Increase
+Poland,2012,150.0,154.0,154.0,150.0,-4.0,Decrease
+Poland,2013,153.0,150.0,150.0,153.0,3.0,Increase
+Poland,2014,157.0,153.0,153.0,157.0,4.0,Increase
+Poland,2015,157.0,157.0,157.0,157.0,0.0,No change
+Poland,2016,161.0,157.0,157.0,161.0,4.0,Increase
+Poland,2017,162.0,161.0,161.0,162.0,1.0,Increase
+Poland,2018,175.0,162.0,162.0,175.0,13.0,Increase
+Poland,2019,174.0,175.0,175.0,174.0,-1.0,Decrease
+Poland,2020,181.0,174.0,174.0,181.0,7.0,Increase
+Poland,2021,182.0,181.0,181.0,182.0,1.0,Increase
+Portugal,2007,139.5,123.0,123.0,139.5,16.5,Increase
+Portugal,2008,156.0,139.5,139.5,156.0,16.5,Increase
+Portugal,2009,157.0,156.0,156.0,157.0,1.0,Increase
+Portugal,2010,158.0,157.0,157.0,158.0,1.0,Increase
+Portugal,2011,170.0,158.0,158.0,170.0,12.0,Increase
+Portugal,2012,165.0,170.0,170.0,165.0,-5.0,Decrease
+Portugal,2013,170.0,165.0,165.0,170.0,5.0,Increase
+Portugal,2014,172.0,170.0,170.0,172.0,2.0,Increase
+Portugal,2015,170.0,172.0,172.0,170.0,-2.0,Decrease
+Portugal,2016,172.0,170.0,170.0,172.0,2.0,Increase
+Portugal,2017,171.0,172.0,172.0,171.0,-1.0,Decrease
+Portugal,2018,186.0,171.0,171.0,186.0,15.0,Increase
+Portugal,2019,185.0,186.0,186.0,185.0,-1.0,Decrease
+Portugal,2020,186.0,185.0,185.0,186.0,1.0,Increase
+Portugal,2021,187.0,186.0,186.0,187.0,1.0,Increase
+Qatar,2007,45.0,37.0,37.0,45.0,8.0,Increase
+Qatar,2008,53.0,45.0,45.0,53.0,8.0,Increase
+Qatar,2009,59.5,53.0,53.0,59.5,6.5,Increase
+Qatar,2010,66.0,59.5,59.5,66.0,6.5,Increase
+Qatar,2011,66.0,66.0,66.0,66.0,0.0,No change
+Qatar,2012,67.0,66.0,66.0,67.0,1.0,Increase
+Qatar,2013,71.0,67.0,67.0,71.0,4.0,Increase
+Qatar,2014,75.0,71.0,71.0,75.0,4.0,Increase
+Qatar,2015,74.0,75.0,75.0,74.0,-1.0,Decrease
+Qatar,2016,79.0,74.0,74.0,79.0,5.0,Increase
+Qatar,2017,76.0,79.0,79.0,76.0,-3.0,Decrease
+Qatar,2018,85.0,76.0,76.0,85.0,9.0,Increase
+Qatar,2019,92.0,85.0,85.0,92.0,7.0,Increase
+Qatar,2020,95.0,92.0,92.0,95.0,3.0,Increase
+Qatar,2021,97.0,95.0,95.0,97.0,2.0,Increase
+Romania,2007,94.0,73.0,73.0,94.0,21.0,Increase
+Romania,2008,115.0,94.0,94.0,115.0,21.0,Increase
+Romania,2009,125.5,115.0,115.0,125.5,10.5,Increase
+Romania,2010,136.0,125.5,125.5,136.0,10.5,Increase
+Romania,2011,144.0,136.0,136.0,144.0,8.0,Increase
+Romania,2012,138.0,144.0,144.0,138.0,-6.0,Decrease
+Romania,2013,141.0,138.0,138.0,141.0,3.0,Increase
+Romania,2014,148.0,141.0,141.0,148.0,7.0,Increase
+Romania,2015,148.0,148.0,148.0,148.0,0.0,No change
+Romania,2016,153.0,148.0,148.0,153.0,5.0,Increase
+Romania,2017,153.0,153.0,153.0,153.0,0.0,No change
+Romania,2018,169.0,153.0,153.0,169.0,16.0,Increase
+Romania,2019,171.0,169.0,169.0,171.0,2.0,Increase
+Romania,2020,172.0,171.0,171.0,172.0,1.0,Increase
+Romania,2021,174.0,172.0,172.0,174.0,2.0,Increase
+Russian Federation,2007,47.5,35.0,35.0,47.5,12.5,Increase
+Russian Federation,2008,60.0,47.5,47.5,60.0,12.5,Increase
+Russian Federation,2009,71.5,60.0,60.0,71.5,11.5,Increase
+Russian Federation,2010,83.0,71.5,71.5,83.0,11.5,Increase
+Russian Federation,2011,89.0,83.0,83.0,89.0,6.0,Increase
+Russian Federation,2012,94.0,89.0,89.0,94.0,5.0,Increase
+Russian Federation,2013,95.0,94.0,94.0,95.0,1.0,Increase
+Russian Federation,2014,100.0,95.0,95.0,100.0,5.0,Increase
+Russian Federation,2015,102.0,100.0,100.0,102.0,2.0,Increase
+Russian Federation,2016,105.0,102.0,102.0,105.0,3.0,Increase
+Russian Federation,2017,106.0,105.0,105.0,106.0,1.0,Increase
+Russian Federation,2018,119.0,106.0,106.0,119.0,13.0,Increase
+Russian Federation,2019,117.0,119.0,119.0,117.0,-2.0,Decrease
+Russian Federation,2020,117.0,117.0,117.0,117.0,0.0,No change
+Russian Federation,2021,118.0,117.0,117.0,118.0,1.0,Increase
+Rwanda,2007,28.5,23.0,23.0,28.5,5.5,Increase
+Rwanda,2008,34.0,28.5,28.5,34.0,5.5,Increase
+Rwanda,2009,36.5,34.0,34.0,36.5,2.5,Increase
+Rwanda,2010,39.0,36.5,36.5,39.0,2.5,Increase
+Rwanda,2011,39.0,39.0,39.0,39.0,0.0,No change
+Rwanda,2012,43.0,39.0,39.0,43.0,4.0,Increase
+Rwanda,2013,44.0,43.0,43.0,44.0,1.0,Increase
+Rwanda,2014,46.0,44.0,44.0,46.0,2.0,Increase
+Rwanda,2015,47.0,46.0,46.0,47.0,1.0,Increase
+Rwanda,2016,48.0,47.0,47.0,48.0,1.0,Increase
+Rwanda,2017,51.0,48.0,48.0,51.0,3.0,Increase
+Rwanda,2018,54.0,51.0,51.0,54.0,3.0,Increase
+Rwanda,2019,57.0,54.0,54.0,57.0,3.0,Increase
+Rwanda,2020,60.0,57.0,57.0,60.0,3.0,Increase
+Rwanda,2021,61.0,60.0,60.0,61.0,1.0,Increase
+Samoa,2007,59.0,49.0,49.0,59.0,10.0,Increase
+Samoa,2008,69.0,59.0,59.0,69.0,10.0,Increase
+Samoa,2009,73.0,69.0,69.0,73.0,4.0,Increase
+Samoa,2010,77.0,73.0,73.0,77.0,4.0,Increase
+Samoa,2011,78.0,77.0,77.0,78.0,1.0,Increase
+Samoa,2012,79.0,78.0,78.0,79.0,1.0,Increase
+Samoa,2013,81.0,79.0,79.0,81.0,2.0,Increase
+Samoa,2014,85.0,81.0,81.0,85.0,4.0,Increase
+Samoa,2015,109.0,85.0,85.0,109.0,24.0,Increase
+Samoa,2016,112.0,109.0,109.0,112.0,3.0,Increase
+Samoa,2017,114.0,112.0,112.0,114.0,2.0,Increase
+Samoa,2018,129.0,114.0,114.0,129.0,15.0,Increase
+Samoa,2019,131.0,129.0,129.0,131.0,2.0,Increase
+Samoa,2020,131.0,131.0,131.0,131.0,0.0,No change
+Samoa,2021,131.0,131.0,131.0,131.0,0.0,No change
+San Marino,2007,121.5,109.0,109.0,121.5,12.5,Increase
+San Marino,2008,134.0,121.5,121.5,134.0,12.5,Increase
+San Marino,2009,134.5,134.0,134.0,134.5,0.5,Increase
+San Marino,2010,135.0,134.5,134.5,135.0,0.5,Increase
+San Marino,2011,148.0,135.0,135.0,148.0,13.0,Increase
+San Marino,2012,143.0,148.0,148.0,143.0,-5.0,Decrease
+San Marino,2013,149.0,143.0,143.0,149.0,6.0,Increase
+San Marino,2014,151.0,149.0,149.0,151.0,2.0,Increase
+San Marino,2015,153.0,151.0,151.0,153.0,2.0,Increase
+San Marino,2016,156.0,153.0,153.0,156.0,3.0,Increase
+San Marino,2017,155.0,156.0,156.0,155.0,-1.0,Decrease
+San Marino,2018,168.0,155.0,155.0,168.0,13.0,Increase
+San Marino,2019,167.0,168.0,168.0,167.0,-1.0,Decrease
+San Marino,2020,168.0,167.0,167.0,168.0,1.0,Increase
+San Marino,2021,169.0,168.0,168.0,169.0,1.0,Increase
+Sao Tome and Principe,2007,29.5,22.0,22.0,29.5,7.5,Increase
+Sao Tome and Principe,2008,37.0,29.5,29.5,37.0,7.5,Increase
+Sao Tome and Principe,2009,40.5,37.0,37.0,40.5,3.5,Increase
+Sao Tome and Principe,2010,44.0,40.5,40.5,44.0,3.5,Increase
+Sao Tome and Principe,2011,45.0,44.0,44.0,45.0,1.0,Increase
+Sao Tome and Principe,2012,48.0,45.0,45.0,48.0,3.0,Increase
+Sao Tome and Principe,2013,50.0,48.0,48.0,50.0,2.0,Increase
+Sao Tome and Principe,2014,54.0,50.0,50.0,54.0,4.0,Increase
+Sao Tome and Principe,2015,50.0,54.0,54.0,50.0,-4.0,Decrease
+Sao Tome and Principe,2016,54.0,50.0,50.0,54.0,4.0,Increase
+Sao Tome and Principe,2017,55.0,54.0,54.0,55.0,1.0,Increase
+Sao Tome and Principe,2018,58.0,55.0,55.0,58.0,3.0,Increase
+Sao Tome and Principe,2019,60.0,58.0,58.0,60.0,2.0,Increase
+Sao Tome and Principe,2020,61.0,60.0,60.0,61.0,1.0,Increase
+Sao Tome and Principe,2021,60.0,61.0,61.0,60.0,-1.0,Decrease
+Saudi Arabia,2007,36.5,31.0,31.0,36.5,5.5,Increase
+Saudi Arabia,2008,42.0,36.5,36.5,42.0,5.5,Increase
+Saudi Arabia,2009,49.5,42.0,42.0,49.5,7.5,Increase
+Saudi Arabia,2010,57.0,49.5,49.5,57.0,7.5,Increase
+Saudi Arabia,2011,58.0,57.0,57.0,58.0,1.0,Increase
+Saudi Arabia,2012,59.0,58.0,58.0,59.0,1.0,Increase
+Saudi Arabia,2013,64.0,59.0,59.0,64.0,5.0,Increase
+Saudi Arabia,2014,65.0,64.0,64.0,65.0,1.0,Increase
+Saudi Arabia,2015,66.0,65.0,65.0,66.0,1.0,Increase
+Saudi Arabia,2016,69.0,66.0,66.0,69.0,3.0,Increase
+Saudi Arabia,2017,68.0,69.0,69.0,68.0,-1.0,Decrease
+Saudi Arabia,2018,75.0,68.0,68.0,75.0,7.0,Increase
+Saudi Arabia,2019,74.0,75.0,75.0,74.0,-1.0,Decrease
+Saudi Arabia,2020,78.0,74.0,74.0,78.0,4.0,Increase
+Saudi Arabia,2021,79.0,78.0,78.0,79.0,1.0,Increase
+Senegal,2007,42.5,37.0,37.0,42.5,5.5,Increase
+Senegal,2008,48.0,42.5,42.5,48.0,5.5,Increase
+Senegal,2009,49.5,48.0,48.0,49.5,1.5,Increase
+Senegal,2010,51.0,49.5,49.5,51.0,1.5,Increase
+Senegal,2011,52.0,51.0,51.0,52.0,1.0,Increase
+Senegal,2012,54.0,52.0,52.0,54.0,2.0,Increase
+Senegal,2013,55.0,54.0,54.0,55.0,1.0,Increase
+Senegal,2014,57.0,55.0,55.0,57.0,2.0,Increase
+Senegal,2015,53.0,57.0,57.0,53.0,-4.0,Decrease
+Senegal,2016,55.0,53.0,53.0,55.0,2.0,Increase
+Senegal,2017,53.0,55.0,55.0,53.0,-2.0,Decrease
+Senegal,2018,56.0,53.0,53.0,56.0,3.0,Increase
+Senegal,2019,55.0,56.0,56.0,55.0,-1.0,Decrease
+Senegal,2020,56.0,55.0,55.0,56.0,1.0,Increase
+Senegal,2021,56.0,56.0,56.0,56.0,0.0,No change
+Serbia,2007,41.0,32.0,32.0,41.0,9.0,Increase
+Serbia,2008,50.0,41.0,41.0,50.0,9.0,Increase
+Serbia,2009,69.0,50.0,50.0,69.0,19.0,Increase
+Serbia,2010,88.0,69.0,69.0,88.0,19.0,Increase
+Serbia,2011,100.0,88.0,88.0,100.0,12.0,Increase
+Serbia,2012,99.0,100.0,100.0,99.0,-1.0,Decrease
+Serbia,2013,104.0,99.0,99.0,104.0,5.0,Increase
+Serbia,2014,107.0,104.0,104.0,107.0,3.0,Increase
+Serbia,2015,110.0,107.0,107.0,110.0,3.0,Increase
+Serbia,2016,115.0,110.0,110.0,115.0,5.0,Increase
+Serbia,2017,115.0,115.0,115.0,115.0,0.0,No change
+Serbia,2018,130.0,115.0,115.0,130.0,15.0,Increase
+Serbia,2019,131.0,130.0,130.0,131.0,1.0,Increase
+Serbia,2020,134.0,131.0,131.0,134.0,3.0,Increase
+Serbia,2021,135.0,134.0,134.0,135.0,1.0,Increase
+Seychelles,2007,61.5,52.0,52.0,61.5,9.5,Increase
+Seychelles,2008,71.0,61.5,61.5,71.0,9.5,Increase
+Seychelles,2009,92.0,71.0,71.0,92.0,21.0,Increase
+Seychelles,2010,113.0,92.0,92.0,113.0,21.0,Increase
+Seychelles,2011,124.0,113.0,113.0,124.0,11.0,Increase
+Seychelles,2012,122.0,124.0,124.0,122.0,-2.0,Decrease
+Seychelles,2013,126.0,122.0,122.0,126.0,4.0,Increase
+Seychelles,2014,129.0,126.0,126.0,129.0,3.0,Increase
+Seychelles,2015,129.0,129.0,129.0,129.0,0.0,No change
+Seychelles,2016,133.0,129.0,129.0,133.0,4.0,Increase
+Seychelles,2017,137.0,133.0,133.0,137.0,4.0,Increase
+Seychelles,2018,152.0,137.0,137.0,152.0,15.0,Increase
+Seychelles,2019,151.0,152.0,152.0,151.0,-1.0,Decrease
+Seychelles,2020,151.0,151.0,151.0,151.0,0.0,No change
+Seychelles,2021,152.0,151.0,151.0,152.0,1.0,Increase
+Sierra Leone,2007,53.5,47.0,47.0,53.5,6.5,Increase
+Sierra Leone,2008,60.0,53.5,53.5,60.0,6.5,Increase
+Sierra Leone,2009,62.5,60.0,60.0,62.5,2.5,Increase
+Sierra Leone,2010,65.0,62.5,62.5,65.0,2.5,Increase
+Sierra Leone,2011,64.0,65.0,65.0,64.0,-1.0,Decrease
+Sierra Leone,2012,63.0,64.0,64.0,63.0,-1.0,Decrease
+Sierra Leone,2013,63.0,63.0,63.0,63.0,0.0,No change
+Sierra Leone,2014,65.0,63.0,63.0,65.0,2.0,Increase
+Sierra Leone,2015,49.0,65.0,65.0,49.0,-16.0,Decrease
+Sierra Leone,2016,51.0,49.0,49.0,51.0,2.0,Increase
+Sierra Leone,2017,55.0,51.0,51.0,55.0,4.0,Increase
+Sierra Leone,2018,62.0,55.0,55.0,62.0,7.0,Increase
+Sierra Leone,2019,63.0,62.0,62.0,63.0,1.0,Increase
+Sierra Leone,2020,63.0,63.0,63.0,63.0,0.0,No change
+Sierra Leone,2021,63.0,63.0,63.0,63.0,0.0,No change
+Singapore,2007,136.0,122.0,122.0,136.0,14.0,Increase
+Singapore,2008,150.0,136.0,136.0,150.0,14.0,Increase
+Singapore,2009,152.5,150.0,150.0,152.5,2.5,Increase
+Singapore,2010,155.0,152.5,152.5,155.0,2.5,Increase
+Singapore,2011,164.0,155.0,155.0,164.0,9.0,Increase
+Singapore,2012,161.0,164.0,164.0,161.0,-3.0,Decrease
+Singapore,2013,167.0,161.0,161.0,167.0,6.0,Increase
+Singapore,2014,170.0,167.0,167.0,170.0,3.0,Increase
+Singapore,2015,169.0,170.0,170.0,169.0,-1.0,Decrease
+Singapore,2016,173.0,169.0,169.0,173.0,4.0,Increase
+Singapore,2017,173.0,173.0,173.0,173.0,0.0,No change
+Singapore,2018,189.0,173.0,173.0,189.0,16.0,Increase
+Singapore,2019,190.0,189.0,189.0,190.0,1.0,Increase
+Singapore,2020,190.0,190.0,190.0,190.0,0.0,No change
+Singapore,2021,192.0,190.0,190.0,192.0,2.0,Increase
+Slovakia,2007,113.5,97.0,97.0,113.5,16.5,Increase
+Slovakia,2008,130.0,113.5,113.5,130.0,16.5,Increase
+Slovakia,2009,137.0,130.0,130.0,137.0,7.0,Increase
+Slovakia,2010,144.0,137.0,137.0,144.0,7.0,Increase
+Slovakia,2011,157.0,144.0,144.0,157.0,13.0,Increase
+Slovakia,2012,154.0,157.0,157.0,154.0,-3.0,Decrease
+Slovakia,2013,155.0,154.0,154.0,155.0,1.0,Increase
+Slovakia,2014,161.0,155.0,155.0,161.0,6.0,Increase
+Slovakia,2015,161.0,161.0,161.0,161.0,0.0,No change
+Slovakia,2016,165.0,161.0,161.0,165.0,4.0,Increase
+Slovakia,2017,165.0,165.0,165.0,165.0,0.0,No change
+Slovakia,2018,179.0,165.0,165.0,179.0,14.0,Increase
+Slovakia,2019,181.0,179.0,179.0,181.0,2.0,Increase
+Slovakia,2020,181.0,181.0,181.0,181.0,0.0,No change
+Slovakia,2021,182.0,181.0,181.0,182.0,1.0,Increase
+Slovenia,2007,122.0,105.0,105.0,122.0,17.0,Increase
+Slovenia,2008,139.0,122.0,122.0,139.0,17.0,Increase
+Slovenia,2009,141.5,139.0,139.0,141.5,2.5,Increase
+Slovenia,2010,144.0,141.5,141.5,144.0,2.5,Increase
+Slovenia,2011,156.0,144.0,144.0,156.0,12.0,Increase
+Slovenia,2012,151.0,156.0,156.0,151.0,-5.0,Decrease
+Slovenia,2013,155.0,151.0,151.0,155.0,4.0,Increase
+Slovenia,2014,160.0,155.0,155.0,160.0,5.0,Increase
+Slovenia,2015,160.0,160.0,160.0,160.0,0.0,No change
+Slovenia,2016,164.0,160.0,160.0,164.0,4.0,Increase
+Slovenia,2017,165.0,164.0,164.0,165.0,1.0,Increase
+Slovenia,2018,180.0,165.0,165.0,180.0,15.0,Increase
+Slovenia,2019,180.0,180.0,180.0,180.0,0.0,No change
+Slovenia,2020,180.0,180.0,180.0,180.0,0.0,No change
+Slovenia,2021,181.0,180.0,180.0,181.0,1.0,Increase
+Solomon Islands,2007,63.5,54.0,54.0,63.5,9.5,Increase
+Solomon Islands,2008,73.0,63.5,63.5,73.0,9.5,Increase
+Solomon Islands,2009,75.5,73.0,73.0,75.5,2.5,Increase
+Solomon Islands,2010,78.0,75.5,75.5,78.0,2.5,Increase
+Solomon Islands,2011,79.0,78.0,78.0,79.0,1.0,Increase
+Solomon Islands,2012,81.0,79.0,79.0,81.0,2.0,Increase
+Solomon Islands,2013,84.0,81.0,81.0,84.0,3.0,Increase
+Solomon Islands,2014,87.0,84.0,84.0,87.0,3.0,Increase
+Solomon Islands,2015,85.0,87.0,87.0,85.0,-2.0,Decrease
+Solomon Islands,2016,86.0,85.0,85.0,86.0,1.0,Increase
+Solomon Islands,2017,116.0,86.0,86.0,116.0,30.0,Increase
+Solomon Islands,2018,130.0,116.0,116.0,130.0,14.0,Increase
+Solomon Islands,2019,130.0,130.0,130.0,130.0,0.0,No change
+Solomon Islands,2020,131.0,130.0,130.0,131.0,1.0,Increase
+Solomon Islands,2021,131.0,131.0,131.0,131.0,0.0,No change
+Somalia,2007,20.0,15.0,15.0,20.0,5.0,Increase
+Somalia,2008,25.0,20.0,20.0,25.0,5.0,Increase
+Somalia,2009,28.0,25.0,25.0,28.0,3.0,Increase
+Somalia,2010,31.0,28.0,28.0,31.0,3.0,Increase
+Somalia,2011,28.0,31.0,31.0,28.0,-3.0,Decrease
+Somalia,2012,28.0,28.0,28.0,28.0,0.0,No change
+Somalia,2013,32.0,28.0,28.0,32.0,4.0,Increase
+Somalia,2014,32.0,32.0,32.0,32.0,0.0,No change
+Somalia,2015,30.0,32.0,32.0,30.0,-2.0,Decrease
+Somalia,2016,31.0,30.0,30.0,31.0,1.0,Increase
+Somalia,2017,30.0,31.0,31.0,30.0,-1.0,Decrease
+Somalia,2018,32.0,30.0,30.0,32.0,2.0,Increase
+Somalia,2019,31.0,32.0,32.0,31.0,-1.0,Decrease
+Somalia,2020,33.0,31.0,31.0,33.0,2.0,Increase
+Somalia,2021,34.0,33.0,33.0,34.0,1.0,Increase
+South Africa,2007,76.5,65.0,65.0,76.5,11.5,Increase
+South Africa,2008,88.0,76.5,76.5,88.0,11.5,Increase
+South Africa,2009,88.0,88.0,88.0,88.0,0.0,No change
+South Africa,2010,88.0,88.0,88.0,88.0,0.0,No change
+South Africa,2011,92.0,88.0,88.0,92.0,4.0,Increase
+South Africa,2012,93.0,92.0,92.0,93.0,1.0,Increase
+South Africa,2013,94.0,93.0,93.0,94.0,1.0,Increase
+South Africa,2014,97.0,94.0,94.0,97.0,3.0,Increase
+South Africa,2015,95.0,97.0,97.0,95.0,-2.0,Decrease
+South Africa,2016,97.0,95.0,95.0,97.0,2.0,Increase
+South Africa,2017,98.0,97.0,97.0,98.0,1.0,Increase
+South Africa,2018,102.0,98.0,98.0,102.0,4.0,Increase
+South Africa,2019,100.0,102.0,102.0,100.0,-2.0,Decrease
+South Africa,2020,101.0,100.0,100.0,101.0,1.0,Increase
+South Africa,2021,103.0,101.0,101.0,103.0,2.0,Increase
+South Korea,2007,129.5,115.0,115.0,129.5,14.5,Increase
+South Korea,2008,144.0,129.5,129.5,144.0,14.5,Increase
+South Korea,2009,147.5,144.0,144.0,147.5,3.5,Increase
+South Korea,2010,151.0,147.5,147.5,151.0,3.5,Increase
+South Korea,2011,163.0,151.0,151.0,163.0,12.0,Increase
+South Korea,2012,160.0,163.0,163.0,160.0,-3.0,Decrease
+South Korea,2013,166.0,160.0,160.0,166.0,6.0,Increase
+South Korea,2014,172.0,166.0,166.0,172.0,6.0,Increase
+South Korea,2015,171.0,172.0,172.0,171.0,-1.0,Decrease
+South Korea,2016,172.0,171.0,171.0,172.0,1.0,Increase
+South Korea,2017,170.0,172.0,172.0,170.0,-2.0,Decrease
+South Korea,2018,188.0,170.0,170.0,188.0,18.0,Increase
+South Korea,2019,188.0,188.0,188.0,188.0,0.0,No change
+South Korea,2020,189.0,188.0,188.0,189.0,1.0,Increase
+South Korea,2021,190.0,189.0,189.0,190.0,1.0,Increase
+South Sudan,2007,0.0,0.0,0.0,0.0,0.0,No change
+South Sudan,2008,0.0,0.0,0.0,0.0,0.0,No change
+South Sudan,2009,0.0,0.0,0.0,0.0,0.0,No change
+South Sudan,2010,30.0,0.0,0.0,30.0,30.0,Increase
+South Sudan,2011,32.0,30.0,30.0,32.0,2.0,Increase
+South Sudan,2012,38.0,32.0,32.0,38.0,6.0,Increase
+South Sudan,2013,39.0,38.0,38.0,39.0,1.0,Increase
+South Sudan,2014,39.0,39.0,39.0,39.0,0.0,No change
+South Sudan,2015,35.0,39.0,39.0,35.0,-4.0,Decrease
+South Sudan,2016,38.0,35.0,35.0,38.0,3.0,Increase
+South Sudan,2017,37.0,38.0,38.0,37.0,-1.0,Decrease
+South Sudan,2018,41.0,37.0,37.0,41.0,4.0,Increase
+South Sudan,2019,42.0,41.0,41.0,42.0,1.0,Increase
+South Sudan,2020,43.0,42.0,42.0,43.0,1.0,Increase
+South Sudan,2021,44.0,43.0,43.0,44.0,1.0,Increase
+Spain,2007,140.5,127.0,127.0,140.5,13.5,Increase
+Spain,2008,154.0,140.5,140.5,154.0,13.5,Increase
+Spain,2009,157.0,154.0,154.0,157.0,3.0,Increase
+Spain,2010,160.0,157.0,157.0,160.0,3.0,Increase
+Spain,2011,170.0,160.0,160.0,170.0,10.0,Increase
+Spain,2012,165.0,170.0,170.0,165.0,-5.0,Decrease
+Spain,2013,170.0,165.0,165.0,170.0,5.0,Increase
+Spain,2014,172.0,170.0,170.0,172.0,2.0,Increase
+Spain,2015,170.0,172.0,172.0,170.0,-2.0,Decrease
+Spain,2016,175.0,170.0,170.0,175.0,5.0,Increase
+Spain,2017,174.0,175.0,175.0,174.0,-1.0,Decrease
+Spain,2018,187.0,174.0,174.0,187.0,13.0,Increase
+Spain,2019,186.0,187.0,187.0,186.0,-1.0,Decrease
+Spain,2020,188.0,186.0,186.0,188.0,2.0,Increase
+Spain,2021,189.0,188.0,188.0,189.0,1.0,Increase
+Sri Lanka,2007,27.5,22.0,22.0,27.5,5.5,Increase
+Sri Lanka,2008,33.0,27.5,27.5,33.0,5.5,Increase
+Sri Lanka,2009,38.0,33.0,33.0,38.0,5.0,Increase
+Sri Lanka,2010,43.0,38.0,38.0,43.0,5.0,Increase
+Sri Lanka,2011,38.0,43.0,43.0,38.0,-5.0,Decrease
+Sri Lanka,2012,37.0,38.0,38.0,37.0,-1.0,Decrease
+Sri Lanka,2013,38.0,37.0,37.0,38.0,1.0,Increase
+Sri Lanka,2014,39.0,38.0,38.0,39.0,1.0,Increase
+Sri Lanka,2015,38.0,39.0,39.0,38.0,-1.0,Decrease
+Sri Lanka,2016,39.0,38.0,38.0,39.0,1.0,Increase
+Sri Lanka,2017,38.0,39.0,39.0,38.0,-1.0,Decrease
+Sri Lanka,2018,42.0,38.0,38.0,42.0,4.0,Increase
+Sri Lanka,2019,43.0,42.0,42.0,43.0,1.0,Increase
+Sri Lanka,2020,42.0,43.0,43.0,42.0,-1.0,Decrease
+Sri Lanka,2021,41.0,42.0,42.0,41.0,-1.0,Decrease
+St. Kitts and Nevis,2007,73.0,62.0,62.0,73.0,11.0,Increase
+St. Kitts and Nevis,2008,84.0,73.0,73.0,84.0,11.0,Increase
+St. Kitts and Nevis,2009,102.5,84.0,84.0,102.5,18.5,Increase
+St. Kitts and Nevis,2010,121.0,102.5,102.5,121.0,18.5,Increase
+St. Kitts and Nevis,2011,131.0,121.0,121.0,131.0,10.0,Increase
+St. Kitts and Nevis,2012,128.0,131.0,131.0,128.0,-3.0,Decrease
+St. Kitts and Nevis,2013,131.0,128.0,128.0,131.0,3.0,Increase
+St. Kitts and Nevis,2014,132.0,131.0,131.0,132.0,1.0,Increase
+St. Kitts and Nevis,2015,131.0,132.0,132.0,131.0,-1.0,Decrease
+St. Kitts and Nevis,2016,132.0,131.0,131.0,132.0,1.0,Increase
+St. Kitts and Nevis,2017,136.0,132.0,132.0,136.0,4.0,Increase
+St. Kitts and Nevis,2018,151.0,136.0,136.0,151.0,15.0,Increase
+St. Kitts and Nevis,2019,154.0,151.0,151.0,154.0,3.0,Increase
+St. Kitts and Nevis,2020,156.0,154.0,154.0,156.0,2.0,Increase
+St. Kitts and Nevis,2021,157.0,156.0,156.0,157.0,1.0,Increase
+St. Lucia,2007,73.5,63.0,63.0,73.5,10.5,Increase
+St. Lucia,2008,84.0,73.5,73.5,84.0,10.5,Increase
+St. Lucia,2009,86.5,84.0,84.0,86.5,2.5,Increase
+St. Lucia,2010,89.0,86.5,86.5,89.0,2.5,Increase
+St. Lucia,2011,91.0,89.0,89.0,91.0,2.0,Increase
+St. Lucia,2012,93.0,91.0,91.0,93.0,2.0,Increase
+St. Lucia,2013,94.0,93.0,93.0,94.0,1.0,Increase
+St. Lucia,2014,98.0,94.0,94.0,98.0,4.0,Increase
+St. Lucia,2015,121.0,98.0,98.0,121.0,23.0,Increase
+St. Lucia,2016,125.0,121.0,121.0,125.0,4.0,Increase
+St. Lucia,2017,127.0,125.0,125.0,127.0,2.0,Increase
+St. Lucia,2018,146.0,127.0,127.0,146.0,19.0,Increase
+St. Lucia,2019,145.0,146.0,146.0,145.0,-1.0,Decrease
+St. Lucia,2020,146.0,145.0,145.0,146.0,1.0,Increase
+St. Lucia,2021,146.0,146.0,146.0,146.0,0.0,No change
+St. Vincent and the Grenadines,2007,75.0,64.0,64.0,75.0,11.0,Increase
+St. Vincent and the Grenadines,2008,86.0,75.0,75.0,86.0,11.0,Increase
+St. Vincent and the Grenadines,2009,87.0,86.0,86.0,87.0,1.0,Increase
+St. Vincent and the Grenadines,2010,88.0,87.0,87.0,88.0,1.0,Increase
+St. Vincent and the Grenadines,2011,91.0,88.0,88.0,91.0,3.0,Increase
+St. Vincent and the Grenadines,2012,92.0,91.0,91.0,92.0,1.0,Increase
+St. Vincent and the Grenadines,2013,92.0,92.0,92.0,92.0,0.0,No change
+St. Vincent and the Grenadines,2014,94.0,92.0,92.0,94.0,2.0,Increase
+St. Vincent and the Grenadines,2015,119.0,94.0,94.0,119.0,25.0,Increase
+St. Vincent and the Grenadines,2016,125.0,119.0,119.0,125.0,6.0,Increase
+St. Vincent and the Grenadines,2017,127.0,125.0,125.0,127.0,2.0,Increase
+St. Vincent and the Grenadines,2018,145.0,127.0,127.0,145.0,18.0,Increase
+St. Vincent and the Grenadines,2019,145.0,145.0,145.0,145.0,0.0,No change
+St. Vincent and the Grenadines,2020,148.0,145.0,145.0,148.0,3.0,Increase
+St. Vincent and the Grenadines,2021,151.0,148.0,148.0,151.0,3.0,Increase
+Sudan,2007,21.5,17.0,17.0,21.5,4.5,Increase
+Sudan,2008,26.0,21.5,21.5,26.0,4.5,Increase
+Sudan,2009,28.0,26.0,26.0,28.0,2.0,Increase
+Sudan,2010,30.0,28.0,28.0,30.0,2.0,Increase
+Sudan,2011,32.0,30.0,30.0,32.0,2.0,Increase
+Sudan,2012,36.0,32.0,32.0,36.0,4.0,Increase
+Sudan,2013,38.0,36.0,36.0,38.0,2.0,Increase
+Sudan,2014,38.0,38.0,38.0,38.0,0.0,No change
+Sudan,2015,35.0,38.0,38.0,35.0,-3.0,Decrease
+Sudan,2016,37.0,35.0,35.0,37.0,2.0,Increase
+Sudan,2017,36.0,37.0,37.0,36.0,-1.0,Decrease
+Sudan,2018,39.0,36.0,36.0,39.0,3.0,Increase
+Sudan,2019,37.0,39.0,39.0,37.0,-2.0,Decrease
+Sudan,2020,40.0,37.0,37.0,40.0,3.0,Increase
+Sudan,2021,41.0,40.0,40.0,41.0,1.0,Increase
+Suriname,2007,48.5,40.0,40.0,48.5,8.5,Increase
+Suriname,2008,57.0,48.5,48.5,57.0,8.5,Increase
+Suriname,2009,60.0,57.0,57.0,60.0,3.0,Increase
+Suriname,2010,63.0,60.0,60.0,63.0,3.0,Increase
+Suriname,2011,66.0,63.0,63.0,66.0,3.0,Increase
+Suriname,2012,70.0,66.0,66.0,70.0,4.0,Increase
+Suriname,2013,72.0,70.0,70.0,72.0,2.0,Increase
+Suriname,2014,72.0,72.0,72.0,72.0,0.0,No change
+Suriname,2015,70.0,72.0,72.0,70.0,-2.0,Decrease
+Suriname,2016,74.0,70.0,70.0,74.0,4.0,Increase
+Suriname,2017,74.0,74.0,74.0,74.0,0.0,No change
+Suriname,2018,80.0,74.0,74.0,80.0,6.0,Increase
+Suriname,2019,78.0,80.0,80.0,78.0,-2.0,Decrease
+Suriname,2020,78.0,78.0,78.0,78.0,0.0,No change
+Suriname,2021,77.0,78.0,78.0,77.0,-1.0,Decrease
+Sweden,2007,142.0,129.0,129.0,142.0,13.0,Increase
+Sweden,2008,155.0,142.0,142.0,155.0,13.0,Increase
+Sweden,2009,159.0,155.0,155.0,159.0,4.0,Increase
+Sweden,2010,163.0,159.0,159.0,163.0,4.0,Increase
+Sweden,2011,173.0,163.0,163.0,173.0,10.0,Increase
+Sweden,2012,168.0,173.0,173.0,168.0,-5.0,Decrease
+Sweden,2013,173.0,168.0,168.0,173.0,5.0,Increase
+Sweden,2014,174.0,173.0,173.0,174.0,1.0,Increase
+Sweden,2015,172.0,174.0,174.0,172.0,-2.0,Decrease
+Sweden,2016,176.0,172.0,172.0,176.0,4.0,Increase
+Sweden,2017,175.0,176.0,176.0,175.0,-1.0,Decrease
+Sweden,2018,187.0,175.0,175.0,187.0,12.0,Increase
+Sweden,2019,186.0,187.0,187.0,186.0,-1.0,Decrease
+Sweden,2020,186.0,186.0,186.0,186.0,0.0,No change
+Sweden,2021,187.0,186.0,186.0,187.0,1.0,Increase
+Switzerland,2007,138.0,127.0,127.0,138.0,11.0,Increase
+Switzerland,2008,149.0,138.0,138.0,149.0,11.0,Increase
+Switzerland,2009,152.5,149.0,149.0,152.5,3.5,Increase
+Switzerland,2010,156.0,152.5,152.5,156.0,3.5,Increase
+Switzerland,2011,167.0,156.0,156.0,167.0,11.0,Increase
+Switzerland,2012,162.0,167.0,167.0,162.0,-5.0,Decrease
+Switzerland,2013,168.0,162.0,162.0,168.0,6.0,Increase
+Switzerland,2014,170.0,168.0,168.0,170.0,2.0,Increase
+Switzerland,2015,169.0,170.0,170.0,169.0,-1.0,Decrease
+Switzerland,2016,172.0,169.0,169.0,172.0,3.0,Increase
+Switzerland,2017,171.0,172.0,172.0,171.0,-1.0,Decrease
+Switzerland,2018,185.0,171.0,171.0,185.0,14.0,Increase
+Switzerland,2019,184.0,185.0,185.0,184.0,-1.0,Decrease
+Switzerland,2020,185.0,184.0,184.0,185.0,1.0,Increase
+Switzerland,2021,186.0,185.0,185.0,186.0,1.0,Increase
+Syria,2007,23.0,16.0,16.0,23.0,7.0,Increase
+Syria,2008,30.0,23.0,23.0,30.0,7.0,Increase
+Syria,2009,34.5,30.0,30.0,34.5,4.5,Increase
+Syria,2010,39.0,34.5,34.5,39.0,4.5,Increase
+Syria,2011,37.0,39.0,39.0,37.0,-2.0,Decrease
+Syria,2012,37.0,37.0,37.0,37.0,0.0,No change
+Syria,2013,39.0,37.0,37.0,39.0,2.0,Increase
+Syria,2014,38.0,39.0,39.0,38.0,-1.0,Decrease
+Syria,2015,33.0,38.0,38.0,33.0,-5.0,Decrease
+Syria,2016,32.0,33.0,33.0,32.0,-1.0,Decrease
+Syria,2017,29.0,32.0,32.0,29.0,-3.0,Decrease
+Syria,2018,32.0,29.0,29.0,32.0,3.0,Increase
+Syria,2019,29.0,32.0,32.0,29.0,-3.0,Decrease
+Syria,2020,29.0,29.0,29.0,29.0,0.0,No change
+Syria,2021,29.0,29.0,29.0,29.0,0.0,No change
+Taiwan (Chinese Taipei),2007,50.5,42.0,42.0,50.5,8.5,Increase
+Taiwan (Chinese Taipei),2008,59.0,50.5,50.5,59.0,8.5,Increase
+Taiwan (Chinese Taipei),2009,59.5,59.0,59.0,59.5,0.5,Increase
+Taiwan (Chinese Taipei),2010,60.0,59.5,59.5,60.0,0.5,Increase
+Taiwan (Chinese Taipei),2011,111.0,60.0,60.0,111.0,51.0,Increase
+Taiwan (Chinese Taipei),2012,120.0,111.0,111.0,120.0,9.0,Increase
+Taiwan (Chinese Taipei),2013,130.0,120.0,120.0,130.0,10.0,Increase
+Taiwan (Chinese Taipei),2014,132.0,130.0,130.0,132.0,2.0,Increase
+Taiwan (Chinese Taipei),2015,129.0,132.0,132.0,129.0,-3.0,Decrease
+Taiwan (Chinese Taipei),2016,137.0,129.0,129.0,137.0,8.0,Increase
+Taiwan (Chinese Taipei),2017,134.0,137.0,137.0,134.0,-3.0,Decrease
+Taiwan (Chinese Taipei),2018,148.0,134.0,134.0,148.0,14.0,Increase
+Taiwan (Chinese Taipei),2019,145.0,148.0,148.0,145.0,-3.0,Decrease
+Taiwan (Chinese Taipei),2020,146.0,145.0,145.0,146.0,1.0,Increase
+Taiwan (Chinese Taipei),2021,145.0,146.0,146.0,145.0,-1.0,Decrease
+Tajikistan,2007,35.5,27.0,27.0,35.5,8.5,Increase
+Tajikistan,2008,44.0,35.5,35.5,44.0,8.5,Increase
+Tajikistan,2009,47.0,44.0,44.0,47.0,3.0,Increase
+Tajikistan,2010,50.0,47.0,47.0,50.0,3.0,Increase
+Tajikistan,2011,50.0,50.0,50.0,50.0,0.0,No change
+Tajikistan,2012,50.0,50.0,50.0,50.0,0.0,No change
+Tajikistan,2013,50.0,50.0,50.0,50.0,0.0,No change
+Tajikistan,2014,53.0,50.0,50.0,53.0,3.0,Increase
+Tajikistan,2015,51.0,53.0,53.0,51.0,-2.0,Decrease
+Tajikistan,2016,53.0,51.0,51.0,53.0,2.0,Increase
+Tajikistan,2017,53.0,53.0,53.0,53.0,0.0,No change
+Tajikistan,2018,58.0,53.0,53.0,58.0,5.0,Increase
+Tajikistan,2019,57.0,58.0,58.0,57.0,-1.0,Decrease
+Tajikistan,2020,58.0,57.0,57.0,58.0,1.0,Increase
+Tajikistan,2021,58.0,58.0,58.0,58.0,0.0,No change
+Tanzania,2007,47.5,41.0,41.0,47.5,6.5,Increase
+Tanzania,2008,54.0,47.5,47.5,54.0,6.5,Increase
+Tanzania,2009,57.5,54.0,54.0,57.5,3.5,Increase
+Tanzania,2010,61.0,57.5,57.5,61.0,3.5,Increase
+Tanzania,2011,62.0,61.0,61.0,62.0,1.0,Increase
+Tanzania,2012,66.0,62.0,62.0,66.0,4.0,Increase
+Tanzania,2013,65.0,66.0,66.0,65.0,-1.0,Decrease
+Tanzania,2014,66.0,65.0,65.0,66.0,1.0,Increase
+Tanzania,2015,65.0,66.0,66.0,65.0,-1.0,Decrease
+Tanzania,2016,65.0,65.0,65.0,65.0,0.0,No change
+Tanzania,2017,65.0,65.0,65.0,65.0,0.0,No change
+Tanzania,2018,68.0,65.0,65.0,68.0,3.0,Increase
+Tanzania,2019,68.0,68.0,68.0,68.0,0.0,No change
+Tanzania,2020,71.0,68.0,68.0,71.0,3.0,Increase
+Tanzania,2021,72.0,71.0,71.0,72.0,1.0,Increase
+Thailand,2007,40.5,29.0,29.0,40.5,11.5,Increase
+Thailand,2008,52.0,40.5,40.5,52.0,11.5,Increase
+Thailand,2009,56.0,52.0,52.0,56.0,4.0,Increase
+Thailand,2010,60.0,56.0,56.0,60.0,4.0,Increase
+Thailand,2011,63.0,60.0,60.0,63.0,3.0,Increase
+Thailand,2012,64.0,63.0,63.0,64.0,1.0,Increase
+Thailand,2013,68.0,64.0,64.0,68.0,4.0,Increase
+Thailand,2014,69.0,68.0,68.0,69.0,1.0,Increase
+Thailand,2015,68.0,69.0,69.0,68.0,-1.0,Decrease
+Thailand,2016,71.0,68.0,68.0,71.0,3.0,Increase
+Thailand,2017,71.0,71.0,71.0,71.0,0.0,No change
+Thailand,2018,77.0,71.0,71.0,77.0,6.0,Increase
+Thailand,2019,77.0,77.0,77.0,77.0,0.0,No change
+Thailand,2020,79.0,77.0,77.0,79.0,2.0,Increase
+Thailand,2021,79.0,79.0,79.0,79.0,0.0,No change
+The Gambia,2007,57.5,53.0,53.0,57.5,4.5,Increase
+The Gambia,2008,62.0,57.5,57.5,62.0,4.5,Increase
+The Gambia,2009,65.0,62.0,62.0,65.0,3.0,Increase
+The Gambia,2010,68.0,65.0,65.0,68.0,3.0,Increase
+The Gambia,2011,69.0,68.0,68.0,69.0,1.0,Increase
+The Gambia,2012,71.0,69.0,69.0,71.0,2.0,Increase
+The Gambia,2013,68.0,71.0,71.0,68.0,-3.0,Decrease
+The Gambia,2014,70.0,68.0,68.0,70.0,2.0,Increase
+The Gambia,2015,66.0,70.0,70.0,66.0,-4.0,Decrease
+The Gambia,2016,67.0,66.0,66.0,67.0,1.0,Increase
+The Gambia,2017,66.0,67.0,67.0,66.0,-1.0,Decrease
+The Gambia,2018,68.0,66.0,66.0,68.0,2.0,Increase
+The Gambia,2019,69.0,68.0,68.0,69.0,1.0,Increase
+The Gambia,2020,68.0,69.0,69.0,68.0,-1.0,Decrease
+The Gambia,2021,68.0,68.0,68.0,68.0,0.0,No change
+Timor-Leste,2007,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2008,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2009,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2010,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2011,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2012,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2013,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2014,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2015,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2016,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2017,0.0,0.0,0.0,0.0,0.0,No change
+Timor-Leste,2018,98.0,0.0,0.0,98.0,98.0,Increase
+Timor-Leste,2019,95.0,98.0,98.0,95.0,-3.0,Decrease
+Timor-Leste,2020,95.0,95.0,95.0,95.0,0.0,No change
+Timor-Leste,2021,93.0,95.0,95.0,93.0,-2.0,Decrease
+Togo,2007,39.0,35.0,35.0,39.0,4.0,Increase
+Togo,2008,43.0,39.0,39.0,43.0,4.0,Increase
+Togo,2009,47.0,43.0,43.0,47.0,4.0,Increase
+Togo,2010,51.0,47.0,47.0,51.0,4.0,Increase
+Togo,2011,51.0,51.0,51.0,51.0,0.0,No change
+Togo,2012,53.0,51.0,51.0,53.0,2.0,Increase
+Togo,2013,53.0,53.0,53.0,53.0,0.0,No change
+Togo,2014,54.0,53.0,53.0,54.0,1.0,Increase
+Togo,2015,51.0,54.0,54.0,51.0,-3.0,Decrease
+Togo,2016,55.0,51.0,51.0,55.0,4.0,Increase
+Togo,2017,53.0,55.0,55.0,53.0,-2.0,Decrease
+Togo,2018,54.0,53.0,53.0,54.0,1.0,Increase
+Togo,2019,55.0,54.0,54.0,55.0,1.0,Increase
+Togo,2020,55.0,55.0,55.0,55.0,0.0,No change
+Togo,2021,54.0,55.0,55.0,54.0,-1.0,Decrease
+Tonga,2007,55.0,46.0,46.0,55.0,9.0,Increase
+Tonga,2008,64.0,55.0,55.0,64.0,9.0,Increase
+Tonga,2009,68.0,64.0,64.0,68.0,4.0,Increase
+Tonga,2010,72.0,68.0,68.0,72.0,4.0,Increase
+Tonga,2011,73.0,72.0,72.0,73.0,1.0,Increase
+Tonga,2012,75.0,73.0,73.0,75.0,2.0,Increase
+Tonga,2013,80.0,75.0,75.0,80.0,5.0,Increase
+Tonga,2014,83.0,80.0,80.0,83.0,3.0,Increase
+Tonga,2015,80.0,83.0,83.0,80.0,-3.0,Decrease
+Tonga,2016,110.0,80.0,80.0,110.0,30.0,Increase
+Tonga,2017,111.0,110.0,110.0,111.0,1.0,Increase
+Tonga,2018,124.0,111.0,111.0,124.0,13.0,Increase
+Tonga,2019,125.0,124.0,124.0,125.0,1.0,Increase
+Tonga,2020,125.0,125.0,125.0,125.0,0.0,No change
+Tonga,2021,129.0,125.0,125.0,129.0,4.0,Increase
+Trinidad and Tobago,2007,74.5,66.0,66.0,74.5,8.5,Increase
+Trinidad and Tobago,2008,83.0,74.5,74.5,83.0,8.5,Increase
+Trinidad and Tobago,2009,87.5,83.0,83.0,87.5,4.5,Increase
+Trinidad and Tobago,2010,92.0,87.5,87.5,92.0,4.5,Increase
+Trinidad and Tobago,2011,95.0,92.0,92.0,95.0,3.0,Increase
+Trinidad and Tobago,2012,98.0,95.0,95.0,98.0,3.0,Increase
+Trinidad and Tobago,2013,100.0,98.0,98.0,100.0,2.0,Increase
+Trinidad and Tobago,2014,103.0,100.0,100.0,103.0,3.0,Increase
+Trinidad and Tobago,2015,126.0,103.0,103.0,126.0,23.0,Increase
+Trinidad and Tobago,2016,130.0,126.0,126.0,130.0,4.0,Increase
+Trinidad and Tobago,2017,132.0,130.0,130.0,132.0,2.0,Increase
+Trinidad and Tobago,2018,147.0,132.0,132.0,147.0,15.0,Increase
+Trinidad and Tobago,2019,148.0,147.0,147.0,148.0,1.0,Increase
+Trinidad and Tobago,2020,150.0,148.0,148.0,150.0,2.0,Increase
+Trinidad and Tobago,2021,150.0,150.0,150.0,150.0,0.0,No change
+Tunisia,2007,46.5,38.0,38.0,46.5,8.5,Increase
+Tunisia,2008,55.0,46.5,46.5,55.0,8.5,Increase
+Tunisia,2009,58.5,55.0,55.0,58.5,3.5,Increase
+Tunisia,2010,62.0,58.5,58.5,62.0,3.5,Increase
+Tunisia,2011,63.0,62.0,62.0,63.0,1.0,Increase
+Tunisia,2012,62.0,63.0,63.0,62.0,-1.0,Decrease
+Tunisia,2013,63.0,62.0,62.0,63.0,1.0,Increase
+Tunisia,2014,64.0,63.0,63.0,64.0,1.0,Increase
+Tunisia,2015,63.0,64.0,64.0,63.0,-1.0,Decrease
+Tunisia,2016,65.0,63.0,63.0,65.0,2.0,Increase
+Tunisia,2017,63.0,65.0,65.0,63.0,-2.0,Decrease
+Tunisia,2018,66.0,63.0,63.0,66.0,3.0,Increase
+Tunisia,2019,68.0,66.0,66.0,68.0,2.0,Increase
+Tunisia,2020,71.0,68.0,68.0,71.0,3.0,Increase
+Tunisia,2021,71.0,71.0,71.0,71.0,0.0,No change
+Turkmenistan,2007,28.5,19.0,19.0,28.5,9.5,Increase
+Turkmenistan,2008,38.0,28.5,28.5,38.0,9.5,Increase
+Turkmenistan,2009,39.5,38.0,38.0,39.5,1.5,Increase
+Turkmenistan,2010,41.0,39.5,39.5,41.0,1.5,Increase
+Turkmenistan,2011,46.0,41.0,41.0,46.0,5.0,Increase
+Turkmenistan,2012,46.0,46.0,46.0,46.0,0.0,No change
+Turkmenistan,2013,46.0,46.0,46.0,46.0,0.0,No change
+Turkmenistan,2014,49.0,46.0,46.0,49.0,3.0,Increase
+Turkmenistan,2015,47.0,49.0,49.0,47.0,-2.0,Decrease
+Turkmenistan,2016,49.0,47.0,47.0,49.0,2.0,Increase
+Turkmenistan,2017,49.0,49.0,49.0,49.0,0.0,No change
+Turkmenistan,2018,53.0,49.0,49.0,53.0,4.0,Increase
+Turkmenistan,2019,51.0,53.0,53.0,51.0,-2.0,Decrease
+Turkmenistan,2020,53.0,51.0,51.0,53.0,2.0,Increase
+Turkmenistan,2021,52.0,53.0,53.0,52.0,-1.0,Decrease
+Tuvalu,2007,60.0,50.0,50.0,60.0,10.0,Increase
+Tuvalu,2008,70.0,60.0,60.0,70.0,10.0,Increase
+Tuvalu,2009,72.5,70.0,70.0,72.5,2.5,Increase
+Tuvalu,2010,75.0,72.5,72.5,75.0,2.5,Increase
+Tuvalu,2011,76.0,75.0,75.0,76.0,1.0,Increase
+Tuvalu,2012,77.0,76.0,76.0,77.0,1.0,Increase
+Tuvalu,2013,81.0,77.0,77.0,81.0,4.0,Increase
+Tuvalu,2014,85.0,81.0,81.0,85.0,4.0,Increase
+Tuvalu,2015,83.0,85.0,85.0,83.0,-2.0,Decrease
+Tuvalu,2016,82.0,83.0,83.0,82.0,-1.0,Decrease
+Tuvalu,2017,110.0,82.0,82.0,110.0,28.0,Increase
+Tuvalu,2018,127.0,110.0,110.0,127.0,17.0,Increase
+Tuvalu,2019,127.0,127.0,127.0,127.0,0.0,No change
+Tuvalu,2020,127.0,127.0,127.0,127.0,0.0,No change
+Tuvalu,2021,127.0,127.0,127.0,127.0,0.0,No change
+Türkiye,2007,63.5,52.0,52.0,63.5,11.5,Increase
+Türkiye,2008,75.0,63.5,63.5,75.0,11.5,Increase
+Türkiye,2009,82.0,75.0,75.0,82.0,7.0,Increase
+Türkiye,2010,89.0,82.0,82.0,89.0,7.0,Increase
+Türkiye,2011,91.0,89.0,89.0,91.0,2.0,Increase
+Türkiye,2012,95.0,91.0,91.0,95.0,4.0,Increase
+Türkiye,2013,94.0,95.0,95.0,94.0,-1.0,Decrease
+Türkiye,2014,100.0,94.0,94.0,100.0,6.0,Increase
+Türkiye,2015,102.0,100.0,100.0,102.0,2.0,Increase
+Türkiye,2016,102.0,102.0,102.0,102.0,0.0,No change
+Türkiye,2017,105.0,102.0,102.0,105.0,3.0,Increase
+Türkiye,2018,111.0,105.0,105.0,111.0,6.0,Increase
+Türkiye,2019,112.0,111.0,111.0,112.0,1.0,Increase
+Türkiye,2020,111.0,112.0,112.0,111.0,-1.0,Decrease
+Türkiye,2021,110.0,111.0,111.0,110.0,-1.0,Decrease
+Uganda,2007,46.0,39.0,39.0,46.0,7.0,Increase
+Uganda,2008,53.0,46.0,46.0,53.0,7.0,Increase
+Uganda,2009,56.0,53.0,53.0,56.0,3.0,Increase
+Uganda,2010,59.0,56.0,56.0,59.0,3.0,Increase
+Uganda,2011,59.0,59.0,59.0,59.0,0.0,No change
+Uganda,2012,62.0,59.0,59.0,62.0,3.0,Increase
+Uganda,2013,63.0,62.0,62.0,63.0,1.0,Increase
+Uganda,2014,64.0,63.0,63.0,64.0,1.0,Increase
+Uganda,2015,61.0,64.0,64.0,61.0,-3.0,Decrease
+Uganda,2016,60.0,61.0,61.0,60.0,-1.0,Decrease
+Uganda,2017,61.0,60.0,60.0,61.0,1.0,Increase
+Uganda,2018,64.0,61.0,61.0,64.0,3.0,Increase
+Uganda,2019,66.0,64.0,64.0,66.0,2.0,Increase
+Uganda,2020,67.0,66.0,66.0,67.0,1.0,Increase
+Uganda,2021,67.0,67.0,67.0,67.0,0.0,No change
+Ukraine,2007,41.0,32.0,32.0,41.0,9.0,Increase
+Ukraine,2008,50.0,41.0,41.0,50.0,9.0,Increase
+Ukraine,2009,57.0,50.0,50.0,57.0,7.0,Increase
+Ukraine,2010,64.0,57.0,57.0,64.0,7.0,Increase
+Ukraine,2011,69.0,64.0,64.0,69.0,5.0,Increase
+Ukraine,2012,76.0,69.0,69.0,76.0,7.0,Increase
+Ukraine,2013,77.0,76.0,76.0,77.0,1.0,Increase
+Ukraine,2014,79.0,77.0,77.0,79.0,2.0,Increase
+Ukraine,2015,79.0,79.0,79.0,79.0,0.0,No change
+Ukraine,2016,81.0,79.0,79.0,81.0,2.0,Increase
+Ukraine,2017,82.0,81.0,81.0,82.0,1.0,Increase
+Ukraine,2018,128.0,82.0,82.0,128.0,46.0,Increase
+Ukraine,2019,126.0,128.0,128.0,126.0,-2.0,Decrease
+Ukraine,2020,129.0,126.0,126.0,129.0,3.0,Increase
+Ukraine,2021,136.0,129.0,129.0,136.0,7.0,Increase
+United Arab Emirates,2007,43.5,35.0,35.0,43.5,8.5,Increase
+United Arab Emirates,2008,52.0,43.5,43.5,52.0,8.5,Increase
+United Arab Emirates,2009,58.0,52.0,52.0,58.0,6.0,Increase
+United Arab Emirates,2010,64.0,58.0,58.0,64.0,6.0,Increase
+United Arab Emirates,2011,67.0,64.0,64.0,67.0,3.0,Increase
+United Arab Emirates,2012,70.0,67.0,67.0,70.0,3.0,Increase
+United Arab Emirates,2013,72.0,70.0,70.0,72.0,2.0,Increase
+United Arab Emirates,2014,77.0,72.0,72.0,77.0,5.0,Increase
+United Arab Emirates,2015,113.0,77.0,77.0,113.0,36.0,Increase
+United Arab Emirates,2016,122.0,113.0,113.0,122.0,9.0,Increase
+United Arab Emirates,2017,121.0,122.0,122.0,121.0,-1.0,Decrease
+United Arab Emirates,2018,161.0,121.0,121.0,161.0,40.0,Increase
+United Arab Emirates,2019,172.0,161.0,161.0,172.0,11.0,Increase
+United Arab Emirates,2020,170.0,172.0,172.0,170.0,-2.0,Decrease
+United Arab Emirates,2021,174.0,170.0,170.0,174.0,4.0,Increase
+United Kingdom,2007,140.0,128.0,128.0,140.0,12.0,Increase
+United Kingdom,2008,152.0,140.0,140.0,152.0,12.0,Increase
+United Kingdom,2009,159.0,152.0,152.0,159.0,7.0,Increase
+United Kingdom,2010,166.0,159.0,159.0,166.0,7.0,Increase
+United Kingdom,2011,171.0,166.0,166.0,171.0,5.0,Increase
+United Kingdom,2012,167.0,171.0,171.0,167.0,-4.0,Decrease
+United Kingdom,2013,173.0,167.0,167.0,173.0,6.0,Increase
+United Kingdom,2014,174.0,173.0,173.0,174.0,1.0,Increase
+United Kingdom,2015,173.0,174.0,174.0,173.0,-1.0,Decrease
+United Kingdom,2016,175.0,173.0,173.0,175.0,2.0,Increase
+United Kingdom,2017,173.0,175.0,175.0,173.0,-2.0,Decrease
+United Kingdom,2018,186.0,173.0,173.0,186.0,13.0,Increase
+United Kingdom,2019,184.0,186.0,186.0,184.0,-2.0,Decrease
+United Kingdom,2020,185.0,184.0,184.0,185.0,1.0,Increase
+United Kingdom,2021,185.0,185.0,185.0,185.0,0.0,No change
+United States,2007,142.5,130.0,130.0,142.5,12.5,Increase
+United States,2008,155.0,142.5,142.5,155.0,12.5,Increase
+United States,2009,157.0,155.0,155.0,157.0,2.0,Increase
+United States,2010,159.0,157.0,157.0,159.0,2.0,Increase
+United States,2011,169.0,159.0,159.0,169.0,10.0,Increase
+United States,2012,166.0,169.0,169.0,166.0,-3.0,Decrease
+United States,2013,172.0,166.0,166.0,172.0,6.0,Increase
+United States,2014,174.0,172.0,172.0,174.0,2.0,Increase
+United States,2015,172.0,174.0,174.0,172.0,-2.0,Decrease
+United States,2016,174.0,172.0,172.0,174.0,2.0,Increase
+United States,2017,172.0,174.0,174.0,172.0,-2.0,Decrease
+United States,2018,186.0,172.0,172.0,186.0,14.0,Increase
+United States,2019,184.0,186.0,186.0,184.0,-2.0,Decrease
+United States,2020,185.0,184.0,184.0,185.0,1.0,Increase
+United States,2021,185.0,185.0,185.0,185.0,0.0,No change
+Uruguay,2007,108.5,99.0,99.0,108.5,9.5,Increase
+Uruguay,2008,118.0,108.5,108.5,118.0,9.5,Increase
+Uruguay,2009,118.0,118.0,118.0,118.0,0.0,No change
+Uruguay,2010,118.0,118.0,118.0,118.0,0.0,No change
+Uruguay,2011,127.0,118.0,118.0,127.0,9.0,Increase
+Uruguay,2012,125.0,127.0,127.0,125.0,-2.0,Decrease
+Uruguay,2013,132.0,125.0,125.0,132.0,7.0,Increase
+Uruguay,2014,133.0,132.0,132.0,133.0,1.0,Increase
+Uruguay,2015,134.0,133.0,133.0,134.0,1.0,Increase
+Uruguay,2016,137.0,134.0,134.0,137.0,3.0,Increase
+Uruguay,2017,138.0,137.0,137.0,138.0,1.0,Increase
+Uruguay,2018,154.0,138.0,138.0,154.0,16.0,Increase
+Uruguay,2019,153.0,154.0,154.0,153.0,-1.0,Decrease
+Uruguay,2020,153.0,153.0,153.0,153.0,0.0,No change
+Uruguay,2021,153.0,153.0,153.0,153.0,0.0,No change
+Uzbekistan,2007,32.5,24.0,24.0,32.5,8.5,Increase
+Uzbekistan,2008,41.0,32.5,32.5,41.0,8.5,Increase
+Uzbekistan,2009,44.0,41.0,41.0,44.0,3.0,Increase
+Uzbekistan,2010,47.0,44.0,44.0,47.0,3.0,Increase
+Uzbekistan,2011,49.0,47.0,47.0,49.0,2.0,Increase
+Uzbekistan,2012,51.0,49.0,49.0,51.0,2.0,Increase
+Uzbekistan,2013,52.0,51.0,51.0,52.0,1.0,Increase
+Uzbekistan,2014,54.0,52.0,52.0,54.0,2.0,Increase
+Uzbekistan,2015,52.0,54.0,54.0,52.0,-2.0,Decrease
+Uzbekistan,2016,52.0,52.0,52.0,52.0,0.0,No change
+Uzbekistan,2017,53.0,52.0,52.0,53.0,1.0,Increase
+Uzbekistan,2018,59.0,53.0,53.0,59.0,6.0,Increase
+Uzbekistan,2019,56.0,59.0,59.0,56.0,-3.0,Decrease
+Uzbekistan,2020,57.0,56.0,56.0,57.0,1.0,Increase
+Uzbekistan,2021,56.0,57.0,57.0,56.0,-1.0,Decrease
+Vanuatu,2007,57.5,47.0,47.0,57.5,10.5,Increase
+Vanuatu,2008,68.0,57.5,57.5,68.0,10.5,Increase
+Vanuatu,2009,71.0,68.0,68.0,71.0,3.0,Increase
+Vanuatu,2010,74.0,71.0,71.0,74.0,3.0,Increase
+Vanuatu,2011,75.0,74.0,74.0,75.0,1.0,Increase
+Vanuatu,2012,77.0,75.0,75.0,77.0,2.0,Increase
+Vanuatu,2013,79.0,77.0,77.0,79.0,2.0,Increase
+Vanuatu,2014,82.0,79.0,79.0,82.0,3.0,Increase
+Vanuatu,2015,106.0,82.0,82.0,106.0,24.0,Increase
+Vanuatu,2016,110.0,106.0,106.0,110.0,4.0,Increase
+Vanuatu,2017,113.0,110.0,110.0,113.0,3.0,Increase
+Vanuatu,2018,129.0,113.0,113.0,129.0,16.0,Increase
+Vanuatu,2019,130.0,129.0,129.0,130.0,1.0,Increase
+Vanuatu,2020,130.0,130.0,130.0,130.0,0.0,No change
+Vanuatu,2021,135.0,130.0,130.0,135.0,5.0,Increase
+Vatican City,2007,0.0,0.0,0.0,0.0,0.0,No change
+Vatican City,2008,0.0,0.0,0.0,0.0,0.0,No change
+Vatican City,2009,0.0,0.0,0.0,0.0,0.0,No change
+Vatican City,2010,112.0,0.0,0.0,112.0,112.0,Increase
+Vatican City,2011,125.0,112.0,112.0,125.0,13.0,Increase
+Vatican City,2012,124.0,125.0,125.0,124.0,-1.0,Decrease
+Vatican City,2013,130.0,124.0,124.0,130.0,6.0,Increase
+Vatican City,2014,131.0,130.0,130.0,131.0,1.0,Increase
+Vatican City,2015,128.0,131.0,131.0,128.0,-3.0,Decrease
+Vatican City,2016,134.0,128.0,128.0,134.0,6.0,Increase
+Vatican City,2017,134.0,134.0,134.0,134.0,0.0,No change
+Vatican City,2018,148.0,134.0,134.0,148.0,14.0,Increase
+Vatican City,2019,148.0,148.0,148.0,148.0,0.0,No change
+Vatican City,2020,154.0,148.0,148.0,154.0,6.0,Increase
+Vatican City,2021,153.0,154.0,154.0,153.0,-1.0,Decrease
+Venezuela,2007,101.5,92.0,92.0,101.5,9.5,Increase
+Venezuela,2008,111.0,101.5,101.5,111.0,9.5,Increase
+Venezuela,2009,113.0,111.0,111.0,113.0,2.0,Increase
+Venezuela,2010,115.0,113.0,113.0,115.0,2.0,Increase
+Venezuela,2011,124.0,115.0,115.0,124.0,9.0,Increase
+Venezuela,2012,123.0,124.0,124.0,123.0,-1.0,Decrease
+Venezuela,2013,128.0,123.0,123.0,128.0,5.0,Increase
+Venezuela,2014,131.0,128.0,128.0,131.0,3.0,Increase
+Venezuela,2015,129.0,131.0,131.0,129.0,-2.0,Decrease
+Venezuela,2016,132.0,129.0,129.0,132.0,3.0,Increase
+Venezuela,2017,129.0,132.0,132.0,129.0,-3.0,Decrease
+Venezuela,2018,138.0,129.0,129.0,138.0,9.0,Increase
+Venezuela,2019,132.0,138.0,138.0,132.0,-6.0,Decrease
+Venezuela,2020,129.0,132.0,132.0,129.0,-3.0,Decrease
+Venezuela,2021,129.0,129.0,129.0,129.0,0.0,No change
+Vietnam,2007,25.5,18.0,18.0,25.5,7.5,Increase
+Vietnam,2008,33.0,25.5,25.5,33.0,7.5,Increase
+Vietnam,2009,38.0,33.0,33.0,38.0,5.0,Increase
+Vietnam,2010,43.0,38.0,38.0,43.0,5.0,Increase
+Vietnam,2011,42.0,43.0,43.0,42.0,-1.0,Decrease
+Vietnam,2012,44.0,42.0,42.0,44.0,2.0,Increase
+Vietnam,2013,45.0,44.0,44.0,45.0,1.0,Increase
+Vietnam,2014,47.0,45.0,45.0,47.0,2.0,Increase
+Vietnam,2015,45.0,47.0,47.0,45.0,-2.0,Decrease
+Vietnam,2016,47.0,45.0,45.0,47.0,2.0,Increase
+Vietnam,2017,45.0,47.0,47.0,45.0,-2.0,Decrease
+Vietnam,2018,51.0,45.0,45.0,51.0,6.0,Increase
+Vietnam,2019,51.0,51.0,51.0,51.0,0.0,No change
+Vietnam,2020,54.0,51.0,51.0,54.0,3.0,Increase
+Vietnam,2021,53.0,54.0,54.0,53.0,-1.0,Decrease
+Yemen,2007,24.0,18.0,18.0,24.0,6.0,Increase
+Yemen,2008,30.0,24.0,24.0,30.0,6.0,Increase
+Yemen,2009,34.0,30.0,30.0,34.0,4.0,Increase
+Yemen,2010,38.0,34.0,34.0,38.0,4.0,Increase
+Yemen,2011,39.0,38.0,38.0,39.0,1.0,Increase
+Yemen,2012,41.0,39.0,39.0,41.0,2.0,Increase
+Yemen,2013,43.0,41.0,41.0,43.0,2.0,Increase
+Yemen,2014,43.0,43.0,43.0,43.0,0.0,No change
+Yemen,2015,39.0,43.0,43.0,39.0,-4.0,Decrease
+Yemen,2016,38.0,39.0,39.0,38.0,-1.0,Decrease
+Yemen,2017,35.0,38.0,38.0,35.0,-3.0,Decrease
+Yemen,2018,37.0,35.0,35.0,37.0,2.0,Increase
+Yemen,2019,33.0,37.0,37.0,33.0,-4.0,Decrease
+Yemen,2020,33.0,33.0,33.0,33.0,0.0,No change
+Yemen,2021,33.0,33.0,33.0,33.0,0.0,No change
+Zambia,2007,51.0,45.0,45.0,51.0,6.0,Increase
+Zambia,2008,57.0,51.0,51.0,57.0,6.0,Increase
+Zambia,2009,60.5,57.0,57.0,60.5,3.5,Increase
+Zambia,2010,64.0,60.5,60.5,64.0,3.5,Increase
+Zambia,2011,63.0,64.0,64.0,63.0,-1.0,Decrease
+Zambia,2012,66.0,63.0,63.0,66.0,3.0,Increase
+Zambia,2013,66.0,66.0,66.0,66.0,0.0,No change
+Zambia,2014,67.0,66.0,66.0,67.0,1.0,Increase
+Zambia,2015,65.0,67.0,67.0,65.0,-2.0,Decrease
+Zambia,2016,63.0,65.0,65.0,63.0,-2.0,Decrease
+Zambia,2017,63.0,63.0,63.0,63.0,0.0,No change
+Zambia,2018,68.0,63.0,63.0,68.0,5.0,Increase
+Zambia,2019,70.0,68.0,68.0,70.0,2.0,Increase
+Zambia,2020,71.0,70.0,70.0,71.0,1.0,Increase
+Zambia,2021,71.0,71.0,71.0,71.0,0.0,No change
+Zimbabwe,2007,46.5,41.0,41.0,46.5,5.5,Increase
+Zimbabwe,2008,52.0,46.5,46.5,52.0,5.5,Increase
+Zimbabwe,2009,55.5,52.0,52.0,55.5,3.5,Increase
+Zimbabwe,2010,59.0,55.5,55.5,59.0,3.5,Increase
+Zimbabwe,2011,56.0,59.0,59.0,56.0,-3.0,Decrease
+Zimbabwe,2012,58.0,56.0,56.0,58.0,2.0,Increase
+Zimbabwe,2013,60.0,58.0,58.0,60.0,2.0,Increase
+Zimbabwe,2014,61.0,60.0,60.0,61.0,1.0,Increase
+Zimbabwe,2015,58.0,61.0,61.0,58.0,-3.0,Decrease
+Zimbabwe,2016,59.0,58.0,58.0,59.0,1.0,Increase
+Zimbabwe,2017,59.0,59.0,59.0,59.0,0.0,No change
+Zimbabwe,2018,64.0,59.0,59.0,64.0,5.0,Increase
+Zimbabwe,2019,64.0,64.0,64.0,64.0,0.0,No change
+Zimbabwe,2020,65.0,64.0,64.0,65.0,1.0,Increase
+Zimbabwe,2021,65.0,65.0,65.0,65.0,0.0,No change
+eSwatini,2007,52.5,46.0,46.0,52.5,6.5,Increase
+eSwatini,2008,59.0,52.5,52.5,59.0,6.5,Increase
+eSwatini,2009,61.5,59.0,59.0,61.5,2.5,Increase
+eSwatini,2010,64.0,61.5,61.5,64.0,2.5,Increase
+eSwatini,2011,63.0,64.0,64.0,63.0,-1.0,Decrease
+eSwatini,2012,66.0,63.0,63.0,66.0,3.0,Increase
+eSwatini,2013,66.0,66.0,66.0,66.0,0.0,No change
+eSwatini,2014,70.0,66.0,66.0,70.0,4.0,Increase
+eSwatini,2015,67.0,70.0,70.0,67.0,-3.0,Decrease
+eSwatini,2016,67.0,67.0,67.0,67.0,0.0,No change
+eSwatini,2017,66.0,67.0,67.0,66.0,-1.0,Decrease
+eSwatini,2018,71.0,66.0,66.0,71.0,5.0,Increase
+eSwatini,2019,73.0,71.0,71.0,73.0,2.0,Increase
+eSwatini,2020,74.0,73.0,73.0,74.0,1.0,Increase
+eSwatini,2021,74.0,74.0,74.0,74.0,0.0,No change

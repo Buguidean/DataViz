@@ -1,144 +1,29 @@
 import altair as alt
 import pandas as pd
 import numpy as np
-import pycountry
-import json
 
-# Load data
-country_lists = pd.read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-09-09/country_lists.csv')
-rank_by_year = pd.read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/main/data/2025/2025-09-09/rank_by_year.csv')
+# Load precomputed data from CSVs
+region_year = pd.read_csv('region_year.csv')
+metrics_long = pd.read_csv('metrics_long.csv')
+country_year = pd.read_csv('country_year.csv')
 
-# Small cleaning
-rank_by_year.loc[rank_by_year['country'] == 'Namibia', 'code'] = 'NA'
-country_lists.loc[country_lists['country'] == 'Namibia', 'code'] = 'NA'
-# Population data only up to 2024
-rank_by_year = rank_by_year[rank_by_year['year'] != 2025]
+# Q2 data
+steps = pd.read_csv('steps.csv')
+vfc_start = pd.read_csv('vfc_start.csv')
+delta_df = pd.read_csv('delta_df.csv')
 
-# Pivot: countries as rows, years as columns
-df_pivot = rank_by_year.pivot_table(index=['country', 'code', 'region'],
-                                    columns='year', values='visa_free_count',
-                                    fill_value=0.0)
+# Q3 data
+covid_vfc = pd.read_csv('covid_vfc.csv')
+cv_max_delta_df = pd.read_csv('cv_max_delta_df.csv')
 
-# Interpolate 2007 and 2009 data from neighbours
-for year in [2007, 2009]:
-    prev_year, next_year = year - 1, year + 1
-    mask = (
-        (df_pivot[year] == 0.0) &
-        (df_pivot[prev_year] != 0.0) &
-        (df_pivot[next_year] != 0.0)
-    )
-    df_pivot.loc[mask, year] = (df_pivot.loc[mask, prev_year] + df_pivot.loc[mask, next_year]) / 2
-
-# Melt back to long format
-df_long = (
-    df_pivot.reset_index()
-    .melt(id_vars=['country', 'code', 'region'], var_name='year', value_name='visa_free_count')
-)
-
-df_long['year'] = df_long['year'].astype(int)
-rank_by_year = df_long.copy()
-# rank_by_year
-
-population_by_year = pd.read_csv('population_clean.csv')
-
-# Drop region codes (except XKX/Kosovo)
-codes_to_drop = [
-    'AFE', 'AFW', 'ARB', 'CEB', 'CHI', 'CSS', 'EAP', 'EAR', 'EAS', 'ECA', 'ECS', 'EMU', 'EUU', 'FCS',
-    'HIC', 'HPC', 'IBD', 'IBT', 'IDA', 'IDB', 'IDX', 'LAC', 'LCN', 'LDC', 'LIC', 'LMC', 'LMY', 'LTE',
-    'MEA', 'MIC', 'MNA', 'NAC', 'OED', 'OSS', 'PRE', 'PSS', 'PST', 'SAS', 'SSA', 'SSF', 'SST', 'TEA',
-    'TEC', 'TLA', 'TMN', 'TSA', 'TSS', 'UMC', 'WLD'
-]
-population_by_year = population_by_year[~population_by_year['code'].isin(codes_to_drop)]
-
-code3_to_code2 = {c.alpha_3: c.alpha_2 for c in pycountry.countries}
-population_by_year['code'] = population_by_year['code'].map(code3_to_code2)
-population_by_year.loc[population_by_year['code'].isna(), 'code'] = 'XK'
-
-# Filter for country codes in rank_by_year
-country_codes = rank_by_year['code'].unique()
-f_population_by_year = population_by_year[population_by_year['code'].isin(country_codes)]
-
-year_columns = [col for col in f_population_by_year.columns if col.isdigit()]
-pop_long = f_population_by_year.melt(id_vars=['code'], value_vars=year_columns, var_name='year', value_name='population')
-
-# Taiwan and Vatican average populations
-taiwan_population = 23500000  # Taiwan average population
-vatican_population = 800      # Vatican City average population
-
-years = list(range(2006, 2025))
-
-extra_pops = pd.DataFrame([
-    {'code': 'TW', 'year': year, 'population': taiwan_population} for year in years
-] + [
-    {'code': 'VA', 'year': year, 'population': vatican_population} for year in years
-])
-
-pop_long = pd.concat([pop_long, extra_pops], ignore_index=True)
-pop_long['year'] = pop_long['year'].astype(int)
-rank_by_year['year'] = rank_by_year['year'].astype(int)
-
-# Merge
-rank_with_pop = rank_by_year.merge(
-    pop_long,
-    left_on=['code', 'year'],
-    right_on=['code', 'year'],
-    how='left'
-)
-
-code2_to_code3 = {c.alpha_2: c.alpha_3 for c in pycountry.countries}
-code2_to_code3['XK'] = 'KOS'  # Kosovo special case
-code2_to_code3['TW'] = 'TWN'  # Taiwan
-code2_to_code3['VA'] = 'VAT'  # Vatican
-
-# Add code3 column to rank_with_pop for the map visualization
-rank_with_pop['code3'] = rank_with_pop['code'].map(code2_to_code3)
-# rank_with_pop
-
-df = rank_with_pop.copy()
-
-# REGION-YEAR metrics for bars + trend
-g = df.groupby(['region', 'year'], dropna=False)
-region_year = g.agg(
-    mean_vfc_unweighted=('visa_free_count', 'mean'),
-    sum_pop=('population', 'sum')
-).reset_index()
-
-# Weighted mean = sum(vfc * pop) / sum(pop)
-tmp = df.assign(wvfc=df['visa_free_count'] * df['population'])
-sum_wvfc = tmp.groupby(['region', 'year'], dropna=False)['wvfc'].sum(min_count=1).reset_index(name='sum_wvfc')
-region_year = region_year.merge(sum_wvfc, on=['region', 'year'], how='left')
-region_year['mean_vfc_weighted'] = region_year['sum_wvfc'] / region_year['sum_pop']
-
-metrics_long = region_year.melt(
-    id_vars=['region', 'year'],
-    value_vars=['mean_vfc_unweighted', 'mean_vfc_weighted'],
-    var_name='metric',
-    value_name='value'
-).replace({'metric': {
-    'mean_vfc_unweighted': 'Unweighted mean',
-    'mean_vfc_weighted': 'Population-weighted mean'
-}})
-
-# COUNTRY-YEAR metrics for map
-country_year = (
-    df.groupby(['code3', 'country', 'region', 'year'], as_index=False)
-      .agg(vfc=('visa_free_count', 'first'),
-           pop=('population', 'first'))
-)
-country_year['wvfc'] = country_year['vfc'] * country_year['pop']
-region_year_sum = (
-    country_year.groupby(['region', 'year'], as_index=False)['wvfc']
-                .sum()
-                .rename(columns={'wvfc': 'region_sum_wvfc'})
-)
-country_year = country_year.merge(region_year_sum, on=['region', 'year'], how='left')
-country_year['contrib'] = country_year['wvfc'] / country_year['region_sum_wvfc']
-# Composite key for dynamic year lookup on the map
-country_year['lookup_key'] = country_year['code3'].astype(str) + '_' + country_year['year'].astype(str)
+# Q4 data
+complete_us_access = pd.read_csv('complete_us_access.csv')
+f_long_us_access = pd.read_csv('f_long_us_access.csv')
+hi_df = pd.read_csv('hi_df.csv')
 
 # Controls
-min_year = int(df['year'].min())
-max_year = int(df['year'].max())
+min_year = int(country_year['year'].min())
+max_year = int(country_year['year'].max())
 
 year_sel = alt.param(
     name='Year',
@@ -353,70 +238,6 @@ delta_metric_sel = alt.param(
     value='YoY',
     bind=alt.binding_radio(options=['YoY', 'Overall'], name='Delta metric: ')
 )
-
-# ------------------------
-# Data for waterfall
-# ------------------------
-vfc_all = (
-    rank_by_year[['country', 'year', 'visa_free_count']]
-    .dropna(subset=['visa_free_count'])
-    .query("@start_year <= year <= @end_year")
-    .sort_values(['country', 'year'])
-    .copy()
-)
-
-steps = vfc_all.copy()
-steps['prev_vfc'] = steps.groupby('country')['visa_free_count'].shift(1)
-steps = steps[(steps['year'] > start_year) & steps['prev_vfc'].notna()].copy()
-
-steps['y0']    = steps['prev_vfc']
-steps['y1']    = steps['visa_free_count']
-steps['delta'] = steps['y1'] - steps['y0']
-steps['sign']  = np.where(steps['delta'] > 0, 'Increase',
-                 np.where(steps['delta'] < 0, 'Decrease', 'No change'))
-
-# Start-year values for all countries (for the first bar marker)
-vfc_start = vfc_all[vfc_all['year'] == start_year].copy()
-
-# ------------------------
-# Data for map
-# ------------------------
-vfc = (
-    rank_with_pop[['code3', 'country', 'region', 'year', 'visa_free_count']]
-    .dropna(subset=['visa_free_count'])
-    .query("@start_year <= year <= @end_year")
-    .sort_values(['code3', 'year'])
-    .copy()
-)
-
-def add_prev_vfc(df):
-    df['prev_vfc'] = df['visa_free_count'].shift(1)
-    return df
-
-aug_vfc = (
-    vfc
-    .groupby('code3', group_keys=False)
-    .apply(add_prev_vfc)
-    .reset_index(drop=True)
-)
-aug_vfc['delta'] = aug_vfc['visa_free_count'] - aug_vfc['prev_vfc']
-
-# Find the row with the largest abs(delta)
-idx = aug_vfc.groupby(['code3', 'country', 'region'])['delta'].apply(lambda x: x.abs().idxmax())
-max_delta_df = aug_vfc.loc[idx, ['code3', 'country', 'region', 'year', 'delta']].reset_index(drop=True)
-max_delta_df.rename(columns={'delta': 'max_delta'}, inplace=True)
-max_delta_df['max_abs_delta'] = max_delta_df['max_delta'].abs()
-
-# Filter rows
-df_start = vfc[vfc['year'] == start_year][['code3', 'visa_free_count']].rename(columns={'visa_free_count': 'vfc_start'})
-df_end = vfc[vfc['year'] == end_year][['code3', 'country', 'region', 'visa_free_count']].rename(columns={'visa_free_count': 'vfc_end'})
-
-# Merge
-delta_long_df = df_end.merge(df_start, on='code3', how='left')
-delta_long_df['ov_delta'] = delta_long_df['vfc_end'] - delta_long_df['vfc_start']
-delta_long_df['ov_abs_delta'] = delta_long_df['ov_delta'].abs()
-
-delta_df = max_delta_df.merge(delta_long_df, on=['code3', 'country', 'region'], how='left')
 
 # Controls (with default values)
 country_pick = alt.selection_point(
@@ -698,17 +519,6 @@ q2_final = alt.hconcat(
     }
 )
 
-cv_start_year = 2020
-cv_end_year = 2022
-covid_vfc = (
-    rank_with_pop[['code3', 'country', 'region', 'year', 'visa_free_count']]
-    .dropna(subset=['visa_free_count'])
-    .query("@cv_start_year <= year <= @cv_end_year")
-    .sort_values(['code3', 'year'])
-    .copy()
-)
-# covid_vfc
-
 covid_trend = (
   alt.Chart(covid_vfc)
   .mark_line(point=True)
@@ -722,24 +532,6 @@ covid_trend = (
       title='Trend by region of mean visa-free destinations'
   )
 )
-
-cv_aug_vfc = (
-    covid_vfc
-    .groupby('code3', group_keys=False)
-    .apply(add_prev_vfc)
-    .reset_index(drop=True)
-)
-
-cv_aug_vfc['delta'] = cv_aug_vfc['visa_free_count'] - cv_aug_vfc['prev_vfc']
-
-# Find the row with the largest abs(delta)
-idx = cv_aug_vfc.groupby(['code3', 'country', 'region'])['delta'].apply(lambda x: x.abs().idxmax())
-cv_max_delta_df = cv_aug_vfc.loc[idx, ['code3', 'country', 'region', 'year', 'delta']].reset_index(drop=True)
-
-# Add absolute value of delta for sorting
-cv_max_delta_df['abs_delta'] = cv_max_delta_df['delta'].abs()
-cv_max_delta_df = cv_max_delta_df.sort_values('abs_delta', ascending=False).reset_index(drop=True)
-# cv_max_delta_df
 
 cv_bar_top = (
     alt.Chart(cv_max_delta_df)
@@ -790,100 +582,6 @@ q3_final = alt.hconcat(
     title='Q3: What was the impact of COVID-19 on visa-free mobility?'
 )
 
-def parse_and_flatten(cell):
-    root = json.loads(cell.strip())
-    flat = []
-
-    def _flatten(obj):
-        if isinstance(obj, dict):
-            flat.append(obj)
-        elif isinstance(obj, list):
-            for item in obj:
-                _flatten(item)
-
-    _flatten(root)
-    return flat
-
-def extract_codes(cell):
-    return {str(d.get("code", "")).upper() for d in parse_and_flatten(cell)}
-
-def first_matching_category(row):
-    return next((col for col in free_cols if "US" in row[col]), None)
-
-free_cols = ["visa_free_access", "electronic_travel_authorisation", "visa_on_arrival"]
-codes_df = country_lists[free_cols].applymap(extract_codes)
-access_category = codes_df.apply(first_matching_category, axis=1)
-
-us_access = country_lists.loc[:, ["code", "country"]].copy()
-us_access["us_visa_free_flag"] = access_category.notna().astype(int)
-# us_access
-
-code2_to_code3 = {c.alpha_2: c.alpha_3 for c in pycountry.countries}
-code2_to_code3['XK'] = 'KOS'  # Kosovo special case
-code2_to_code3['TW'] = 'TWN'  # Taiwan
-code2_to_code3['VA'] = 'VAT'  # Vatican
-
-# Add code3 column to us_access
-us_access['code3'] = us_access['code'].map(code2_to_code3)
-# Set visa-free to USA form the USA to true
-us_access.loc[us_access['code3'] == 'USA', 'us_visa_free_flag'] = 1
-# us_access
-
-income_group = pd.read_csv('income_group_clean.csv')
-
-code3_to_code2 = {c.alpha_3: c.alpha_2 for c in pycountry.countries}
-income_group['code'] = income_group['code'].map(code3_to_code2)
-income_group.loc[income_group['code'].isna(), 'code'] = 'XK'
-
-# Filter for country codes in rank_by_year
-country_codes = rank_by_year['code'].unique()
-f_income_group = income_group[income_group['code'].isin(country_codes)].copy()
-
-code2_to_code3 = {c.alpha_2: c.alpha_3 for c in pycountry.countries}
-code2_to_code3['XK'] = 'KOS'  # Kosovo special case
-code2_to_code3['TW'] = 'TWN'  # Taiwan
-code2_to_code3['VA'] = 'VAT'  # Vatican
-
-# Add code3 column to f_income_group
-f_income_group['code3'] = f_income_group['code'].map(code2_to_code3)
-f_income_group.drop(columns=['code','country_name'],inplace=True)
-
-# Merge
-complete_us_access = us_access.merge(
-    f_income_group,
-    on='code3',
-    how='left'
-)
-complete_us_access = complete_us_access[~complete_us_access['code3'].isin(['VAT'])]
-NATO = [
-    'ALB','BEL','BGR','CAN','HRV','CZE','DNK','EST','FIN','FRA','DEU','GRC',
-    'HUN','ISL','ITA','LVA','LTU','LUX','MNE','NLD','MKD','NOR','POL','PRT',
-    'ROU','SVK','SVN','ESP','SWE','TUR','GBR','USA'
-]
-CSTO = ['ARM','BLR','KAZ','KGZ','RUS','TJK']
-TIAR = [
-    'ARG','BHS','BOL','BRA','CHL','COL','CRI','CUB','DOM','ECU','ELS','GTM',
-    'GUY','HTI','HND','JAM','MEX','NIC','PAN','PAR','PER','SUR','TRI','URY','USA','VEN'
-]
-complete_us_access['us_visa_free_label'] = complete_us_access['us_visa_free_flag'].map({0: "Not Visa Free", 1: "Visa Free"})
-complete_us_access['is_nato_member'] = complete_us_access['code3'].isin(NATO).astype(int)
-complete_us_access['is_csto_member'] = complete_us_access['code3'].isin(CSTO).astype(int)
-complete_us_access['is_tiar_member'] = complete_us_access['code3'].isin(TIAR).astype(int)
-
-long_us_access = complete_us_access.melt(
-    id_vars=['country', 'code3', 'us_visa_free_flag', 'us_visa_free_label'],
-    value_vars=['is_nato_member', 'is_csto_member', 'is_tiar_member'],
-    var_name='alliance',
-    value_name='membership'
-)
-f_long_us_access = long_us_access[long_us_access['membership'] == 1].copy()
-# f_long_us_access
-
-f_long_us_access['alliance'] = f_long_us_access['alliance'].replace({
-    'is_nato_member': 'NATO',
-    'is_csto_member': 'CSTO',
-    'is_tiar_member': 'TIAR'
-})
 alliace_chart = alt.Chart(f_long_us_access).mark_bar().encode(
     x=alt.X(
         'alliance:N',
