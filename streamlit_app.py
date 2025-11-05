@@ -6,4 +6,4 @@ st.set_page_config(
 )
 
 st.title("Visa-Free Destinations: Global Trends and Changes")
-st.altair_chart(final_dashboard, use_container_width=True)
+st.altair_chart(final_dashboard)
